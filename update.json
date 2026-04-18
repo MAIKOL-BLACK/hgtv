@@ -14,7 +14,7 @@
     "Nuevos canales agregados"
   ],
 
-  "maintenance": false,
+  "maintenance": true,
   "maintenance_message": "La app está en mantenimiento. Intenta más tarde.",
 
   "min_supported_version": 5,
