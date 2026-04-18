@@ -32,13 +32,6 @@
                 "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "Tigo Sport 24/7 Opc. 3",
-                "url": "https://stmv1.voxtvhd.com.br/toplatin1/toplatin1/playlist.m3u8",
-                "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
