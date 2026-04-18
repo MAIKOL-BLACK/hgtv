@@ -29,60 +29,6 @@
         ]
     },
     {
-        "name": "⏩ESPN DISNEY+ ⏪⚽️",
-        "samples": [
-            {
-                "name": "ESPN Disney+ 1",
-                "url": "http://181.78.7.90:12500/play/a0dr/index.m3u8",
-                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN Disney+ 3",
-                "url": "http://181.78.7.90:12500/play/a0nb/index.m3u8",
-                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN Disney+ 4",
-                "url": "http://181.78.7.90:12500/play/a0nb/index.m3u8",
-                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN Disney+ 2",
-                "url": "http://181.78.7.90:12500/play/a0mm/index.m3u8",
-                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN Disney+ 5",
-                "url": "http://181.78.7.90:12500/play/a0n7/index.m3u8",
-                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN Disney+ 6",
-                "url": "http://181.78.7.90:12500/play/a0il/index.m3u8",
-                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN Disney+ 7",
-                "url": "http://181.78.7.90:12500/play/a0k5/index.m3u8",
-                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "CANALES PARAGUAYO",
         "samples": [
             {
