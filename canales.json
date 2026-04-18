@@ -29,25 +29,6 @@
         ]
     },
     {
-        "name": "LIBERTADORES",
-        "samples": [
-            {
-                "name": "FOX SPORT AR",
-                "url": "https://latam-cache-sv2-cdn.latamlive.net/FOX_SPORTS_HD_AR_ENC_LIVE/index.mpd",
-                "icono": "https://i.ibb.co/VpmSTrq8/Logo-Fox-Sports-Argentina-2023-copy-1350x900.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Flamengo vs Independiente  Medellin",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/espn.m3u8",
-                "icono": "https://i.postimg.cc/KcMCvYFR/619146924380d.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "⏩ESPN DISNEY+ ⏪⚽️",
         "samples": [
             {
