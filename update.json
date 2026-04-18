@@ -1,0 +1,26 @@
+{
+  "show": true,
+  "version": 7,
+  "force": true,
+
+  "title": "Actualización disponible",
+  "message": "Debes actualizar la aplicación para continuar usando el servicio.",
+
+  "update_url": "https://tuservidor.com/app.apk",
+
+  "features": [
+    "Mejoras de rendimiento",
+    "Corrección de errores",
+    "Nuevos canales agregados"
+  ],
+
+  "maintenance": false,
+  "maintenance_message": "La app está en mantenimiento. Intenta más tarde.",
+
+  "min_supported_version": 5,
+
+  "dialog": {
+    "cancel_text": "Después",
+    "update_text": "Actualizar ahora"
+  }
+}
