@@ -704,7 +704,7 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "SKY SPORT F1 EVENTOS FHD",
+                "name": "SKY SPORT F1 EVENTOS",
                 "url": "https://zap-live4-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
                 "icono": "https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png",
                 "type": "CLEARKEY",
@@ -716,7 +716,7 @@
                 }
             },
             {
-                "name": "SKY F1 OPC2",
+                "name": "SKY F1 OPC. 2",
                 "url": "http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/97863.m3u8",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",
                 "type": "HLS",
