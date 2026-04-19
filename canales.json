@@ -788,7 +788,7 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "TELEMUNDO DEPORTE AHORA",
+                "name": "TELEMUNDO DEPORTE",
                 "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(telemundodeportes)/master.mpd",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Telemundo_Deportes_Logo.png",
                 "type": "CLEARKEY",
