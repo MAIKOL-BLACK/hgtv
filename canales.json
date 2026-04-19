@@ -2036,7 +2036,7 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "Novelísima",
+                "name": "NOVELISIMA",
                 "url": "https://novelisimaottera-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8",
                 "type": "CLEARKEY",
                 "icono": "https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/800/542/0/0/68355397076898.png",
@@ -2317,7 +2317,7 @@
         "name": "EVENTOS PRUEBAS⚽️",
         "samples": [
             {
-                "name": "Evento 1",
+                "name": "EVENTO 1",
                 "url": "http://177.53.152.117:8000/play/a07t/index.m3u8",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
                 "type": "HLS",
