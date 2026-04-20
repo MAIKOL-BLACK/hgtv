@@ -289,16 +289,16 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "TROPICALIA",
-                "url": "https://rds3gen.desdeparaguay.net/tropicaliatv/tropicaliatv_py_alta/index.m3u8?admin=nacion",
-                "icono": "",
+                "name": "HEI",
+                "url": "https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
+                "icono": "https://i.postimg.cc/DZn4FC6N/images-(5).webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
             {
-                "name": "HEI",
-                "url": "https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
-                "icono": "https://i.postimg.cc/DZn4FC6N/images-(5).webp",
+                "name": "TROPICALIA",
+                "url": "https://rds3gen.desdeparaguay.net/tropicaliatv/tropicaliatv_py_alta/index.m3u8?admin=nacion",
+                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
