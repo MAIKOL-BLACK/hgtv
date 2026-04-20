@@ -753,13 +753,6 @@
                 "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "DIRECTV SPORT",
-                "url": "http://190.108.89.228:8000/play/a05w/index.m3u8",
-                "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
@@ -779,6 +772,13 @@
                 "icono": "https://i.postimg.cc/Kjn1rpX0/tyc-sports9267-logowik-com.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b"
+            },
+            {
+                "name": "DIRECTV SPORT",
+                "url": "http://190.108.89.228:8000/play/a05w/index.m3u8",
+                "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "name": "BEIN SPORTS  Ñ",
