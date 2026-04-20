@@ -261,6 +261,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "NPY",
+                "url": "https://rds3gen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/noticias-py_17ff9a389b4a40c8ad3f3be73acfc21e.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "POPU TV",
                 "url": "https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion",
                 "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
@@ -278,13 +285,6 @@
                 "name": "HEI",
                 "url": "https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFwSPG_-lxooUYCupG7_-e2yPX_57oBXCdg&s",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "NPY",
-                "url": "https://rds3gen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/noticias-py_17ff9a389b4a40c8ad3f3be73acfc21e.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
