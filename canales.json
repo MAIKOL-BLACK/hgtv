@@ -1104,7 +1104,7 @@
             {
                 "name": "ESPN 4 MEXICO",
                 "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-EXTRA-HD/default.mpd",
-                "icono": "https://i.postimg.cc/jdsBy87Y/large-ESPN4-png-eb49e6eecab0c1a9e2c758279e2a6784.png",
+                "icono": "https://i.postimg.cc/SxYd98VP/ESPN-4.jpg",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=a1b8099b64726abc7723e17829b43a55&key=908a93fe41acf07538c88c1b30277656",
                 "headers": {
