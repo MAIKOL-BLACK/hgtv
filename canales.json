@@ -186,6 +186,13 @@
                 "icono": "https://i.postimg.cc/hj5TKLYF/images-(1)-1.webp"
             },
             {
+                "name": "CANAL PRO PY",
+                "url": "https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NzkzODgwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjgzYWI4MTczMDc3YmI5MGIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjk5Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.oHVmiLEhqNS7Y4KLkl_Oroajs08kyC_GYWnO_he4sUKG3kLscp1spTvEbznxvAesCEBswxkTe3f2MnQLsgR9BA==/live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8df0f1a1e05e9c6a438e23a87c9d06ea&key=5df74d374a2a8a871463e7c438fa3ba7",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/pro-tv_5213785b8d11460088c18fbb0612e87b.png"
+            },
+            {
                 "name": "HEI NEW",
                 "url": "https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NzkzODgwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjgzYWI4MTczMDc3YmI5MGIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjk5Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.oHVmiLEhqNS7Y4KLkl_Oroajs08kyC_GYWnO_he4sUKG3kLscp1spTvEbznxvAesCEBswxkTe3f2MnQLsgR9BA==/live/c4eds/HEI_NOW/SA_Live_dash_enc_C/HEI_NOW.mpd",
                 "type": "CLEARKEY",
@@ -198,13 +205,6 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
                 "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png"
-            },
-            {
-                "name": "CANAL PRO PY",
-                "url": "https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NzkzODgwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjgzYWI4MTczMDc3YmI5MGIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjk5Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.oHVmiLEhqNS7Y4KLkl_Oroajs08kyC_GYWnO_he4sUKG3kLscp1spTvEbznxvAesCEBswxkTe3f2MnQLsgR9BA==/live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8df0f1a1e05e9c6a438e23a87c9d06ea&key=5df74d374a2a8a871463e7c438fa3ba7",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/pro-tv_5213785b8d11460088c18fbb0612e87b.png"
             },
             {
                 "name": "UNION TV",
