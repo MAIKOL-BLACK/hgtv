@@ -767,16 +767,16 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "DIRECTV 2",
-                "url": "http://167.17.67.240:8888/Dsportsmas/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.postimg.cc/x1WqhS0P/Direc-TV-Sports-2-2015.png",
+                "name": "DIRECTV SPORT 2",
+                "url": "http://167.17.67.240:8888/dsport2colombia/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.postimg.cc/6q1mccdn/Y2gw-MTAw-MDAw-MDAw-MTI4X2xpbm-Vhcl9ja-GFubm-Vs-X3Nzb-GE-11002-LOGO-360x270.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
             {
-                "name": "DIRECTV SPORT 2",
-                "url": "http://167.17.67.240:8888/dsport2colombia/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.postimg.cc/6q1mccdn/Y2gw-MTAw-MDAw-MDAw-MTI4X2xpbm-Vhcl9ja-GFubm-Vs-X3Nzb-GE-11002-LOGO-360x270.png",
+                "name": "DIRECTV 2",
+                "url": "http://167.17.67.240:8888/Dsportsmas/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.postimg.cc/x1WqhS0P/Direc-TV-Sports-2-2015.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
@@ -792,7 +792,7 @@
                 "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-                "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg"
+                "icono": "https://i.postimg.cc/fbtqWYn8/XTRA-2.png"
             },
             {
                 "name": "WIN SPORTS",
