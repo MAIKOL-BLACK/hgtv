@@ -739,13 +739,6 @@
                 "icono": "http://miarea.vip:8080/images/f0d5e6d2ffddd56c53d3e2ad57261b00.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "DIRECTV OPC 2",
-                "url": "http://177.53.152.117:8000/play/a07d/index.m3u8",
-                "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
@@ -758,6 +751,13 @@
                 "icono": "https://i.postimg.cc/D0zrCKgw/TNT-Sports-2021-logo-svg.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a"
+            },
+            {
+                "name": "DIRECTV OPC 2",
+                "url": "http://177.53.152.117:8000/play/a07d/index.m3u8",
+                "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "name": "TYC SPORT",
