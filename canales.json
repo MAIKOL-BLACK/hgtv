@@ -432,6 +432,67 @@
         ]
     },
     {
+        "name": "BRASIL",
+        "samples": [
+            {
+                "name": "GLOBO RPC",
+                "url": "http://localhost.apppelis.es/solplay/32.mpd",
+                "icono": "https://i.postimg.cc/bJVZ6fWq/TVRPC-r3v1zmq1l7px0at9b161d7gdq4fbavrcijsfsevtls.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "GLOBO RBS",
+                "url": "http://localhost.apppelis.es/solplay/31.mpd",
+                "icono": "https://i.postimg.cc/c443MTbp/RBS-TV-Globo-Audiencia.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SBT",
+                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
+                "icono": "https://i.postimg.cc/nzccmSdZ/Logo-SBT.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RECORD ",
+                "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8",
+                "icono": "https://i.postimg.cc/cLBv83s5/record.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RECORD NEWS",
+                "url": "http://localhost.apppelis.es/solplay/36.mpd",
+                "icono": "https://i.postimg.cc/m2w4YyHr/NOVA-MARCA-RECORD-NEWS-1-scaled.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BAND ",
+                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
+                "icono": "https://i.postimg.cc/ZRTFdZt9/1-band-canal-2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "REDE TV",
+                "url": "http://localhost.apppelis.es/solplay/39.mpd",
+                "icono": "https://i.postimg.cc/RFDd58yD/rede-tv-logo-png-seeklogo-252503-V.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "AGRO CANAL",
+                "url": "http://localhost.apppelis.es/solplay/41.mpd",
+                "icono": "https://i.postimg.cc/sxgkKtSm/Agrocanal-V.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "DEPORTES BRASIL",
         "samples": [
             {
@@ -627,67 +688,6 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            }
-        ]
-    },
-    {
-        "name": "BRASIL",
-        "samples": [
-            {
-                "name": "GLOBO RPC",
-                "url": "http://localhost.apppelis.es/solplay/32.mpd",
-                "icono": "https://i.postimg.cc/bJVZ6fWq/TVRPC-r3v1zmq1l7px0at9b161d7gdq4fbavrcijsfsevtls.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "GLOBO RBS",
-                "url": "http://localhost.apppelis.es/solplay/31.mpd",
-                "icono": "https://i.postimg.cc/c443MTbp/RBS-TV-Globo-Audiencia.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "SBT",
-                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
-                "icono": "https://i.postimg.cc/nzccmSdZ/Logo-SBT.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RECORD ",
-                "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8",
-                "icono": "https://i.postimg.cc/cLBv83s5/record.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RECORD NEWS",
-                "url": "http://localhost.apppelis.es/solplay/36.mpd",
-                "icono": "https://i.postimg.cc/m2w4YyHr/NOVA-MARCA-RECORD-NEWS-1-scaled.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "BAND ",
-                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
-                "icono": "https://i.postimg.cc/ZRTFdZt9/1-band-canal-2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "REDE TV",
-                "url": "http://localhost.apppelis.es/solplay/39.mpd",
-                "icono": "https://i.postimg.cc/RFDd58yD/rede-tv-logo-png-seeklogo-252503-V.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "AGRO CANAL",
-                "url": "http://localhost.apppelis.es/solplay/41.mpd",
-                "icono": "https://i.postimg.cc/sxgkKtSm/Agrocanal-V.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
