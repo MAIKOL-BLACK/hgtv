@@ -760,7 +760,7 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "DIRECTV OPC 2",
+                "name": "DIRECTV SPORTS OPC 2",
                 "url": "http://177.53.152.117:8000/play/a07d/index.m3u8",
                 "icono": "https://i.postimg.cc/mDnY6566/dsports-2-2.png",
                 "type": "HLS",
