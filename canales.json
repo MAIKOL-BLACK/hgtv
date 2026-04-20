@@ -807,6 +807,13 @@
                 "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png"
             },
             {
+                "name": "TUDN USA",
+                "url": "http://185.56.109.251/Tudn/playlist.m3u8",
+                "icono": "https://i.ibb.co/PYrGvPt/tudn.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "RALLY TV",
                 "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
                 "type": "HLS",
@@ -830,13 +837,6 @@
                 "name": "FIFA+",
                 "url": "https://2b77fda3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtZXNfRklGQVBsdXNTcGFuaXNoX0hMUw/playlist.m3u8?ads.wurl_channel=1780&ads.wurl_name=FIFAPlusSpanish&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=6915",
                 "icono": "https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TUDN USA",
-                "url": "http://185.56.109.251/Tudn/playlist.m3u8",
-                "icono": "https://i.ibb.co/PYrGvPt/tudn.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
