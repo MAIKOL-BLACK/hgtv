@@ -282,6 +282,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "E40",
+                "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/estacion-40_2e6856af4ddd42d8bde713998d7aae8b.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "TROPICALIA",
                 "url": "https://rds3gen.desdeparaguay.net/tropicaliatv/tropicaliatv_py_alta/index.m3u8?admin=nacion",
                 "icono": "",
@@ -292,13 +299,6 @@
                 "name": "HEI",
                 "url": "https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
                 "icono": "https://i.postimg.cc/DZn4FC6N/images-(5).webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "E40",
-                "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/estacion-40_2e6856af4ddd42d8bde713998d7aae8b.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
