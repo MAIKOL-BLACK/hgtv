@@ -289,6 +289,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "EVENTOS FLOW 1",
+                "url": "https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NzkzODgwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjgzYWI4MTczMDc3YmI5MGIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjk5Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.oHVmiLEhqNS7Y4KLkl_Oroajs08kyC_GYWnO_he4sUKG3kLscp1spTvEbznxvAesCEBswxkTe3f2MnQLsgR9BA==/live/c3eds/Eventos1HD/SA_Live_dash_enc_wl/Eventos1HD.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5c86e237317c2231ac1bc130e995fad6&key=dcacf7b239ee03df3c69ca11dbcde4eb",
+                "icono": "https://i.postimg.cc/9frTqBtY/download-(50).png"
+            },
+            {
                 "name": "TROPICALIA",
                 "url": "https://rds3gen.desdeparaguay.net/tropicaliatv/tropicaliatv_py_alta/index.m3u8?admin=nacion",
                 "icono": "https://i.postimg.cc/v8j8tqn3/images-(5)-1.webp",
@@ -300,13 +307,6 @@
     {
         "name": "FLOW COPA DEL REY",
         "samples": [
-            {
-                "name": "EVENTOS FLOW 1",
-                "url": "https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NzkzODgwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjgzYWI4MTczMDc3YmI5MGIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjk5Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.oHVmiLEhqNS7Y4KLkl_Oroajs08kyC_GYWnO_he4sUKG3kLscp1spTvEbznxvAesCEBswxkTe3f2MnQLsgR9BA==/live/c3eds/Eventos1HD/SA_Live_dash_enc_wl/Eventos1HD.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5c86e237317c2231ac1bc130e995fad6&key=dcacf7b239ee03df3c69ca11dbcde4eb",
-                "icono": "https://i.postimg.cc/9frTqBtY/download-(50).png"
-            },
             {
                 "name": "EVENTOS FLOW 2",
                 "url": "https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NzkzODgwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjgzYWI4MTczMDc3YmI5MGIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjk5Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.oHVmiLEhqNS7Y4KLkl_Oroajs08kyC_GYWnO_he4sUKG3kLscp1spTvEbznxvAesCEBswxkTe3f2MnQLsgR9BA==/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_wl/Eventos_2_HD.mpd",
