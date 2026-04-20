@@ -1459,7 +1459,7 @@
             {
                 "name": "ESPN 4 ECUADOR",
                 "url": "http://190.83.15.112:8000/play/a081/index.m3u8?hls",
-                "icono": "http://miarea.vip:8080/images/ab58cdb49829e50448eddbd3461ed4da.png",
+                "icono": "https://i.postimg.cc/L5WJNMtq/Espn4logo.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
