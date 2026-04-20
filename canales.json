@@ -755,13 +755,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "TNT SPORT",
-                "url": "https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NzkzODgwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjgzYWI4MTczMDc3YmI5MGIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjk5Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.oHVmiLEhqNS7Y4KLkl_Oroajs08kyC_GYWnO_he4sUKG3kLscp1spTvEbznxvAesCEBswxkTe3f2MnQLsgR9BA==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
-                "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a"
-            },
-            {
                 "name": "DIRECTV SPORT 2",
                 "url": "http://167.17.67.240:8888/Dsportsmas/tracks-v1a1/mono.m3u8",
                 "icono": "http://miarea.vip:8080/images/f0d5e6d2ffddd56c53d3e2ad57261b00.png",
@@ -780,6 +773,13 @@
     {
         "name": "DEPORTES VARIADOS",
         "samples": [
+            {
+                "name": "TNT SPORT",
+                "url": "https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NzkzODgwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjgzYWI4MTczMDc3YmI5MGIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjk5Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.oHVmiLEhqNS7Y4KLkl_Oroajs08kyC_GYWnO_he4sUKG3kLscp1spTvEbznxvAesCEBswxkTe3f2MnQLsgR9BA==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
+                "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a"
+            },
             {
                 "name": "BEIN SPORTS  Ñ",
                 "url": "https://vt-ip.vodep39240327.workers.dev/2585.m3u8",
