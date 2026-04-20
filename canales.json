@@ -254,6 +254,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "MONUMENTAL AM 1080 TV",
+                "url": "https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/monumental-fm_a475bc7540824a468ca857af6cd2fd84.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "POPU TV",
                 "url": "https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion",
                 "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
@@ -292,13 +299,6 @@
                 "name": "E40",
                 "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/estacion-40_2e6856af4ddd42d8bde713998d7aae8b.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "MONUMENTAL AM 1080 TV",
-                "url": "https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/monumental-fm_a475bc7540824a468ca857af6cd2fd84.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
