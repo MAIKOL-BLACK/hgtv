@@ -1080,7 +1080,7 @@
             {
                 "name": "ESPN 2 MEXICO",
                 "url": "https://zap-live4-ott.izzigo.tv/7/out/u/dash/ESPN-2-HD-H265/default.mpd",
-                "icono": "https://i.postimg.cc/G29skptb/ESPN2.png",
+                "icono": "https://i.postimg.cc/hPwmxtyv/espn-2-logo.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=faa2d2197cc44dc154650bbacb0dc238&key=9859d70c856660e20bbe6896f9cd3048",
                 "headers": {
