@@ -1674,6 +1674,67 @@
         ]
     },
     {
+        "name": "BRASIL",
+        "samples": [
+            {
+                "name": "GLOBO RPC",
+                "url": "http://localhost.apppelis.es/solplay/32.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/globo-rpc_3b35b67e24c04bf4b443c63b8e2cab66.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "GLOBO RBS",
+                "url": "http://localhost.apppelis.es/solplay/31.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/globo-rbs_bd1a0b1006da4081bef6189e60a76c36.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SBT",
+                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RECORD ",
+                "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/record_415eada9b66b40ac82e498324294f0d4.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RECORD NEWS",
+                "url": "http://localhost.apppelis.es/solplay/36.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/record-news_82e1824cfcf3478b8a6783b775409908.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BAND ",
+                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/band-sp_164506c8561547d49b9557724f86bab0.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "REDE TV",
+                "url": "http://localhost.apppelis.es/solplay/39.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/rede-tv_90b5423b189a4c43b1d86b3bfd12eee5.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "AGRO CANAL",
+                "url": "http://localhost.apppelis.es/solplay/41.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/agro-canal_49491f3da3d2411b80b6ea1a137ad9b6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "HBO Y UNIVERSAL",
         "samples": [
             {
@@ -1763,67 +1824,6 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            }
-        ]
-    },
-    {
-        "name": "BRASIL",
-        "samples": [
-            {
-                "name": "GLOBO RPC",
-                "url": "http://localhost.apppelis.es/solplay/32.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/globo-rpc_3b35b67e24c04bf4b443c63b8e2cab66.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "GLOBO RBS",
-                "url": "http://localhost.apppelis.es/solplay/31.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/globo-rbs_bd1a0b1006da4081bef6189e60a76c36.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "SBT",
-                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RECORD ",
-                "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/record_415eada9b66b40ac82e498324294f0d4.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RECORD NEWS",
-                "url": "http://localhost.apppelis.es/solplay/36.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/record-news_82e1824cfcf3478b8a6783b775409908.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "BAND ",
-                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/band-sp_164506c8561547d49b9557724f86bab0.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "REDE TV",
-                "url": "http://localhost.apppelis.es/solplay/39.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/rede-tv_90b5423b189a4c43b1d86b3bfd12eee5.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "AGRO CANAL",
-                "url": "http://localhost.apppelis.es/solplay/41.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/agro-canal_49491f3da3d2411b80b6ea1a137ad9b6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
