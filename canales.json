@@ -1384,6 +1384,32 @@
         ]
     },
     {
+        "name": "EVENTOS PRUEBAS",
+        "samples": [
+            {
+                "name": "EVENTOS 1",
+                "url": "http://177.53.152.117:8000/play/a07t/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "EVENTOS 2",
+                "url": "http://177.53.152.117:8000/play/a07l/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "EVENTOS 3",
+                "url": "http://177.53.152.117:8000/play/a07h/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "DEPORTES ECUADOR 🇪🇨",
         "samples": [
             {
@@ -1439,32 +1465,6 @@
                 "name": "ESPN PREMIUM ECUADOR",
                 "url": "http://190.83.15.112:8000/play/a0fa/index.m3u8?hls",
                 "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "EVENTOS PRUEBAS",
-        "samples": [
-            {
-                "name": "EVENTOS 1",
-                "url": "http://177.53.152.117:8000/play/a07t/index.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "EVENTOS 2",
-                "url": "http://177.53.152.117:8000/play/a07l/index.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "EVENTOS 3",
-                "url": "http://177.53.152.117:8000/play/a07h/index.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
