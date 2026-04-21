@@ -71,6 +71,13 @@
                 "icono": "https://i.ibb.co/6Kv9MXB/Picsart-26-04-14-01-09-43-170.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "Tigo Sport 24/7 Opc. 3",
+                "url": "https://stmv1.voxtvhd.com.br/toplatin1/toplatin1/playlist.m3u8",
+                "icono": "https://i.ibb.co/6Kv9MXB/Picsart-26-04-14-01-09-43-170.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
