@@ -847,6 +847,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "Directv sport 2",
+                "url": "http://167.17.67.240:8888/dsport2colombia/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.postimg.cc/c4sR3Qfq/images-(8).jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "BEIN SPORTS  Ñ",
                 "url": "https://vt-ip.vodep39240327.workers.dev/2585.m3u8",
                 "type": "HLS",
@@ -932,13 +939,6 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "name": "Directv sport 2",
-                "url": "http://167.17.67.240:8888/dsport2colombia/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.postimg.cc/c4sR3Qfq/images-(8).jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "DIRECTV SPORT",
