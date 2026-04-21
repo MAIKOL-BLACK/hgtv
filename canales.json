@@ -1298,6 +1298,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "FOX ONE PREMIER",
+                "url": "http://45.5.118.152:8000/play/a08d/index.m3u8",
+                "icono": "https://i.ibb.co/vCT26dgL/Picsart-26-04-15-13-07-16-659.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "CLARO SPORT MX 1",
                 "url": "http://181.78.192.238:8000/play/a2dj/index.m3u8",
                 "icono": "https://i.postimg.cc/L6KQVxgm/channels4-profile-(2).png",
@@ -1346,13 +1353,6 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "name": "FOX ONE PREMIER",
-                "url": "http://45.5.118.152:8000/play/a08d/index.m3u8",
-                "icono": "https://i.ibb.co/vCT26dgL/Picsart-26-04-15-13-07-16-659.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "TNT SPORT MX",
