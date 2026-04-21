@@ -1239,6 +1239,13 @@
                 }
             },
             {
+                "name": "ESPN 6 MX",
+                "url": "http://190.83.15.112:8000/play\\/a0bn/index.m3u8?hls",
+                "icono": "https://i.ibb.co\\/qF1krRnm/Picsart-26-04-15-15-05-32-602.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "FOX SPORT 2 MEXICO",
                 "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
                 "icono": "https://i.postimg.cc/1X9PnyS9/Fox-sports-3-mx.png",
@@ -1267,13 +1274,6 @@
                 "url": "http://181.78.192.238:8000/play/a2dj/index.m3u8",
                 "icono": "https://i.postimg.cc/L6KQVxgm/channels4-profile-(2).png",
                 "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 6 MX",
-                "url": "http://190.83.15.112:8000/play\\/a0bn/index.m3u8?hls",
-                "icono": "https://i.ibb.co\\/qF1krRnm/Picsart-26-04-15-15-05-32-602.png",
-                "type": "HLS",
                 "drm_license_uri": ""
             },
             {
