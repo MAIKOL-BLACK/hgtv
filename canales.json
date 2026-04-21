@@ -967,6 +967,13 @@
                 "icono": "https://i.ibb.co/gMJ28gnx/Nba.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=84077d18bcf234a42de3745be106a87f&key=aee3069c062ec8ee6bfdd32985f287ef"
+            },
+            {
+                "name": "TENNIS🎾",
+                "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
+                "icono": "https://i.ibb.co/svQQZ7n0/Picsart-26-04-16-19-32-01-592.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
