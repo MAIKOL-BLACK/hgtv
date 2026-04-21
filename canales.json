@@ -1263,6 +1263,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "ESPN 5 MX",
+                "url": "http://190.83.15.112:8000/play\\/a0dw/index.m3u8?hls",
+                "icono": "https://i.ibb.co/wN53g7v7/Picsart-26-04-15-15-02-15-062.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "CLARO SPORT MX 2",
                 "url": "http://181.78.192.238:8000/play/a2dk/index.m3u8",
                 "icono": "https://i.postimg.cc/kXmwSDLB/Claro-Sports2.png",
@@ -1292,13 +1299,6 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "name": "ESPN 5 MX",
-                "url": "http://190.83.15.112:8000/play\\/a0dw/index.m3u8?hls",
-                "icono": "https://i.ibb.co/wN53g7v7/Picsart-26-04-15-15-02-15-062.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "SKY SPORT EVENTOS 4",
