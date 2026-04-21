@@ -847,6 +847,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "Dsport 2",
+                "url": "http://104.250.128.34/livehttpplay?channel_id=23538",
+                "icono": "https://i.ibb.co/Xk43qvLv/dsports2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "DIRECTV SPORTS OPC 2",
                 "url": "http://177.53.152.117:8000/play/a07d/index.m3u8",
                 "icono": "https://i.postimg.cc/mDnY6566/dsports-2-2.png",
@@ -866,13 +873,6 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
                 "icono": "https://i.postimg.cc/fbtqWYn8/XTRA-2.png"
-            },
-            {
-                "name": "Dsport 2",
-                "url": "http://104.250.128.34/livehttpplay?channel_id=23538",
-                "icono": "https://i.ibb.co/Xk43qvLv/dsports2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "WIN SPORTS",
