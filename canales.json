@@ -2697,6 +2697,13 @@
                 "icono": "https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "DAZN BOXEO",
+                "url": "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8",
+                "icono": "https://i.ibb.co/R4g7xJZ5/Picsart-26-04-18-13-36-24-147.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
