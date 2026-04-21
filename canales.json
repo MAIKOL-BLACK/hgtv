@@ -1652,6 +1652,13 @@
                 "icono": "https://i.ibb.co/KcvN3cGb/8d2ae57bcfe0a8e33a2a70427c3ef38c.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "MI COCHE CLÁSICO",
+                "url": "https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8",
+                "icono": "https://i.ibb.co/S42qWG8Z/Clasi.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
