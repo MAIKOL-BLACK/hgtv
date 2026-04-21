@@ -374,6 +374,13 @@
                 "icono": "https://i.ibb.co/LhdYbjJQ/Picsart-26-04-18-08-54-34-664.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "VISIÓN TV VILLARICA",
+                "url": "https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8",
+                "icono": "https://i.ibb.co\\/YF53Z8jk\\/vision.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
