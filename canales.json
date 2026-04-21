@@ -43,20 +43,6 @@
                 "icono": "https://i.postimg.cc/jSSnCPdr/350-pg-nuevo.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "EVENTOS 1",
-                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e\\/index.mpd",
-                "icono": "https://i.ibb.co/SDFThKNt/Picsart-26-04-14-01-02-19-606.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "EVENTOS 2",
-                "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-                "icono": "https://i.ibb.co/NgcfWTDW/Picsart-26-04-14-01-04-14-098.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
