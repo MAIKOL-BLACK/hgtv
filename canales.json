@@ -974,6 +974,13 @@
                 "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "DIRECTV SPORT 2",
+                "url": "https://latam-cache-sv2-cdn.latamlive.net\\/DS1_ENC_LIVE/index.mpd",
+                "icono": "https://i.postimg.cc/tCGbWc6y/download-(55).png",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
             }
         ]
     },
