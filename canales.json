@@ -423,6 +423,13 @@
                 "icono": "https://i.postimg.cc/SxjrggH8/channels4-profile.webp"
             },
             {
+                "name": "TN 4K",
+                "url": "https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2OTE2MjgxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjMwMjZkNTlmMTA4ODQ5YTIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.-owCdsGp269u3aG3C2JXWWkxn0dPZcqZ6X1FZrqEIeYPalBVdJhOPER6KNUpWWRQZMeTA3KwqADrwvK59c3JQw==/live/c7eds/Todo_Noticias_4K/SA_Live_dash_widevine/Todo_Noticias_4K.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img\\/channels/tn_1da1649d275946c9a212a22d4ec5b38c.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat\\/api\\/license.php?keyid=2959bf95e218a7ec8a9ea434430b45e7&key=9727d27dc22ad3a63d94338f92b7a55a"
+            },
+            {
                 "name": "C5N",
                 "url": "https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2OTE2MjgxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjMwMjZkNTlmMTA4ODQ5YTIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.-owCdsGp269u3aG3C2JXWWkxn0dPZcqZ6X1FZrqEIeYPalBVdJhOPER6KNUpWWRQZMeTA3KwqADrwvK59c3JQw==/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd",
                 "type": "CLEARKEY",
@@ -442,13 +449,6 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352",
                 "icono": "https://i.postimg.cc/nryHNR0Z/images-1.webp"
-            },
-            {
-                "name": "TN 4K",
-                "url": "https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2OTE2MjgxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjMwMjZkNTlmMTA4ODQ5YTIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.-owCdsGp269u3aG3C2JXWWkxn0dPZcqZ6X1FZrqEIeYPalBVdJhOPER6KNUpWWRQZMeTA3KwqADrwvK59c3JQw==/live/c7eds/Todo_Noticias_4K/SA_Live_dash_widevine/Todo_Noticias_4K.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img\\/channels/tn_1da1649d275946c9a212a22d4ec5b38c.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat\\/api\\/license.php?keyid=2959bf95e218a7ec8a9ea434430b45e7&key=9727d27dc22ad3a63d94338f92b7a55a"
             },
             {
                 "name": "A24",
