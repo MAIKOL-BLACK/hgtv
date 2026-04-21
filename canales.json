@@ -922,6 +922,18 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "TELEMUNDO DEPORTE",
+                "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(telemundodeportes)/master.mpd",
+                "icono": "https://i.postimg.cc/KcMfHtnZ/Telemundo-Deportes-Logo.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=300b58dfdaf35e8537ce25c39e99aec7&key=6fc107a6f62f39da27b36ff079d7f937",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "RALLY TV",
                 "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
                 "type": "HLS",
@@ -941,18 +953,6 @@
                 "icono": "https://i.postimg.cc/VvWm73K4/images-(1).png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "TELEMUNDO DEPORTE",
-                "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(telemundodeportes)/master.mpd",
-                "icono": "https://i.postimg.cc/KcMfHtnZ/Telemundo-Deportes-Logo.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=300b58dfdaf35e8537ce25c39e99aec7&key=6fc107a6f62f39da27b36ff079d7f937",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
             },
             {
                 "name": "PÁDEL",
