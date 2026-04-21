@@ -1,6 +1,6 @@
 [
     {
-        "name": "FUTBOL PARAGUAYO",
+        "name": "FUTBOL PARAGUAYO 🇵🇾",
         "samples": [
             {
                 "name": "EVENTOS 1",
@@ -1280,13 +1280,6 @@
                 "name": "FOX ONE",
                 "url": "https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8",
                 "icono": "https://i.ibb.co/zqmBgKr/Picsart-26-04-15-12-47-40-810.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FOX ONE 2",
-                "url": "http://74.208.30.121:80/a181/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.ibb.co/vCT26dgL/Picsart-26-04-15-13-07-16-659.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
