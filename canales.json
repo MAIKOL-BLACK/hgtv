@@ -1358,6 +1358,13 @@
                 "icono": "https://i.ibb.co/wN53g7v7/Picsart-26-04-15-15-02-15-062.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 6 MX",
+                "url": "http://190.83.15.112:8000/play\\/a0bn/index.m3u8?hls",
+                "icono": "https://i.ibb.co\\/qF1krRnm/Picsart-26-04-15-15-05-32-602.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
