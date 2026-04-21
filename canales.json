@@ -1715,6 +1715,13 @@
                 "icono": "https://i.ibb.co/KzDcs7C0/Motorvision-TV-2016-II.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "Motor Sur 🇵🇾 🏎",
+                "url": "https://edge.enhdtv.com/8116/index.m3u8",
+                "icono": "https://i.ibb.co/RpRsNLpc/Picsart-26-04-15-00-41-24-258.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
