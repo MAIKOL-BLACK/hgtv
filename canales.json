@@ -346,6 +346,13 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img\\/channels/palma-fm_0b08013261c04e159014f4eb22b9f230.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "MI TV",
+                "url": "http://localhost.apppelis.es/solplay/180.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/mi-tv_2fbedc2b66b540a6a8070fe9f50137c6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
