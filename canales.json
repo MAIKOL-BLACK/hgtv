@@ -1645,6 +1645,13 @@
                 "icono": "https://i.postimg.cc/Jnxs9XLW/sky-sport-f1-logo-2x1.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "F1 TV",
+                "url": "https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8",
+                "icono": "https://i.ibb.co/KcvN3cGb/8d2ae57bcfe0a8e33a2a70427c3ef38c.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
