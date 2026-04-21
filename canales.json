@@ -2690,6 +2690,13 @@
                 "icono": "https://i.ibb.co/67T1kgch/uffc.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "PFL MMA",
+                "url": "https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8",
+                "icono": "https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
