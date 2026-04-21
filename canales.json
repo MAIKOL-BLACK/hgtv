@@ -1284,6 +1284,20 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "FOX +",
+                "url": "https://bks400-tol-110.quieroxview.com.mx/bpk-tv/fox_mas_hd/default/index.mpd",
+                "icono": "https://i.ibb.co/rR6vM7dD/Picsart-26-04-15-12-19-52-287.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=51710c9c227a4637991466ece1b3550e&key=831bfae1e16f4cc2cda5d620e6d1e96a"
+            },
+            {
+                "name": "FOX ONE EXTRA",
+                "url": "https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee99250598b5/playlist.m3u8",
+                "icono": "https://i.ibb.co/DfgvsPgp/Picsart-26-04-15-12-42-05-252.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "CLARO SPORT MX 1",
                 "url": "http://181.78.192.238:8000/play/a2dj/index.m3u8",
                 "icono": "https://i.postimg.cc/L6KQVxgm/channels4-profile-(2).png",
@@ -1332,20 +1346,6 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "name": "FOX +",
-                "url": "https://bks400-tol-110.quieroxview.com.mx/bpk-tv/fox_mas_hd/default/index.mpd",
-                "icono": "https://i.ibb.co/rR6vM7dD/Picsart-26-04-15-12-19-52-287.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=51710c9c227a4637991466ece1b3550e&key=831bfae1e16f4cc2cda5d620e6d1e96a"
-            },
-            {
-                "name": "FOX ONE EXTRA",
-                "url": "https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee99250598b5/playlist.m3u8",
-                "icono": "https://i.ibb.co/DfgvsPgp/Picsart-26-04-15-12-42-05-252.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "FOX ONE PREMIER",
