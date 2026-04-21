@@ -917,6 +917,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "Dsport plus",
+                "url": "http://104.250.128.34/livehttpplay?channel_id=23539",
+                "icono": "https://i.ibb.co/s9kwt5J8/Picsart-26-04-19-21-09-46-357.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "UFC",
                 "url": "https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8",
                 "icono": "https://i.postimg.cc/VvWm73K4/images-(1).png",
@@ -946,13 +953,6 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "name": "Dsport plus",
-                "url": "http://104.250.128.34/livehttpplay?channel_id=23539",
-                "icono": "https://i.ibb.co/s9kwt5J8/Picsart-26-04-19-21-09-46-357.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
