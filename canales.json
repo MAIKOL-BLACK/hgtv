@@ -64,13 +64,6 @@
                 "icono": "https:\\/\\/i.ibb.co\\/Tx2jLptV\\/Imge.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "TIGO 24/7 Opc.1",
-                "url": "https://live.enhdtv.com:8081/8148/index.m3u8",
-                "icono": "https://i.ibb.co/6Kv9MXB/Picsart-26-04-14-01-09-43-170.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
