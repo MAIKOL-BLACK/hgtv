@@ -1326,6 +1326,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "TNT SPORT MX",
+                "url": "https://aca-live4-ott.izzigo.tv/6/out/u/dash/TNT-HD-H265/default.mpd",
+                "icono": "https://i.postimg.cc/MKfNHpSk/images-(15).jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=37971d47c9e64d7584058efcfdc424b3&key=9944ecda48ef3d6325ccf89ab32bef83"
+            },
+            {
                 "name": "SKY SPORT EVENTOS 1",
                 "url": "https://zap-live4-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd",
                 "icono": "https://i.postimg.cc/4yJ7fCFy/channels4-profile-(3).png",
@@ -1360,13 +1367,6 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "name": "TNT SPORT MX",
-                "url": "https://aca-live4-ott.izzigo.tv/6/out/u/dash/TNT-HD-H265/default.mpd",
-                "icono": "https://i.postimg.cc/MKfNHpSk/images-(15).jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=37971d47c9e64d7584058efcfdc424b3&key=9944ecda48ef3d6325ccf89ab32bef83"
             },
             {
                 "name": "CANAL+ 3",
