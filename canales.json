@@ -1708,6 +1708,13 @@
                 "icono": "https://i.ibb.co/5xTKjDXf/Picsart-26-04-15-00-52-07-170.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "MOTOR VISIÓN",
+                "url": "https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8",
+                "icono": "https://i.ibb.co/KzDcs7C0/Motorvision-TV-2016-II.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
