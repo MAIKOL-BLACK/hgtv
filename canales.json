@@ -367,6 +367,13 @@
                 "icono": "https://i.ibb.co/99DzY4J/farra-play.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "TV CHAQUEÑA",
+                "url": "https://rds3gen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8",
+                "icono": "https://i.ibb.co/LhdYbjJQ/Picsart-26-04-18-08-54-34-664.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
