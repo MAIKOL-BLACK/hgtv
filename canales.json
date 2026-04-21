@@ -974,6 +974,13 @@
                 "icono": "https://i.ibb.co/svQQZ7n0/Picsart-26-04-16-19-32-01-592.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "GOLF EN ESPAÑOL⛳️",
+                "url": "https://aca-live4-ott.izzigo.tv/6/out/u/dash/GOLF-CHANNEL-HD-H265/default.mpd",
+                "icono": "https://i.ibb.co/yng2Hm6r/golf.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat\\/api/license.php?keyid=b8df797e071b0ef1f1a238c8ac18ad2d&key=a65bce29cf4bb5390c686ea0cbbbc4cd"
             }
         ]
     },
