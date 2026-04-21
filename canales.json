@@ -1191,6 +1191,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "ESPN 6 MX",
+                "url": "http://190.83.15.112:8000/play\\/a0bn/index.m3u8?hls",
+                "icono": "https://i.ibb.co\\/qF1krRnm/Picsart-26-04-15-15-05-32-602.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "TUDN MEXICO",
                 "url": "https://zap-live4-ott.izzigo.tv/11/out/u/dash/TUDN-HD/default.mpd",
                 "icono": "https://i.postimg.cc/hvHk8gWQ/PRESS-TUDN-1.png",
@@ -1201,13 +1208,6 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "name": "ESPN 6 MX",
-                "url": "http://190.83.15.112:8000/play\\/a0bn/index.m3u8?hls",
-                "icono": "https://i.ibb.co\\/qF1krRnm/Picsart-26-04-15-15-05-32-602.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "VIX TUDN",
