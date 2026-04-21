@@ -342,7 +342,7 @@
             },
             {
                 "name": "PALMA FM",
-                "url": "http://localhost.apppelis.es/solplay/17.mpd ",
+                "url": "http://localhost.apppelis.es/solplay/17.mpd,",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img\\/channels/palma-fm_0b08013261c04e159014f4eb22b9f230.png",
                 "type": "HLS",
                 "drm_license_uri": ""
