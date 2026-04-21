@@ -833,6 +833,13 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a"
             },
             {
+                "name": "Directv sport 2",
+                "url": "http://167.17.67.240:8888/dsport2colombia/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.postimg.cc/c4sR3Qfq/images-(8).jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "TYC SPORT",
                 "url": "https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2OTE2MjgxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjMwMjZkNTlmMTA4ODQ5YTIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.-owCdsGp269u3aG3C2JXWWkxn0dPZcqZ6X1FZrqEIeYPalBVdJhOPER6KNUpWWRQZMeTA3KwqADrwvK59c3JQw==/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
                 "icono": "https://i.postimg.cc/Kjn1rpX0/tyc-sports9267-logowik-com.png",
@@ -843,13 +850,6 @@
                 "name": "DIRECTV SPORTS OPC 2",
                 "url": "http://177.53.152.117:8000/play/a07d/index.m3u8",
                 "icono": "https://i.postimg.cc/mDnY6566/dsports-2-2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Directv sport 2",
-                "url": "http://167.17.67.240:8888/dsport2colombia/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.postimg.cc/c4sR3Qfq/images-(8).jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
