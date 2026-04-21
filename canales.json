@@ -2361,6 +2361,32 @@
         ]
     },
     {
+        "name": "🥋DEPORTES DE COMBATES🥊",
+        "samples": [
+            {
+                "name": "UFC",
+                "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134",
+                "icono": "https://i.ibb.co/67T1kgch/uffc.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "PFL MMA",
+                "url": "https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8",
+                "icono": "https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "DAZN BOXEO",
+                "url": "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8",
+                "icono": "https://i.ibb.co/R4g7xJZ5/Picsart-26-04-18-13-36-24-147.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "TV INTERNACIONAL",
         "samples": [
             {
@@ -2416,32 +2442,6 @@
                 "name": "TELESUR",
                 "url": "http://localhost.apppelis.es/solplay/111.mpd",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telesur_1327f99888644973a4c5501f802660de.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "🥋DEPORTES DE COMBATES🥊",
-        "samples": [
-            {
-                "name": "UFC",
-                "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134",
-                "icono": "https://i.ibb.co/67T1kgch/uffc.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "PFL MMA",
-                "url": "https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8",
-                "icono": "https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "DAZN BOXEO",
-                "url": "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8",
-                "icono": "https://i.ibb.co/R4g7xJZ5/Picsart-26-04-18-13-36-24-147.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
