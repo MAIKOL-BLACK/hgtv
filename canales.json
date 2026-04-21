@@ -868,6 +868,13 @@
                 "icono": "https://i.postimg.cc/fbtqWYn8/XTRA-2.png"
             },
             {
+                "name": "DIRECTV SPORT 2",
+                "url": "https://latam-cache-sv2-cdn.latamlive.net\\/DS1_ENC_LIVE/index.mpd",
+                "icono": "https://i.postimg.cc/tCGbWc6y/download-(55).png",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "WIN SPORTS",
                 "url": "http://live2.superteve.com:33527/livetv/9Wu6os8Dmg/369?token=SBpYUhVRG1sSVwIGCQBTA1YBWgBXU1UDVFZQUgsAAQgEWwNWUVsAUAEWSEZCQBAHA15mDFVGDARXW0hHRkdWQ2xRVBFcGwhRBAdTVRMYQBYLXlxHC1UBAFVTXVIAAwMdEUhZV0QDVxRcWEhGVEwWBxBdWAluAFNBCAEBRwlaRl1fFBJcCGZdBF1VCgATDkBTQB8bDEIUFA0PFwgJHxZRWEdKUUcDGwMPRVgISBNXDRcMR0scE14UZzhASEdWTEdUXUtZXAgbA0NER0ZIE10RPRBWShFDAVdaBBBGXxEFER0RVVFLOVpWD15RBxBYWwwRQAkbVRNIFFoODA0RXEZsQVpcEgkITFUNTQ==",
                 "type": "HLS",
@@ -886,13 +893,6 @@
                 "url": "http://185.56.109.251/Tudn/playlist.m3u8",
                 "icono": "https://i.postimg.cc/nhthGGT9/1b313b5c5e6011d8ca2973b9b0e49e90.png",
                 "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "DIRECTV SPORT 2",
-                "url": "https://latam-cache-sv2-cdn.latamlive.net\\/DS1_ENC_LIVE/index.mpd",
-                "icono": "https://i.postimg.cc/tCGbWc6y/download-(55).png",
-                "type": "CLEARKEY",
                 "drm_license_uri": ""
             },
             {
