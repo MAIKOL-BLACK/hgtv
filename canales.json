@@ -360,6 +360,13 @@
                 "icono": "https://i.ibb.co/BVqcFpLf/Picsart-26-04-18-08-56-41-501.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "RADIO FARRA",
+                "url": "http://159.203.148.226:80/live/farra.m3u8",
+                "icono": "https://i.ibb.co/99DzY4J/farra-play.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
