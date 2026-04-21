@@ -1372,6 +1372,13 @@
                 "icono": "https://i.postimg.cc/MKfNHpSk/images-(15).jpg",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=37971d47c9e64d7584058efcfdc424b3&key=9944ecda48ef3d6325ccf89ab32bef83"
+            },
+            {
+                "name": "TUDN MX",
+                "url": "https://aca-live4-ott.izzigo.tv/11\\/out/u/dash/TUDN-HD/default.mpd",
+                "icono": "https://i.postimg.cc/ydtwvTrC/unnamed-(1).png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https:\\/\\/vimetrix.lat\\/api\\/license.php?keyid=2722647f77b44824c432a3c4555830a2&key=1734befb82f4b438bd84195f6c212e7b"
             }
         ]
     },
