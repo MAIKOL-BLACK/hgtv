@@ -908,20 +908,6 @@
                 }
             },
             {
-                "name": "TUDN USA",
-                "url": "http://185.56.109.251/Tudn/playlist.m3u8",
-                "icono": "https://i.postimg.cc/nhthGGT9/1b313b5c5e6011d8ca2973b9b0e49e90.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FIFA+",
-                "url": "https://2b77fda3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtZXNfRklGQVBsdXNTcGFuaXNoX0hMUw/playlist.m3u8?ads.wurl_channel=1780&ads.wurl_name=FIFAPlusSpanish&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=6915",
-                "icono": "https://i.postimg.cc/mg0JHmwc/images-(2).png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "TELEMUNDO DEPORTE",
                 "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(telemundodeportes)/master.mpd",
                 "icono": "https://i.postimg.cc/KcMfHtnZ/Telemundo-Deportes-Logo.png",
@@ -934,10 +920,10 @@
                 }
             },
             {
-                "name": "RALLY TV",
-                "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
+                "name": "TUDN USA",
+                "url": "http://185.56.109.251/Tudn/playlist.m3u8",
+                "icono": "https://i.postimg.cc/nhthGGT9/1b313b5c5e6011d8ca2973b9b0e49e90.png",
                 "type": "HLS",
-                "icono": "https://i.postimg.cc/J4Csp8zP/unnamed.png",
                 "drm_license_uri": ""
             },
             {
@@ -945,6 +931,20 @@
                 "url": "https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8",
                 "icono": "https://i.postimg.cc/1RwtndrG/fox-new-Placeholder-Cover-1920x1080-1764567761278.png",
                 "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FIFA+",
+                "url": "https://2b77fda3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtZXNfRklGQVBsdXNTcGFuaXNoX0hMUw/playlist.m3u8?ads.wurl_channel=1780&ads.wurl_name=FIFAPlusSpanish&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=6915",
+                "icono": "https://i.postimg.cc/mg0JHmwc/images-(2).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RALLY TV",
+                "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/J4Csp8zP/unnamed.png",
                 "drm_license_uri": ""
             },
             {
