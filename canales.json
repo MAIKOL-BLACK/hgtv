@@ -1386,6 +1386,13 @@
                 "icono": "https://i.postimg.cc/brfmZVBd/17336823886707.jpg",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cb308ff4c4ec835baa2956212507de52&key=aa45e839f15058df50342ace8d040a48"
+            },
+            {
+                "name": "CANAL+ 3",
+                "url": "http://91.146.94.234:10001/play/a072",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
