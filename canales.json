@@ -1621,18 +1621,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "SKY SPORT F1 EVENTOS",
-                "url": "https://zap-live4-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
-                "icono": "https://i.postimg.cc/3xzmB2Ks/descarga.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=ae7f16191e2adfaacd9b536ed58a298a&key=3319b3ca5cd6f0af2f3d4bd9a7630a8b",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
                 "name": "SKY F1 OPC. 2",
                 "url": "http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/97863.m3u8",
                 "icono": "https://i.postimg.cc/Jnxs9XLW/sky-sport-f1-logo-2x1.png",
