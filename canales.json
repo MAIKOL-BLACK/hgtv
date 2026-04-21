@@ -1320,6 +1320,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "ESPN 5 MX",
+                "url": "http://190.83.15.112:8000/play\\/a0dw/index.m3u8?hls",
+                "icono": "https://i.ibb.co/wN53g7v7/Picsart-26-04-15-15-02-15-062.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "FOX +",
                 "url": "https://bks400-tol-110.quieroxview.com.mx/bpk-tv/fox_mas_hd/default/index.mpd",
                 "icono": "https://i.ibb.co/rR6vM7dD/Picsart-26-04-15-12-19-52-287.png",
@@ -1337,13 +1344,6 @@
                 "name": "FOX ONE PREMIER",
                 "url": "http://45.5.118.152:8000/play/a08d/index.m3u8",
                 "icono": "https://i.ibb.co/vCT26dgL/Picsart-26-04-15-13-07-16-659.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 5 MX",
-                "url": "http://190.83.15.112:8000/play\\/a0dw/index.m3u8?hls",
-                "icono": "https://i.ibb.co/wN53g7v7/Picsart-26-04-15-15-02-15-062.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
