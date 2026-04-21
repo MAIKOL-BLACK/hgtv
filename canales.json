@@ -861,13 +861,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "DIRECTV 2",
-                "url": "http://167.17.67.240:8888/Dsportsmas/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.postimg.cc/x1WqhS0P/Direc-TV-Sports-2-2015.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "BEIN SPORTS  Ñ",
                 "url": "https://vt-ip.vodep39240327.workers.dev/2585.m3u8",
                 "type": "HLS",
