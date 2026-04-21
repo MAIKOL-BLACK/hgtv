@@ -941,13 +941,6 @@
                 }
             },
             {
-                "name": "Dsport 1",
-                "url": "http://104.250.128.34/livehttpplay?channel_id=23537",
-                "icono": "https://i.ibb.co/sJWZgXqp/DSports-1.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "Dsport 2",
                 "url": "http://104.250.128.34/livehttpplay?channel_id=23538",
                 "icono": "https://i.ibb.co/Xk43qvLv/dsports2.png",
