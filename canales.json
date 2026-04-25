@@ -294,7 +294,7 @@
             {
                 "name": "GEN TV",
                 "url": "https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion",
-                "icono": "https://i.postimg.cc/L4J8cK3R/gen.webp",
+                "icono": "https://streametx.app/pandatv/hgtv/logos/1777089430_gen-modified_S-Photoroom.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
