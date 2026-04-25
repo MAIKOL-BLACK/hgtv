@@ -292,13 +292,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "HEI NEW",
-                "url": "https://edge-live19-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc3MTU4OTMzIiwic2lwIjoiMTkwLjE3NS40OS40NSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9QbGFjYV9IQk8vdmVyaW1hdHJpeF9yb3RhdGluZy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU3NDNkODUwNTNmNzdlNjIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTciLCJzb3VyY2VzIjpbODUsMTQ0LDE0Niw4OF19.1ItDf2EoPfGpFonHNJykQG42Vfwvr6s4rva7Qcm3RkZB5--L6xlbVR7LIc1AN0YMZhttQZqCy96AgTA0nqjntQ==/live/c4eds/HEI_NOW/SA_Live_dash_enc_C/HEI_NOW.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=a8922522d07bc6aea96decd1c61553a6&key=dd9d597ceaf05fa903587ff1a657a04e",
-                "icono": "https://streametx.app/pandatv/hgtv/logos/1777090113_images__5.webp"
-            },
-            {
                 "name": "NPY",
                 "url": "https://rds3gen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
                 "icono": "https://streametx.app/pandatv/hgtv/logos/1777089575_images__1.png",
@@ -313,6 +306,20 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "TV AIRE CORONEL OVIEDO",
+                "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
+                "icono": "https://i.ibb.co/BVqcFpLf/Picsart-26-04-18-08-56-41-501.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "HEI NEW",
+                "url": "https://edge-live19-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc3MTU4OTMzIiwic2lwIjoiMTkwLjE3NS40OS40NSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9QbGFjYV9IQk8vdmVyaW1hdHJpeF9yb3RhdGluZy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU3NDNkODUwNTNmNzdlNjIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTciLCJzb3VyY2VzIjpbODUsMTQ0LDE0Niw4OF19.1ItDf2EoPfGpFonHNJykQG42Vfwvr6s4rva7Qcm3RkZB5--L6xlbVR7LIc1AN0YMZhttQZqCy96AgTA0nqjntQ==/live/c4eds/HEI_NOW/SA_Live_dash_enc_C/HEI_NOW.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=a8922522d07bc6aea96decd1c61553a6&key=dd9d597ceaf05fa903587ff1a657a04e",
+                "icono": "https://streametx.app/pandatv/hgtv/logos/1777090113_images__5.webp"
+            },
+            {
                 "name": "E40",
                 "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
                 "icono": "https://streametx.app/pandatv/hgtv/logos/1777090017_estacion-40-911-fm_0e333110.png",
@@ -323,13 +330,6 @@
                 "name": "TROPICALIA",
                 "url": "https://rds3gen.desdeparaguay.net/tropicaliatv/tropicaliatv_py_alta/index.m3u8?admin=nacion",
                 "icono": "https://i.postimg.cc/v8j8tqn3/images-(5)-1.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TV AIRE CORONEL OVIEDO",
-                "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
-                "icono": "https://i.ibb.co/BVqcFpLf/Picsart-26-04-18-08-56-41-501.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
