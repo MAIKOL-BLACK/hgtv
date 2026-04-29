@@ -1450,13 +1450,6 @@
         "name": "DEPORTES URUGUAY 🇺🇾",
         "samples": [
             {
-                "name": "ESPN 2",
-                "url": "http://190.95.60.228:8500/play/a00f",
-                "icono": "https://i.postimg.cc/G29skptb/ESPN2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "ESPN 3",
                 "url": "http://190.95.60.228:8500/play/a00h",
                 "icono": "https://i.postimg.cc/FzYtJpzY/programacao-espn-3.png",
