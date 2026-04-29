@@ -1377,13 +1377,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "ESPN 2",
-                "url": "http://181.118.158.103:8000/play/a039/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/CL9PXBJM/pvvydr1660761581.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "ESPN 4",
                 "url": "http://38.134.250.110:8000/play/a01a/index.m3u8",
                 "icono": "https://i.postimg.cc/C5BCs73H/61a4c896fc740bb1476f0225-LOGO-ESPN4-2.png",
