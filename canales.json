@@ -1881,13 +1881,6 @@
         "name": "TV INTERNACIONAL",
         "samples": [
             {
-                "name": "CNN ESPANOL",
-                "url": "http://localhost.apppelis.es/solplay/144.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cnn_9b6a176c51db43d688e136efdc273893.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "CCTV 4US",
                 "url": "http://localhost.apppelis.es/solplay/104.mpd",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cctv-4us_4ca496c777f444b8ad81ac2b74a3c297.png",
