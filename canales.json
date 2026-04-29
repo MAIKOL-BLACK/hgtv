@@ -435,13 +435,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "REDE TV",
-                "url": "http://localhost.apppelis.es/solplay/39.mpd",
-                "icono": "https://i.postimg.cc/RFDd58yD/rede-tv-logo-png-seeklogo-252503-V.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "AGRO CANAL",
                 "url": "http://localhost.apppelis.es/solplay/41.mpd",
                 "icono": "https://i.postimg.cc/sxgkKtSm/Agrocanal-V.png",
