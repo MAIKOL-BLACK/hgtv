@@ -313,13 +313,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "TROPICALIA",
-                "url": "https://rds3gen.desdeparaguay.net/tropicaliatv/tropicaliatv_py_alta/index.m3u8?admin=nacion",
-                "icono": "https://streametx.app/pandatv/hgtv/logos/1777090658_images__5_-1.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "HEI NEW",
                 "url": "https://edge10-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc3NjIxOTM5Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMGVlNjZkYTA4MGNjZTU4YiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI4MSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.Kdn0_94ioYAaSddaQ0ZX_v6B2tlGT8Kv-hfQ_W2ck_PtEPbgXEhuIZ0pmLrBltjX5Aisw5mIHvJ_WuUM2oh7yg==/live/c4eds/HEI_NOW/SA_Live_dash_enc_C/HEI_NOW.mpd",
                 "icono": "https://streametx.app/pandatv/hgtv/logos/1777090570_images__5.webp",
