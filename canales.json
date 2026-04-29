@@ -1450,13 +1450,6 @@
         "name": "DEPORTES URUGUAY 🇺🇾",
         "samples": [
             {
-                "name": "ESPN PREMIUM",
-                "url": "http://190.95.60.228:8500/play/a09v",
-                "icono": "https://i.postimg.cc/yNd6kG40/maxresdefault.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "DSPORT URUGUAY",
                 "url": "http://190.95.60.228:8500/play/a0b4",
                 "icono": "https://i.postimg.cc/rFP80JJH/Direc-TV-Sports-1.png",
