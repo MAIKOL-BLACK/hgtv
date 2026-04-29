@@ -1433,14 +1433,7 @@
             {
                 "name": "ESPN 6 ECUADOR",
                 "url": "http://190.83.15.112:8000/play/a061/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/mgRMPTgQ/Espn6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 7 ECUADOR",
-                "url": "http://190.83.15.112:8000/play/a07e/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/jq9fKzfW/f460fbd3bf84dffee99ce46a6ad489c4-(1).png",
+                "icono": "https://i.postimg.cc/NFnVZSwR/espn-6-logo-png-seeklogo-522717.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
@@ -1456,13 +1449,6 @@
     {
         "name": "DEPORTES URUGUAY 🇺🇾",
         "samples": [
-            {
-                "name": "ESPN 1 ",
-                "url": "http://190.95.60.228:8500/play/a013",
-                "icono": "https://i.postimg.cc/5twgQswP/images-(11).png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "name": "ESPN 2",
                 "url": "http://190.95.60.228:8500/play/a00f",
