@@ -1612,13 +1612,6 @@
                 "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png"
             },
             {
-                "name": "A3SERIES",
-                "url": "https://edge10-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc3NjIxOTM5Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMGVlNjZkYTA4MGNjZTU4YiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI4MSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.Kdn0_94ioYAaSddaQ0ZX_v6B2tlGT8Kv-hfQ_W2ck_PtEPbgXEhuIZ0pmLrBltjX5Aisw5mIHvJ_WuUM2oh7yg==/live/c7eds/A3_Series/SA_Live_dash_enc_C/A3_Series.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5e34e08ae5ae440f01a03e505dd24a57&key=ed30cc7f5040a75d73f619320249272b",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/atres-series_b6c60d7d2a4e41388c1b8ef78599f537.png"
-            },
-            {
                 "name": "COMEDY CENTRAL",
                 "url": "https://edge10-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc3NjIxOTM5Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMGVlNjZkYTA4MGNjZTU4YiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI4MSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.Kdn0_94ioYAaSddaQ0ZX_v6B2tlGT8Kv-hfQ_W2ck_PtEPbgXEhuIZ0pmLrBltjX5Aisw5mIHvJ_WuUM2oh7yg==/live/c7eds/ComedyCentral/SA_Live_dash_enc_C/ComedyCentral.mpd",
                 "type": "CLEARKEY",
