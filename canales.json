@@ -1881,13 +1881,6 @@
         "name": "TV INTERNACIONAL",
         "samples": [
             {
-                "name": "FRANCE 24",
-                "url": "http://localhost.apppelis.es/solplay/159.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/france-24_09bf41689d534167b098d15fcd38801a.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "TELESUR",
                 "url": "http://localhost.apppelis.es/solplay/111.mpd",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telesur_1327f99888644973a4c5501f802660de.png",
