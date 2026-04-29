@@ -1565,13 +1565,6 @@
                 "icono": "https://i.postimg.cc/pXQH7V6y/images-C.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "MOTOR RACING",
-                "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/db917aee-4061-4081-b5fc-d5786defb057/manifest.m3u8",
-                "icono": "https://i.ibb.co/Kc5XB1xZ/Motorr.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
