@@ -318,13 +318,6 @@
                 "icono": "https://streametx.app/pandatv/hgtv/logos/1777090570_images__5.webp",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat\\/api\\/license.php?keyid=a8922522d07bc6aea96decd1c61553a6&key=dd9d597ceaf05fa903587ff1a657a04e"
-            },
-            {
-                "name": "FARRA PLAY",
-                "url": "https://edge10-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc3NjIxOTM5Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMGVlNjZkYTA4MGNjZTU4YiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI4MSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.Kdn0_94ioYAaSddaQ0ZX_v6B2tlGT8Kv-hfQ_W2ck_PtEPbgXEhuIZ0pmLrBltjX5Aisw5mIHvJ_WuUM2oh7yg==/stream.farra.com.py/live/farra_src.m3u8",
-                "icono": "https://i.ibb.co/99DzY4J/farra-play.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45"
             }
         ]
     },
