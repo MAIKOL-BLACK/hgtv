@@ -1881,13 +1881,6 @@
         "name": "TV INTERNACIONAL",
         "samples": [
             {
-                "name": "CGTN ESP",
-                "url": "http://localhost.apppelis.es/solplay/105.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cgtn-esp_048c77646c27464f81c087b8a8831fa2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "RT",
                 "url": "http://localhost.apppelis.es/solplay/110.mpd",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/rt-doc_abb56512fe444472862fc67179d4061a.png",
