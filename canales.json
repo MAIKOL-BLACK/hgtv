@@ -1612,13 +1612,6 @@
                 "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png"
             },
             {
-                "name": "STUDIO UNIVERSAL",
-                "url": "https://edge10-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc3NjIxOTM5Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMGVlNjZkYTA4MGNjZTU4YiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI4MSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.Kdn0_94ioYAaSddaQ0ZX_v6B2tlGT8Kv-hfQ_W2ck_PtEPbgXEhuIZ0pmLrBltjX5Aisw5mIHvJ_WuUM2oh7yg==/live/c6eds/Studio_Universal/SA_Live_dash_enc_C/Studio_Universal.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=d9b541e3cd064d569843da42788d4263&key=bba5d26ad5051fb3f2cf7e3dd8a4a7d8",
-                "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg"
-            },
-            {
                 "name": "CINECANAL",
                 "url": "https://edge10-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc3NjIxOTM5Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMGVlNjZkYTA4MGNjZTU4YiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI4MSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.Kdn0_94ioYAaSddaQ0ZX_v6B2tlGT8Kv-hfQ_W2ck_PtEPbgXEhuIZ0pmLrBltjX5Aisw5mIHvJ_WuUM2oh7yg==/live/c3eds/CinecanalHD/SA_Live_dash_enc_C/CinecanalHD.mpd",
                 "type": "CLEARKEY",
