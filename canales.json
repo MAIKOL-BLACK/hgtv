@@ -1231,7 +1231,7 @@
             {
                 "name": "CANAL+ 3",
                 "url": "http://91.146.94.234:10001/play/a072",
-                "icono": "",
+                "icono": "https://i.postimg.cc/wTBGg6Wk/Canal-Sport-3.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
