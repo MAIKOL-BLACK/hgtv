@@ -770,13 +770,6 @@
                 "icono": "https://i.postimg.cc/fbtqWYn8/XTRA-2.png"
             },
             {
-                "name": "WIN SPORTS",
-                "url": "http://live2.superteve.com:33527/livetv/9Wu6os8Dmg/369?token=SBpYUhVRG1sSVwIGCQBTA1YBWgBXU1UDVFZQUgsAAQgEWwNWUVsAUAEWSEZCQBAHA15mDFVGDARXW0hHRkdWQ2xRVBFcGwhRBAdTVRMYQBYLXlxHC1UBAFVTXVIAAwMdEUhZV0QDVxRcWEhGVEwWBxBdWAluAFNBCAEBRwlaRl1fFBJcCGZdBF1VCgATDkBTQB8bDEIUFA0PFwgJHxZRWEdKUUcDGwMPRVgISBNXDRcMR0scE14UZzhASEdWTEdUXUtZXAgbA0NER0ZIE10RPRBWShFDAVdaBBBGXxEFER0RVVFLOVpWD15RBxBYWwwRQAkbVRNIFFoODA0RXEZsQVpcEgkITFUNTQ==",
-                "type": "HLS",
-                "icono": "https://i.postimg.cc/kgVvW914/Win-Sports2018.png",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "WIN SPORTS+",
                 "url": "http://190.60.37.118:4000/play/a0bw",
                 "type": "HLS",
