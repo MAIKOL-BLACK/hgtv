@@ -742,13 +742,6 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b"
             },
             {
-                "name": "DIRECTV SPORT",
-                "url": "https://latam-cache-sv2-cdn.latamlive.net\\/DS1_ENC_LIVE/index.mpd",
-                "icono": "https://i.postimg.cc/tCGbWc6y/download-(55).png",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "DIRECTV SPORTS 2",
                 "url": "http://104.250.128.34/livehttpplay?channel_id=23538",
                 "icono": "https://i.ibb.co/Xk43qvLv/dsports2.png",
