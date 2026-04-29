@@ -1923,13 +1923,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "XITE REGGAE VIBES",
-                "url": "https://cors-proxy.cooks.fyi:443/https://amg01243-xite-amg01243c26-tcl-us-6510.playouts.now.amagi.tv/playlist.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "XITE R&B FEELS",
                 "url": "https://cors-proxy.cooks.fyi:443/https://amg01243-xite-amg01243c13-tcl-us-6478.playouts.now.amagi.tv/playlist.m3u8",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png",
