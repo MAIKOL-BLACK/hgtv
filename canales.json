@@ -1757,13 +1757,6 @@
         "name": "CANALES DE NOVELAS",
         "samples": [
             {
-                "name": "RCN NOVELAS",
-                "url": "http://201.219.193.210:3002/play/a0sk",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-                "icono": "https://i.postimg.cc/L8T0ktnW/download-2026-03-12T192924-757.jpg"
-            },
-            {
                 "name": "TLN",
                 "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
                 "type": "CLEARKEY",
