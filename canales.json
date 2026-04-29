@@ -433,13 +433,6 @@
                 "icono": "https://i.postimg.cc/ZRTFdZt9/1-band-canal-2.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "AGRO CANAL",
-                "url": "http://localhost.apppelis.es/solplay/41.mpd",
-                "icono": "https://i.postimg.cc/sxgkKtSm/Agrocanal-V.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
