@@ -1881,13 +1881,6 @@
         "name": "TV INTERNACIONAL",
         "samples": [
             {
-                "name": "RT",
-                "url": "http://localhost.apppelis.es/solplay/110.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/rt-doc_abb56512fe444472862fc67179d4061a.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "BBC News",
                 "url": "http://localhost.apppelis.es/solplay/143.mpd",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/bbc-news_ee21a577ad15444a87a852b4b6506415.png",
