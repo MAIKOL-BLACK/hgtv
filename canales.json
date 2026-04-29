@@ -414,13 +414,6 @@
         "name": "BRASIL 🇧🇷",
         "samples": [
             {
-                "name": "GLOBO RPC",
-                "url": "http://localhost.apppelis.es/solplay/32.mpd",
-                "icono": "https://i.postimg.cc/bJVZ6fWq/TVRPC-r3v1zmq1l7px0at9b161d7gdq4fbavrcijsfsevtls.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "GLOBO RBS",
                 "url": "http://localhost.apppelis.es/solplay/31.mpd",
                 "icono": "https://i.postimg.cc/c443MTbp/RBS-TV-Globo-Audiencia.png",
