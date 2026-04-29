@@ -438,7 +438,7 @@
                 "name": "CNN BRASIL",
                 "url": "http://168.205.55.2:8000/play/a07q/index.m3u8?hls",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1280px-CNN_Brasil.svg.png",
-                "type": "HLS",
+                "type": "CLEARKEY",
                 "drm_license_uri": ""
             }
         ]
