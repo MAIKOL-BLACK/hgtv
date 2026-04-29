@@ -1757,13 +1757,6 @@
         "name": "CULTURA Y COCINA",
         "samples": [
             {
-                "name": "E-Entertaiment",
-                "url": "https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc3NjUyNzg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM3Mjk0Zjk4NzZjZmNhZjQiLCJzZXNzaW9uX2lkIjoiZjg1MDJhN2QwNWRkNmY5ODkzYWE1MGM2Y2JhYWU5MGQtMTc3NzQ3OTk4OC00ODUiLCJjbGllbnRfaWQiOiJmbG93OjM2MTAwOTMtLWZsb3c6MzYxMDA5MzpQIiwiZGV2aWNlX2lkIjoiZjg1MDJhN2QwNWRkNmY5ODkzYWE1MGM2Y2JhYWU5MGQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI1OCIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.MwdT7MTSxB-Aqax8N0DDWjPCgQNVj4KthB5E8StDUjv0aWo3VFR712UARKnOelKfMhskiXRvv1HenrFcc2t1SA==/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc/E_Entertainment_Television.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://cdn.storage.foromedios.com/monthly_2021_05/large.E-Entertainment-Logo.png.45cb86109090ec7d7e3630cf4673b4b5.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5883553207f13e3dc8cecd1113d5ba68&key=45434d40636dfa0e5312b93218e02185"
-            },
-            {
                 "name": "Food Network",
                 "url": "https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc3NjUyNzg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM3Mjk0Zjk4NzZjZmNhZjQiLCJzZXNzaW9uX2lkIjoiZjg1MDJhN2QwNWRkNmY5ODkzYWE1MGM2Y2JhYWU5MGQtMTc3NzQ3OTk4OC00ODUiLCJjbGllbnRfaWQiOiJmbG93OjM2MTAwOTMtLWZsb3c6MzYxMDA5MzpQIiwiZGV2aWNlX2lkIjoiZjg1MDJhN2QwNWRkNmY5ODkzYWE1MGM2Y2JhYWU5MGQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI1OCIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.MwdT7MTSxB-Aqax8N0DDWjPCgQNVj4KthB5E8StDUjv0aWo3VFR712UARKnOelKfMhskiXRvv1HenrFcc2t1SA==/live/c6eds/Food_Network/SA_Live_dash_enc/Food_Network.mpd",
                 "type": "CLEARKEY",
