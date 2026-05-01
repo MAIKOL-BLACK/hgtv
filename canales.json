@@ -339,6 +339,13 @@
                 "icono": "https://i.postimg.cc/nL4YNJS0/0365c0-899f93b4209e49498c3cd8e72b083aac-mv2.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "INVASIVA TV",
+                "url": "https://video.hostingcaaguazu.com:19360/invasivatv/invasivatv.m3u8",
+                "icono": "https://i.postimg.cc/Y0GxD2Lq/IMG-20240626-194907-706-560x315.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
