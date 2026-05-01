@@ -421,13 +421,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "AMC",
-                "url": "http://168.205.55.2:8000/play/a07v/index.m3u8?hls",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/960px-AMC_logo_2016.svg.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "AXN",
                 "url": "http://168.205.55.2:8000/play/a08l/index.m3u8?hls",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",
