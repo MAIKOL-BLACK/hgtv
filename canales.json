@@ -332,6 +332,13 @@
                 "icono": "https://i.postimg.cc/nrSXkZnY/descarga-2.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://tonykshop.lat/license.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b"
+            },
+            {
+                "name": "REP\\u00daBLICA TV",
+                "url": "https://tigocloud.desdeparaguay.net:443/republicatv/republicatv/playlist.m3u8",
+                "icono": "https://i.postimg.cc/nL4YNJS0/0365c0-899f93b4209e49498c3cd8e72b083aac-mv2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
