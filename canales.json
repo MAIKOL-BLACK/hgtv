@@ -419,13 +419,6 @@
                 "icono": "https://i.postimg.cc/ZRTFdZt9/1-band-canal-2.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "A&E BR",
-                "url": "http://168.205.55.2:8000/play/a08s/index.m3u8?hls",
-                "icono": "https://prod-s.cdn-cf.philo.com/images/channel_logos/AESTR/large.png?auto=webp&auto=webp&ver=1&ver=1",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
