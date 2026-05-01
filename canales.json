@@ -292,6 +292,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "MI TV",
+                "url": "https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8",
+                "icono": "https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "E40",
                 "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
                 "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777090017_estacion-40-911-fm_0e333110.png",
@@ -304,13 +311,6 @@
                 "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777090570_images__5.webp",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat\\/api\\/license.php?keyid=a8922522d07bc6aea96decd1c61553a6&key=dd9d597ceaf05fa903587ff1a657a04e"
-            },
-            {
-                "name": "MI TV",
-                "url": "https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8",
-                "icono": "https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "RADIO TV REPUBLICA",
