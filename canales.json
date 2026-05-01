@@ -22,6 +22,13 @@
                 "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "TIGO SPORTS +",
+                "url": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls",
+                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
             }
         ]
     },
