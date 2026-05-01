@@ -320,13 +320,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "RTV",
-                "url": "https://video.medios.com.py:3585/multi_live/play.m3u8",
-                "icono": "https://i.postimg.cc/K8yF76wm/images-2.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "FARRA PLAY",
                 "url": "https://stream.farra.com.py/live/farra_src.m3u8",
                 "icono": "https://i.ibb.co/KhR0pjB/Farra-Play-TV-en-vivo.jpg",
