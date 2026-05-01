@@ -299,6 +299,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "PYKASU TV",
+                "url": "https://live20.bozztv.com/akamaissh101/ssh101/radiopykasutv/playlist.m3u8",
+                "icono": "https://i.postimg.cc/HLGrHMJb/unnamed.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "MI TV",
                 "url": "https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8",
                 "icono": "https://i.postimg.cc/d3wpr5hT/Sin-titulo.png",
@@ -323,13 +330,6 @@
                 "name": "RADIO TV REPUBLICA",
                 "url": "https://tigocloud.desdeparaguay.net:443/republicatv/republicatv/playlist.m3u8",
                 "icono": "https://i.postimg.cc/VkdTqrkG/images-D.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "PYKASU TV",
-                "url": "https://live20.bozztv.com/akamaissh101/ssh101/radiopykasutv/playlist.m3u8",
-                "icono": "https://i.postimg.cc/HLGrHMJb/unnamed.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
