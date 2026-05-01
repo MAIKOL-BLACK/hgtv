@@ -318,13 +318,6 @@
                 "icono": "https://i.postimg.cc/nL4YNJS0/0365c0-899f93b4209e49498c3cd8e72b083aac-mv2.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "ÑANDUTI TV",
-                "url": "https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_baja/playlist.m3u8",
-                "icono": "https://i0.wp.com/logoroga.com/wp-content/uploads/2017/10/nanduti-previa.png?w=1000&ssl=1",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
