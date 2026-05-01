@@ -318,6 +318,13 @@
                 "icono": "https://i.postimg.cc/VkdTqrkG/images-D.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "TV CANINDEYU",
+                "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
