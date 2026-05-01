@@ -299,6 +299,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "TV CANINDEYU",
+                "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
+                "icono": "https://i.postimg.cc/mrdKCYQd/images-FF.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "E40",
                 "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
                 "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777090017_estacion-40-911-fm_0e333110.png",
@@ -316,13 +323,6 @@
                 "name": "RADIO TV REPUBLICA",
                 "url": "https://tigocloud.desdeparaguay.net:443/republicatv/republicatv/playlist.m3u8",
                 "icono": "https://i.postimg.cc/VkdTqrkG/images-D.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TV CANINDEYU",
-                "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
-                "icono": "https://i.postimg.cc/mrdKCYQd/images-FF.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
