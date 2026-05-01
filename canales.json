@@ -15,6 +15,13 @@
                 "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1776838279_350-pg-nuevo.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
+            },
+            {
+                "name": "EVENTOS 3 PLAY TV PY HD",
+                "url": "https://fhlsport312.tb3bu207yap7.xyz/token-J0QumLaXf%2FaGv20glfY6zDmBlJqAg3jjbyT5wvQbETCj7%2BGeHUNSFIsqqQtKX0wGRn3c3zVnlP1xepJNUUsK7ZsnTky0PYa0a/v3/get/s3/aHR0cHM6Ly9wbGF5LmdweWN2YWMuY29t/rrty/sd-1-4484083.m3u8?txSecret=370da9bb88d06aed5fb898eeebd3a366&txTime=699F895B",
+                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
