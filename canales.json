@@ -285,6 +285,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "TV CANINDEYU",
+                "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
+                "icono": "https://i.postimg.cc/mrdKCYQd/images-FF.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "VISIÓN TV VILLARICA",
                 "url": "https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8",
                 "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777090539_ebec6a_196230fabaf447779f28fbaedca0eb74_mv2.png",
@@ -295,13 +302,6 @@
                 "name": "MI TV",
                 "url": "https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w464461610.m3u8",
                 "icono": "https://i.postimg.cc/d3wpr5hT/Sin-titulo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TV CANINDEYU",
-                "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
-                "icono": "https://i.postimg.cc/mrdKCYQd/images-FF.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
