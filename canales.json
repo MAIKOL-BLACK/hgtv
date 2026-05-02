@@ -1897,7 +1897,7 @@
             {
                 "name": "RCN NOVELAS",
                 "url": "http://181.118.158.103:8000/play/rcnnovelas/index.m3u8?hls",
-                "icono": "",
+                "icono": "https://i.postimg.cc/DzSFC2nq/images-XCVBZCX.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
