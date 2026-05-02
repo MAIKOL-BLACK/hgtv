@@ -975,6 +975,13 @@
                 "icono": "https://i.ibb.co/nMRb9NYk/6065f67d6a70f2448ee66115-cdo.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "UNIVERSO",
+                "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/500px-Universo_2017.svg.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/oowbgf2hpfsdwi2nkvup9/universo.json?rlkey=vu2x9m8hyg8mwvng1abl8arzk&st=eq1s262a&dl=0"
             }
         ]
     },
