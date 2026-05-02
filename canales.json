@@ -464,6 +464,13 @@
                 "icono": "https://www.pngkey.com/png/full/139-1393003_el-garage-tv-garage-tv-logo.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "CIUDAD MAGAZINE",
+                "url": "https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
             }
         ]
     },
