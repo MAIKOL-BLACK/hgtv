@@ -949,13 +949,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "SKY SPORTS LA LIGA",
-                "url": "https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/manifest.mpd",
-                "icono": "https://i.ibb.co/QjdqmjHs/Sky-Sports-La-Liga-II.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/vi8nfrmfqbi2jdqqcdkuv/skysports.json?rlkey=kblgs0cdz4sf6bibb3egrfdwy&st=3x1ra3dg&dl=0"
-            },
-            {
                 "name": "CLARO SPORTS",
                 "url": "http://magmaplayer.com/stream/m3u8/Zwp1KmVjZI8kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/201.m3u8",
                 "icono": "https://i.ibb.co/r2tFkZ8z/claro-png-file-claro-sports-logo-svg-1280.png",
