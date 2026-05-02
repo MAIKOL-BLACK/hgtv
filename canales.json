@@ -1893,6 +1893,13 @@
                     "Referer": "https://player.sensa.com.ar/",
                     "webtoken": "1.0"
                 }
+            },
+            {
+                "name": "RCN NOVELAS",
+                "url": "http://181.118.158.103:8000/play/rcnnovelas/index.m3u8?hls",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
