@@ -457,6 +457,13 @@
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "GARAGE TV",
+                "url": "https://stream1.sersat.com/hls/garagetv.m3u8",
+                "icono": "https://www.pngkey.com/png/full/139-1393003_el-garage-tv-garage-tv-logo.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
             }
         ]
     },
