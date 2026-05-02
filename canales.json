@@ -2336,6 +2336,13 @@
                 "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "DISNEY+ 20",
+                "url": "https://qbk4f.envivoslatam.org/disney3/tracks-v1a1/mono.m3u8?token=90ccb8923e715e535e9687a77ca1fc229b43c2ba-f3-1772196882-1772142882",
+                "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
