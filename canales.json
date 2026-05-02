@@ -2273,6 +2273,13 @@
                 "icono": "https://i.ibb.co/svBWVF6y/unnamed.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 5",
+                "url": "https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/451660d3-5f32-4879-8140-d4eeab548d6f/4674cb16-c94b-413f-8fb2-1ef969b7aa34/2/streamPlaylist.m3u8",
+                "icono": "https://i.ibb.co/svBWVF6y/unnamed.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
