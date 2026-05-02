@@ -2143,24 +2143,5 @@
                 "drm_license_uri": ""
             }
         ]
-    },
-    {
-        "name": "DISNEY+ ⚽",
-        "samples": [
-            {
-                "name": "DISNEY+ 1",
-                "url": "https://streamtp10.com/global1.php?stream=disney1",
-                "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "PRUEBA",
-                "url": "https://www.disneyplus.com/es-419/browse/entity-9ce60f91-34ae-4525-b1fb-53b1bdaa8468",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
     }
 ]
