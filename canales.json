@@ -1737,13 +1737,6 @@
                 "icono": "https://i.ibb.co/L6NV6Dy/720x540.jpg",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/1gk6xdi60k8shlgbx0ftd/a3series.json?rlkey=od64ljs497lokd58j8zco85vr&st=2y3usl7a&dl=0"
-            },
-            {
-                "name": "A3SERIES opcion 2",
-                "url": "https://chromecast.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc/A3_Series.mpd",
-                "icono": "https://i.ibb.co/L6NV6Dy/720x540.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/1gk6xdi60k8shlgbx0ftd/a3series.json?rlkey=od64ljs497lokd58j8zco85vr&st=2y3usl7a&dl=0"
             }
         ]
     },
