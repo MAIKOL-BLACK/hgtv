@@ -947,6 +947,13 @@
                 "icono": "https://i.ibb.co/5XFLRVY0/TUDN-LOGO-COLOR.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/b8a1te1odgs8etywzumfr/tudn.json?rlkey=7wz04zg60sn5vyucsqdsc3yw7&st=14y70cbm&dl=0"
+            },
+            {
+                "name": "WIN SPORTS",
+                "url": "http://138.121.12.126:9000/play/a02a/index.m3u8",
+                "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
             }
         ]
     },
