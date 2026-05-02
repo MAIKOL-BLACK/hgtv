@@ -1968,13 +1968,6 @@
                 "icono": "https://i.postimg.cc/3xCZ4XMs/9940-e4b98969-1.webp"
             },
             {
-                "name": "Discovery Kids",
-                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
-                "icono": "https://lokos.pages.dev/webp/logos/diskids.webp",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ffb2f0f63c23a3592d4653e938b9ca19&key=d3661ae881fc55fc7a15815cd439747b"
-            },
-            {
                 "name": "Nickelodeon",
                 "url": "https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd",
                 "icono": "https://lokos.pages.dev/webp/logos/nick.webp",
