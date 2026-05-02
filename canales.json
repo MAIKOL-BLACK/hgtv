@@ -1730,13 +1730,6 @@
                 "type": "CLEARKEY",
                 "icono": "https://i.postimg.cc/j2MzdnxM/filmandarts.jpg",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=91c540d350f34f5386f3f1c77f74001f&key=54ee72810551da0cba0c45a8df651962"
-            },
-            {
-                "name": "A3SERIES",
-                "url": "https://chromecast.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc/A3_Series.mpd",
-                "icono": "https://i.ibb.co/L6NV6Dy/720x540.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/1gk6xdi60k8shlgbx0ftd/a3series.json?rlkey=od64ljs497lokd58j8zco85vr&st=2y3usl7a&dl=0"
             }
         ]
     },
