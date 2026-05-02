@@ -1800,6 +1800,13 @@
                 "icono": "https://i.ibb.co/r2gYhQb/tnt-fundo-escuro.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/6uatubavwbq3hb4smwem8/tnt.json?rlkey=6lyiihjb5htyx5fm46f3ghkht&st=y8zf9it0&dl=0"
+            },
+            {
+                "name": "TNT HD opcion 2",
+                "url": "https://chromecast.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd",
+                "icono": "https://i.ibb.co/r2gYhQb/tnt-fundo-escuro.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/6uatubavwbq3hb4smwem8/tnt.json?rlkey=6lyiihjb5htyx5fm46f3ghkht&st=y8zf9it0&dl=0"
             }
         ]
     },
