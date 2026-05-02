@@ -921,6 +921,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "CDO PREMIUM",
+                "url": "http://magmaplayer.com/stream/m3u8/BQVjKmR0BI8kAQthZwVlYwRmAP4kZmIsZGp0ZmZj/hls/149.m3u8",
+                "icono": "https://i.postimg.cc/LX2ftZB1/tv-station-cdo-premium-2473.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "UFC",
                 "url": "https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8",
                 "icono": "https://i.postimg.cc/VvWm73K4/images-(1).png",
@@ -954,13 +961,6 @@
                 "icono": "https://i.postimg.cc/DZx4xDzg/golf-sport-logo-on-white-260nw-2640984363-1.webp",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat\\/api/license.php?keyid=b8df797e071b0ef1f1a238c8ac18ad2d&key=a65bce29cf4bb5390c686ea0cbbbc4cd"
-            },
-            {
-                "name": "CDO PREMIUM",
-                "url": "http://magmaplayer.com/stream/m3u8/BQVjKmR0BI8kAQthZwVlYwRmAP4kZmIsZGp0ZmZj/hls/149.m3u8",
-                "icono": "https://i.postimg.cc/LX2ftZB1/tv-station-cdo-premium-2473.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
