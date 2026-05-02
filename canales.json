@@ -655,6 +655,13 @@
                 }
             },
             {
+                "name": "ESPN BR",
+                "url": "https://02.arlivre.online/espn/index.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "X Sport",
                 "url": "http://158.172.217.189:8000/play/a19g/index.m3u8",
                 "icono": "https://i.postimg.cc/vT6STbdx/images-V.png",
@@ -703,13 +710,6 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "name": "ESPN BR",
-                "url": "https://02.arlivre.online/espn/index.m3u8",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "ESPN 2",
