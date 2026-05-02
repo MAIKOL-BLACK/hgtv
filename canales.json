@@ -2294,6 +2294,13 @@
                 "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "DISNEY+ 14",
+                "url": "https://streamtpmedia.com/global1.php?stream=disney14",
+                "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
