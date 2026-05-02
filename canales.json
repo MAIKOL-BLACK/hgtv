@@ -1893,13 +1893,6 @@
                 "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/jimuxpgh3xrrl2ds3kukb/tntnovelas.json?rlkey=i3jkgql4vndw72l55r8fzcwpv&st=rp4ftf0m&dl=0"
-            },
-            {
-                "name": "TNT NOVELAS opcion 2",
-                "url": "https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
-                "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/jimuxpgh3xrrl2ds3kukb/tntnovelas.json?rlkey=i3jkgql4vndw72l55r8fzcwpv&st=rp4ftf0m&dl=0"
             }
         ]
     },
