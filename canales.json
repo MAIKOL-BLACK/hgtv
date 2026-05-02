@@ -1830,6 +1830,13 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "UNIVERSAL REALITY",
+                "url": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc/Universal_Reality.mpd",
+                "icono": "https://i.ibb.co/LGyMZY7/universal-reality-logo-png-seeklogo-527123.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://tonykshop.lat/license.php?keyid=cedd9c1a5c2ae43f80ee3197212016d6&key=bf47a3c39e164a97ea6adc4c8dd57435"
             }
         ]
     },
