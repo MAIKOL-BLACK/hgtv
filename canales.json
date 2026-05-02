@@ -2287,6 +2287,13 @@
                 "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "DIRECTV SPORTS",
+                "url": "http://190.108.89.228:8000/play/a05w/index.m3u8",
+                "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
             }
         ]
     }
