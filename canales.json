@@ -48,6 +48,16 @@
                 "drm_license_uri": ""
             },
             {
+         "name": "Canal Prueba",
+          "url": "https://edge10-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc3ODYxOTc5Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiNjJlODM5MTBjMmFiNDEwYiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiI4MSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.1kBlTWEFhzVjD4rFAMWJlRYOjLUChr8-x4cDtV8bQ0y2NY311RYD2P6V4q4Xmuz5m3W6hJwAM2Eq8oHf67ds6A==/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
+            "type": "CLEARKEY",
+  "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1776838718_download-_50.png",
+  "clearkey": {
+    "key": "5d2731cf8a59b73438ef59d88cd882bf",
+    "keyid": "3f412fa6368b7db4903588de695377e1"
+  }
+}
+            {
                 "name": "EVENTOS 3",
                 "url": "http://177.53.152.117:8000/play/a07h/index.m3u8",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
