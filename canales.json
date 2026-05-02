@@ -1739,13 +1739,6 @@
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/iwbu357pfxs70456893yp/a3cine.json?rlkey=uaw5lszzfmtu5iwj39b8l9mky&st=2abtc02e&dl=0"
             },
             {
-                "name": "A3CINE opcion 2",
-                "url": "https://chromecast.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc/A3_Cine.mpd",
-                "icono": "https://i.ibb.co/RgWH92w/720x540-1.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/iwbu357pfxs70456893yp/a3cine.json?rlkey=uaw5lszzfmtu5iwj39b8l9mky&st=2abtc02e&dl=0"
-            },
-            {
                 "name": "MOVISTAR SERIES",
                 "url": "http://magmaplayer.com/stream/m3u8/AGDjKmL2BI8kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/669.m3u8",
                 "icono": "https://i.ibb.co/DfGZGLPT/logo-movistar-clipart-1.png",
