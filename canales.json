@@ -450,6 +450,13 @@
                 "icono": "https://i.ibb.co/LXbKc73z/logo-bayres-tv.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "NET TV",
+                "url": "https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
             }
         ]
     },
