@@ -2301,6 +2301,13 @@
                 "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "DIRECTV SPORTS PLUS",
+                "url": "http://190.237.169.85:8000/play/a05c/index.m3u8?hls",
+                "icono": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
