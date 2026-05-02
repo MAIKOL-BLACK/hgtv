@@ -841,17 +841,17 @@
                 "icono": "https://i.postimg.cc/fbtqWYn8/XTRA-2.png"
             },
             {
-                "name": "WIN SPORTS+",
-                "url": "http://190.60.37.118:4000/play/a0bw",
-                "type": "HLS",
-                "icono": "https://i.postimg.cc/nLbB7m9R/images.png",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "WIN SPORTS",
                 "url": "http://138.121.12.126:9000/play/a02a/index.m3u8",
                 "icono": "https://i.postimg.cc/wx54YhGH/images-VDS.png",
                 "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "WIN SPORTS+",
+                "url": "http://190.60.37.118:4000/play/a0bw",
+                "type": "HLS",
+                "icono": "https://i.postimg.cc/nLbB7m9R/images.png",
                 "drm_license_uri": ""
             },
             {
