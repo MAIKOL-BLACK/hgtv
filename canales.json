@@ -1730,6 +1730,13 @@
                 "type": "CLEARKEY",
                 "icono": "https://i.postimg.cc/j2MzdnxM/filmandarts.jpg",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=91c540d350f34f5386f3f1c77f74001f&key=54ee72810551da0cba0c45a8df651962"
+            },
+            {
+                "name": "CINEMAX",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd",
+                "icono": "https://i.ibb.co/dmgX2Ww/Cinemax-LA.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/gza8rlmfiar71jxxy9uvf/cinemax.json?rlkey=xxlj0h0agj5up375fzqhfi7un&st=uvuykku0&dl=0"
             }
         ]
     },
