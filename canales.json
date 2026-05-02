@@ -1966,13 +1966,6 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/np7ipkvvlvy00w8xmcz2d/plimplim.json?rlkey=cstpu2ozeo12ed5ugdwfnalws&st=465tr4hs&dl=0",
                 "icono": "https://i.postimg.cc/3xCZ4XMs/9940-e4b98969-1.webp"
-            },
-            {
-                "name": "Nickelodeon opcion 2",
-                "url": "https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd",
-                "icono": "https://lokos.pages.dev/webp/logos/nick.webp",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=61c18cefecc2d067beaa9ff181305345&key=38d6f650cbf9a38fd9f35c01f98e647a"
             }
         ]
     },
