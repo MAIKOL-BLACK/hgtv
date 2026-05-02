@@ -478,13 +478,6 @@
                 "icono": "https://i.ibb.co/m5bbjySK/LOGO2.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "DEPORTV",
-                "url": "http://live.detodotvplay.com:8080/Risario8/Pineda13/29401",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/4/49/DeporTVLogo2020.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
             }
         ]
     },
