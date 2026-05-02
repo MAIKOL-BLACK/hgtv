@@ -1737,6 +1737,13 @@
                 "icono": "https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/npcid0pbjpevoxfd3fi8x/amc.json?rlkey=j0k1yy7pkrtapyxogubb382m3&st=yv8ytmik&dl=0"
+            },
+            {
+                "name": "AMC opcion 2",
+                "url": "https://chromecast.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd",
+                "icono": "https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/npcid0pbjpevoxfd3fi8x/amc.json?rlkey=j0k1yy7pkrtapyxogubb382m3&st=yv8ytmik&dl=0"
             }
         ]
     },
