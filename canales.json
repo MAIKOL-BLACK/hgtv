@@ -968,6 +968,13 @@
                 "icono": "https://i.ibb.co/r2tFkZ8z/claro-png-file-claro-sports-logo-svg-1280.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "CDO PREMIUM",
+                "url": "http://magmaplayer.com/stream/m3u8/BQVjKmR0BI8kAQthZwVlYwRmAP4kZmIsZGp0ZmZj/hls/149.m3u8",
+                "icono": "https://i.ibb.co/nMRb9NYk/6065f67d6a70f2448ee66115-cdo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
