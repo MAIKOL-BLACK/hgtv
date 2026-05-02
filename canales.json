@@ -2231,6 +2231,13 @@
                 "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "DISNEY+ 5",
+                "url": "hhttps://streamtp10.com/global1.php?stream=disney5",
+                "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
