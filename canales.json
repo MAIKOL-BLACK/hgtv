@@ -935,13 +935,6 @@
                 "drm_license_uri": "https://vimetrix.lat\\/api/license.php?keyid=b8df797e071b0ef1f1a238c8ac18ad2d&key=a65bce29cf4bb5390c686ea0cbbbc4cd"
             },
             {
-                "name": "BEIN SPORTS Ñ",
-                "url": "http://104.238.222.251:9090/279422_.m3u8",
-                "icono": "https://i.ibb.co/yFhY5bWm/Be-IN-Sports-En-Espa-ol.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "TUDN",
                 "url": "http://fortv.cc:8080/54514663/54514663/11885",
                 "icono": "https://i.ibb.co/5XFLRVY0/TUDN-LOGO-COLOR.png",
