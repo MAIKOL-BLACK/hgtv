@@ -933,6 +933,13 @@
                 "icono": "https://i.postimg.cc/DZx4xDzg/golf-sport-logo-on-white-260nw-2640984363-1.webp",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat\\/api/license.php?keyid=b8df797e071b0ef1f1a238c8ac18ad2d&key=a65bce29cf4bb5390c686ea0cbbbc4cd"
+            },
+            {
+                "name": "BEIN SPORTS Ñ",
+                "url": "http://104.238.222.251:9090/279422_.m3u8",
+                "icono": "https://i.ibb.co/yFhY5bWm/Be-IN-Sports-En-Espa-ol.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
