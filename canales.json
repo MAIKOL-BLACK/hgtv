@@ -643,6 +643,18 @@
                 }
             },
             {
+                "name": "ESPN",
+                "url": "https://cr7v.short.gy/live25/spn/Index.m3u8",
+                "icono": "https://i.postimg.cc/Gm3VJ0FX/ESPN-Brasil-300x201.png",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "X Sport",
                 "url": "http://158.172.217.189:8000/play/a19g/index.m3u8",
                 "icono": "https://i.postimg.cc/vT6STbdx/images-V.png",
@@ -686,18 +698,6 @@
                 "icono": "https://i.postimg.cc/6Qv9Nb38/cazetv-logo-0-2048x2048-Easy-Resize-com.jpg",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=0a29e3b7dc26ced80114da99266ea636&key=9f1e4034545fed90b5ce7a8f8925e621",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "ESPN",
-                "url": "https://cr7v.short.gy/live25/spn/Index.m3u8",
-                "icono": "https://i.postimg.cc/Gm3VJ0FX/ESPN-Brasil-300x201.png",
-                "type": "HLS",
-                "drm_license_uri": "",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py/",
