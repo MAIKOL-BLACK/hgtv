@@ -2280,6 +2280,13 @@
                 "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "DISNEY+ 12",
+                "url": "https://streamtpmedia.com/global1.php?stream=disney12",
+                "icono": "https://i.ibb.co/S4zyQVmW/Disney-Plus-logo-svg.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
