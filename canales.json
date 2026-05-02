@@ -2001,6 +2001,13 @@
                 "icono": "https://lokos.pages.dev/webp/logos/nickjr.webp",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e824b2277a86fd6adfc40aa948e5064a&key=28da2dbbe8e1a1463bbb23895b922083"
+            },
+            {
+                "name": "Nick Jr opcion 2",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd",
+                "icono": "https://lokos.pages.dev/webp/logos/nickjr.webp",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e824b2277a86fd6adfc40aa948e5064a&key=28da2dbbe8e1a1463bbb23895b922083"
             }
         ]
     },
