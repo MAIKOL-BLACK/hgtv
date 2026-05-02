@@ -961,13 +961,6 @@
                 "icono": "https://i.ibb.co/nMRb9NYk/6065f67d6a70f2448ee66115-cdo.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "LALIGATV",
-                "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-                "icono": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1f3zmlzr4pamc1jnkm6bjh64of_image-header_pEs_1704473541000",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/r8n44a359tozhu57r2x22/laligatv.json?rlkey=f3zc2zmo7k8ehwpvopjdw9zm6&st=4lumjz0k&dl=0"
             }
         ]
     },
