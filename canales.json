@@ -879,6 +879,13 @@
                 }
             },
             {
+                "name": "TUDN",
+                "url": "http://fortv.cc:8080/54514663/54514663/11885",
+                "icono": "https://i.postimg.cc/rwwPJKjB/unnamed-BB.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/b8a1te1odgs8etywzumfr/tudn.json?rlkey=7wz04zg60sn5vyucsqdsc3yw7&st=14y70cbm&dl=0"
+            },
+            {
                 "name": "TUDN USA",
                 "url": "http://185.56.109.251/Tudn/playlist.m3u8",
                 "icono": "https://i.postimg.cc/nhthGGT9/1b313b5c5e6011d8ca2973b9b0e49e90.png",
@@ -898,13 +905,6 @@
                 "icono": "https://i.postimg.cc/mg0JHmwc/images-(2).png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "TUDN",
-                "url": "http://fortv.cc:8080/54514663/54514663/11885",
-                "icono": "https://i.postimg.cc/rwwPJKjB/unnamed-BB.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/b8a1te1odgs8etywzumfr/tudn.json?rlkey=7wz04zg60sn5vyucsqdsc3yw7&st=14y70cbm&dl=0"
             },
             {
                 "name": "RALLY TV",
