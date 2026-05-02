@@ -1730,13 +1730,6 @@
                 "type": "CLEARKEY",
                 "icono": "https://i.postimg.cc/j2MzdnxM/filmandarts.jpg",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=91c540d350f34f5386f3f1c77f74001f&key=54ee72810551da0cba0c45a8df651962"
-            },
-            {
-                "name": "AMC",
-                "url": "https://chromecast.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd",
-                "icono": "https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/npcid0pbjpevoxfd3fi8x/amc.json?rlkey=j0k1yy7pkrtapyxogubb382m3&st=yv8ytmik&dl=0"
             }
         ]
     },
