@@ -2252,6 +2252,13 @@
                 "icono": "https://i.ibb.co/svBWVF6y/unnamed.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 2",
+                "url": "https://liveassets.encoders.immergo.tv/lpf/s/am=0,s=ffd893bfa8a51aba8af3f01e7c0a707646ec186e4ac7391d5afc328c5d899372/uvod-live-encoder-assets-1/116bd35c-aa6b-49c9-b624-aed240e305f0/7160f281-3513-4c9d-87b4-7339c897476e/2/streamPlaylist.m3u8",
+                "icono": "https://i.ibb.co/svBWVF6y/unnamed.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
