@@ -900,6 +900,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "CDO PREMIUM",
+                "url": "http://magmaplayer.com/stream/m3u8/BQVjKmR0BI8kAQthZwVlYwRmAP4kZmIsZGp0ZmZj/hls/149.m3u8",
+                "icono": "https://i.postimg.cc/LX2ftZB1/tv-station-cdo-premium-2473.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "FOX ONE",
                 "url": "https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8",
                 "icono": "https://i.postimg.cc/0Q2VBT89/fox-new-Placeholder-Cover-1920x1080-1764567761278.png",
@@ -918,13 +925,6 @@
                 "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
                 "type": "HLS",
                 "icono": "https://i.postimg.cc/J4Csp8zP/unnamed.png",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CDO PREMIUM",
-                "url": "http://magmaplayer.com/stream/m3u8/BQVjKmR0BI8kAQthZwVlYwRmAP4kZmIsZGp0ZmZj/hls/149.m3u8",
-                "icono": "https://i.postimg.cc/LX2ftZB1/tv-station-cdo-premium-2473.png",
-                "type": "HLS",
                 "drm_license_uri": ""
             },
             {
