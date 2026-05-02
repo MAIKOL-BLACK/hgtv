@@ -1807,13 +1807,6 @@
                 "icono": "https://i.ibb.co/r2gYhQb/tnt-fundo-escuro.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/6uatubavwbq3hb4smwem8/tnt.json?rlkey=6lyiihjb5htyx5fm46f3ghkht&st=y8zf9it0&dl=0"
-            },
-            {
-                "name": "TNT SERIES",
-                "url": "https://chromecast.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd",
-                "icono": "https://i.ibb.co/pJGxSPx/unnamed.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/uljocnrcm6hcd2goes8di/tntseries.json?rlkey=z2g7zdg66acsc25z2jgi2fdkh&st=o4ygihqz&dl=0"
             }
         ]
     },
