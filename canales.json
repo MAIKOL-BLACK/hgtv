@@ -1737,6 +1737,13 @@
                 "icono": "https://i.ibb.co/dKMvJGY/tbs-tv1490.jpg",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/v049nl6gp8njp14s61xqz/tbs.json?rlkey=q9seofkzal1jd7b7oy6nomucl&st=r1p7tmam&dl=0"
+            },
+            {
+                "name": "TBS opcion 2",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
+                "icono": "https://i.ibb.co/dKMvJGY/tbs-tv1490.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/v049nl6gp8njp14s61xqz/tbs.json?rlkey=q9seofkzal1jd7b7oy6nomucl&st=r1p7tmam&dl=0"
             }
         ]
     },
