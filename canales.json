@@ -963,13 +963,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "UNIVERSO",
-                "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/500px-Universo_2017.svg.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/oowbgf2hpfsdwi2nkvup9/universo.json?rlkey=vu2x9m8hyg8mwvng1abl8arzk&st=eq1s262a&dl=0"
-            },
-            {
                 "name": "LALIGATV",
                 "url": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
                 "icono": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1f3zmlzr4pamc1jnkm6bjh64of_image-header_pEs_1704473541000",
