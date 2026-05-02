@@ -1737,6 +1737,13 @@
                 "icono": "https://i.ibb.co/dmgX2Ww/Cinemax-LA.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/gza8rlmfiar71jxxy9uvf/cinemax.json?rlkey=xxlj0h0agj5up375fzqhfi7un&st=uvuykku0&dl=0"
+            },
+            {
+                "name": "CINEMAX opcion 2",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd",
+                "icono": "https://i.ibb.co/dmgX2Ww/Cinemax-LA.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/gza8rlmfiar71jxxy9uvf/cinemax.json?rlkey=xxlj0h0agj5up375fzqhfi7un&st=uvuykku0&dl=0"
             }
         ]
     },
