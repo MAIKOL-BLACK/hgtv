@@ -443,6 +443,13 @@
                 "icono": "https://i.ibb.co/gZnCt7sc/Logo-canal-encuentro.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "BAYRES TV",
+                "url": "https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w23453938.m3u8",
+                "icono": "https://i.ibb.co/LXbKc73z/logo-bayres-tv.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
