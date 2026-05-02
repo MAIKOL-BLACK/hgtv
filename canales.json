@@ -2280,6 +2280,13 @@
                 "icono": "https://i.ibb.co/svBWVF6y/unnamed.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "TYC SPORT (PLAY 6)",
+                "url": "https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8",
+                "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
