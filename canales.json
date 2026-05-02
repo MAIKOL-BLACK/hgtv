@@ -1730,13 +1730,6 @@
                 "type": "CLEARKEY",
                 "icono": "https://i.postimg.cc/j2MzdnxM/filmandarts.jpg",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=91c540d350f34f5386f3f1c77f74001f&key=54ee72810551da0cba0c45a8df651962"
-            },
-            {
-                "name": "SONY CHANNEL",
-                "url": "https://chromecast.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd",
-                "icono": "https://i.ibb.co/jzDc2Vs/6065f6e153054c65152bddd6-sony.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/5dgz5k6x5iat3bltu0shj/sonnychannel.json?rlkey=dnfxmhzkjoi13wud9a2cppocs&st=qqjq6pwh&dl=0"
             }
         ]
     },
