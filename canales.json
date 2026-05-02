@@ -1737,6 +1737,13 @@
                 "icono": "https://i.ibb.co/G7RkmGT/ar-comedy-central-m.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/irhh1a1oy37nfcwsm1k7h/comedycentral.json?rlkey=wlzk2xufg0qyjpa17vsf8zvbz&st=vije1mgx&dl=0"
+            },
+            {
+                "name": "COMEDY CENTRAL opcion 2",
+                "url": "https://chromecast.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd",
+                "icono": "https://i.ibb.co/G7RkmGT/ar-comedy-central-m.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/irhh1a1oy37nfcwsm1k7h/comedycentral.json?rlkey=wlzk2xufg0qyjpa17vsf8zvbz&st=vije1mgx&dl=0"
             }
         ]
     },
