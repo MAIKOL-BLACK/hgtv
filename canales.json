@@ -2364,6 +2364,13 @@
                 "icono": "https://a-qiio.onrender.com/webp/logos/disworld.webp",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://tonykshop.lat/license.php?keyid=34ee94c2263345f7a3a590661264e490&key=56757d656a697ab7a2e5e083b5d21bb5"
+            },
+            {
+                "name": "DISCOVERY WORLD opcion 2",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc/Discovery_World_HD.mpd",
+                "icono": "https://a-qiio.onrender.com/webp/logos/disworld.webp",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://tonykshop.lat/license.php?keyid=34ee94c2263345f7a3a590661264e490&key=56757d656a697ab7a2e5e083b5d21bb5"
             }
         ]
     }
