@@ -506,13 +506,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "AXN",
-                "url": "http://168.205.55.2:8000/play/a08l/index.m3u8?hls",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "ANIMAL PLANET",
                 "url": "http://168.205.55.2:8000/play/a07s/index.m3u8?hls",
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png",
