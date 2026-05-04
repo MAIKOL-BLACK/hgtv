@@ -2308,6 +2308,13 @@
                 "icono": "https://i.ibb.co/Xy2WV2N/discovery-science-logo.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://tonykshop.lat/license.php?keyid=46ba409fb04e40fb86b466d97e3a9588&key=f129fb9b5d213e20e2abe529b8cf2597"
+            },
+            {
+                "name": "DISCOVERY SCIENCE opcion 2",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd",
+                "icono": "https://i.ibb.co/Xy2WV2N/discovery-science-logo.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://tonykshop.lat/license.php?keyid=46ba409fb04e40fb86b466d97e3a9588&key=f129fb9b5d213e20e2abe529b8cf2597"
             }
         ]
     }
