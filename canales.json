@@ -2266,6 +2266,13 @@
                 "icono": "https://i.ibb.co/bNnyx0B/3328310f-6d31-30a1-be18-d17a7ecb95cd.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://tonykshop.lat/license.php?keyid=c283c84a7af0d7c8b9b612a8fb22a001&key=f45510c721eebd6eaa86a2e16ccbd77d"
+            },
+            {
+                "name": "NATIONAL GEOGRAPHIC CHANNEL",
+                "url": "http://magmaplayer.com/stream/m3u8/Awp3KmpjZ18lBQN0BwR0MQcvLJZjBwExAJD6ZGH4Zwb0AQD1BwL4LGV6MTMzL18kAmDkAwV/hls/703.m3u8",
+                "icono": "https://i.ibb.co/4wFDvDGB/611bdefc78806.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
