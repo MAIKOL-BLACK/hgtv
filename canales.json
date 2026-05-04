@@ -2224,6 +2224,13 @@
                 "icono": "https://i.ibb.co/4nr56B4Y/2018-Animal-Planet-logo-svg.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://tonykshop.lat/license.php?keyid=4146a8ecbb0540dc807c6389ee87e0bc&key=0c3cdc1b3e4617c57361265e9fa4c5bd"
+            },
+            {
+                "name": "HISTORY",
+                "url": "https://chromecast.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd",
+                "icono": "https://i.ibb.co/cSf474qK/History-Logo-svg.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://tonykshop.lat/license.php?keyid=e82318e518ba70cea3d7b37bef99e692&key=a05fcb634c071a514e3039e1c274b4db"
             }
         ]
     }
