@@ -2287,6 +2287,13 @@
                 "icono": "https://i.ibb.co/gjWGgjX/hh.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://tonykshop.lat/license.php?keyid=9b0a76dd7a0df1e1b4320aeb1254d1a9&key=d011267775c38d6d2ab09b428c03d63f"
+            },
+            {
+                "name": "DISCOVERY ID",
+                "url": "https://chromecast.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc/ID.mpd",
+                "icono": "",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://tonykshop.lat/license.php?keyid=0956caf2e2bd41f49fdcead7cc94fe24&key=640c49578073a911938617eb4e652d6c"
             }
         ]
     }
