@@ -2207,5 +2207,17 @@
                 "drm_license_uri": ""
             }
         ]
+    },
+    {
+        "name": "CANALES DE COLOMBIA 🇨🇴",
+        "samples": [
+            {
+                "name": "SEÑAL COLOMBIA",
+                "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL",
+                "icono": "https://play-lh.googleusercontent.com/EnLecLVpSTkMnX_H6wl7j-6EkDi3mTbGN3wjvzGgim2a5AiL2bUTWWpB--W9Xir10UJB",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
     }
 ]
