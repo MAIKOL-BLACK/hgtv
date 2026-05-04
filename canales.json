@@ -2273,6 +2273,13 @@
                 "icono": "https://i.ibb.co/4wFDvDGB/611bdefc78806.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "DISCOVERY H&H",
+                "url": "https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd",
+                "icono": "https://i.ibb.co/gjWGgjX/hh.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://tonykshop.lat/license.php?keyid=9b0a76dd7a0df1e1b4320aeb1254d1a9&key=d011267775c38d6d2ab09b428c03d63f"
             }
         ]
     }
