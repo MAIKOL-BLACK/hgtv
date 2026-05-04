@@ -2238,6 +2238,13 @@
                 "icono": "https://www.canalcalitv.com/wp-content/uploads/2018/06/calitv-sin-MiCanal.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "CANAL VISION DORADA",
+                "url": "https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL",
+                "icono": "https://www.vivalivetv.com/public/files/shows/0/1/2695-800x450-FFFFFF.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
