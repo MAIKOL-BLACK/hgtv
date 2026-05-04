@@ -506,13 +506,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "ANIMAL PLANET",
-                "url": "http://168.205.55.2:8000/play/a07s/index.m3u8?hls",
-                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "A&E BR",
                 "url": "http://168.205.55.2:8000/play/a08s/index.m3u8?hls",
                 "icono": "https://prod-s.cdn-cf.philo.com/images/channel_logos/AESTR/large.png?auto=webp&auto=webp&ver=1&ver=1",
