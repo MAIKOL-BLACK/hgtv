@@ -532,6 +532,13 @@
                 "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/960px-Logotipo_da_GloboNews.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "CNN BRASIL",
+                "url": "http://168.205.55.2:8000/play/a07q/index.m3u8?hls",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1280px-CNN_Brasil.svg.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
