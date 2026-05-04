@@ -2217,6 +2217,13 @@
                 "icono": "https://play-lh.googleusercontent.com/EnLecLVpSTkMnX_H6wl7j-6EkDi3mTbGN3wjvzGgim2a5AiL2bUTWWpB--W9Xir10UJB",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "TELEPACIFICO",
+                "url": "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8?PlaylistM3UCL",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/8/84/LOGO-TELEPACIFICO.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
