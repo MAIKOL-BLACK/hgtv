@@ -2336,6 +2336,13 @@
                 "icono": "https://i.ibb.co/TD6cKXF0/2015-Discovery-theater-HD-logo-svg.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://tonykshop.lat/license.php?keyid=5279c05ea51c4dae8e7fa6be88448089&key=b28dfafba4b848dfd5d7c177ebf19108"
+            },
+            {
+                "name": "DISCOVERY THEATER opcion 2",
+                "url": "https://chromecast.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_HD.mpd",
+                "icono": "https://i.ibb.co/TD6cKXF0/2015-Discovery-theater-HD-logo-svg.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://tonykshop.lat/license.php?keyid=5279c05ea51c4dae8e7fa6be88448089&key=b28dfafba4b848dfd5d7c177ebf19108"
             }
         ]
     }
