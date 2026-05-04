@@ -1466,6 +1466,32 @@
         ]
     },
     {
+        "name": "CANALES DE COLOMBIA 🇨🇴",
+        "samples": [
+            {
+                "name": "TELEPACIFICO",
+                "url": "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8?PlaylistM3UCL",
+                "icono": "https://i.postimg.cc/Kjvj4wrJ/LOGO-TELEPACIFICO.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CALI TV",
+                "url": "https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8?PlaylistM3UCL",
+                "icono": "https://i.postimg.cc/pTVRB89S/images-ZXC.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CANAL VISION DORADA",
+                "url": "https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL",
+                "icono": "https://i.postimg.cc/ry32D79n/b-Dea-X7e-400x400.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "DEPORTES COLOMBIA 🇨🇴",
         "samples": [
             {
@@ -1493,32 +1519,6 @@
                 "name": "ESPN 7",
                 "url": "http://38.134.250.110:8000/play/a018/index.m3u8",
                 "icono": "https://i.postimg.cc/fL0jxBn0/espn-7-logo-png-seeklogo-522718-(2).png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "CANALES DE COLOMBIA 🇨🇴",
-        "samples": [
-            {
-                "name": "TELEPACIFICO",
-                "url": "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8?PlaylistM3UCL",
-                "icono": "https://i.postimg.cc/Kjvj4wrJ/LOGO-TELEPACIFICO.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CALI TV",
-                "url": "https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8?PlaylistM3UCL",
-                "icono": "https://i.postimg.cc/pTVRB89S/images-ZXC.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CANAL VISION DORADA",
-                "url": "https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL",
-                "icono": "https://i.postimg.cc/ry32D79n/b-Dea-X7e-400x400.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
