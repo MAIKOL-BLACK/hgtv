@@ -511,6 +511,13 @@
                 "icono": "https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7012-1071_import.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "TV BAND",
+                "url": "https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
