@@ -1725,6 +1725,13 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=b47f257df0314d09a7f8355c3abe1dc6&key=bdc9f1696a82ee7398dd3a7fa82300e2"
             },
             {
+                "name": "SEÑAL COLOMBIA",
+                "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL",
+                "icono": "https://i.postimg.cc/gJ383CZs/senal-colombia-2013-present-logo-png-seeklogo-320578.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "FILM & ARTS",
                 "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4MDAwNDg4Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjcwMTcxZjMzNDZlOGI0MiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjYyIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.5aZ1LpTrIerc0tL3ZvMKyl4hTipWvRQv8BSCmV-uCUr462iMy1CiLjwmuBoCCci_8trWdXXXfc10jzqcCSf2iQ==/live/c6eds/Film_Arts/SA_Live_dash_enc/Film_Arts.mpd",
                 "type": "CLEARKEY",
@@ -1743,13 +1750,6 @@
     {
         "name": "CANALES DE COLOMBIA 🇨🇴",
         "samples": [
-            {
-                "name": "SEÑAL COLOMBIA",
-                "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL",
-                "icono": "https://i.postimg.cc/gJ383CZs/senal-colombia-2013-present-logo-png-seeklogo-320578.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "name": "TELEPACIFICO",
                 "url": "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8?PlaylistM3UCL",
