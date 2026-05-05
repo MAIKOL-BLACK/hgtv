@@ -2301,6 +2301,13 @@
                 "icono": "https://i.ibb.co/MxSnqF3D/Logos-canales-150x80-03-300x160.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "CNN CHILE",
+                "url": "https://jireh-6-hls-video-us-isp.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8?dpssid=55d2a33681917e2f59e1c5892457ff6b&sid=ba5t1l1xb21675155147673ace6c9b300&ndvc=0",
+                "icono": "https://i.ibb.co/znyk1NW/cnn.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
