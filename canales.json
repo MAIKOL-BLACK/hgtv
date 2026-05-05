@@ -2257,6 +2257,13 @@
                 "icono": "https://i.postimg.cc/BQSTQZJF/TVPE.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "PANAMERICANA",
+                "url": "http://190.237.169.85:8000/play/panamericanahd/index.m3u8?hls",
+                "icono": "https://i.ibb.co/4w2KGQWD/911851312-Panamericana-TVlogoficticio-png-ea6b8edf9f059b192b1a6ce64a4a3e43.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
