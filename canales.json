@@ -2235,13 +2235,6 @@
         "name": "CANALES DE PERÚ 🇵🇪",
         "samples": [
             {
-                "name": "CANAL N",
-                "url": "http://magmaplayer.com/stream/m3u8/ZwRmKmRjAwIsZGH3YwRjZP42ZF42BS8kAmDmZQp/hls/1065.m3u8",
-                "icono": "https://i.ibb.co/Zp4QMd8V/Canal-N-2006-2017-con-l-nea.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "SOL TV",
                 "url": "https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8",
                 "icono": "https://i.ibb.co/FkfJJLsk/Logo.png",
