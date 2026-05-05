@@ -1811,6 +1811,25 @@
         ]
     },
     {
+        "name": "CANALES DE PERÚ 🇵🇪",
+        "samples": [
+            {
+                "name": "ATV SUR",
+                "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8",
+                "icono": "https://i.postimg.cc/K8JFS93J/images-NMO.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "AMERICA",
+                "url": "http://38.224.231.47:8000/play/a00f/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/Px8kDTV5/Am-rica-Televisi-n-logo-con-fondo-2025-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "HBO Y UNIVERSAL 🎥",
         "samples": [
             {
@@ -1900,25 +1919,6 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            }
-        ]
-    },
-    {
-        "name": "CANALES DE PERÚ 🇵🇪",
-        "samples": [
-            {
-                "name": "ATV SUR",
-                "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8",
-                "icono": "https://i.postimg.cc/K8JFS93J/images-NMO.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "AMERICA",
-                "url": "http://38.224.231.47:8000/play/a00f/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/Px8kDTV5/Am-rica-Televisi-n-logo-con-fondo-2025-1.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
