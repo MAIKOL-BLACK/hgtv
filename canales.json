@@ -2264,6 +2264,13 @@
                 "icono": "https://i.ibb.co/4w2KGQWD/911851312-Panamericana-TVlogoficticio-png-ea6b8edf9f059b192b1a6ce64a4a3e43.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "CANAL N",
+                "url": "http://magmaplayer.com/stream/m3u8/ZwRmKmRjAwIsZGH3YwRjZP42ZF42BS8kAmDmZQp/hls/1065.m3u8",
+                "icono": "https://i.ibb.co/Zp4QMd8V/Canal-N-2006-2017-con-l-nea.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
