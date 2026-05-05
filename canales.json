@@ -1508,39 +1508,6 @@
         ]
     },
     {
-        "name": "DEPORTES COLOMBIA 🇨🇴",
-        "samples": [
-            {
-                "name": "ESPN 4",
-                "url": "http://38.134.250.110:8000/play/a01a/index.m3u8",
-                "icono": "https://i.postimg.cc/C5BCs73H/61a4c896fc740bb1476f0225-LOGO-ESPN4-2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 5",
-                "url": "http://38.134.250.110:8000/play/a00s/index.m3u8",
-                "icono": "https://i.postimg.cc/59Yk3Sqg/espn-5-logo-png-seeklogo-522715.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 6",
-                "url": "http://38.134.250.110:8000/play/a017/index.m3u8",
-                "icono": "https://i.postimg.cc/3rvnpJYS/images-(7).png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 7",
-                "url": "http://38.134.250.110:8000/play/a018/index.m3u8",
-                "icono": "https://i.postimg.cc/fL0jxBn0/espn-7-logo-png-seeklogo-522718-(2).png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "CANALES DE CHILE 🇨🇱",
         "samples": [
             {
@@ -1596,6 +1563,39 @@
                 "name": "CLICKTV",
                 "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
                 "icono": "https://i.postimg.cc/Gm1MNwCf/images-XZV.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "DEPORTES COLOMBIA 🇨🇴",
+        "samples": [
+            {
+                "name": "ESPN 4",
+                "url": "http://38.134.250.110:8000/play/a01a/index.m3u8",
+                "icono": "https://i.postimg.cc/C5BCs73H/61a4c896fc740bb1476f0225-LOGO-ESPN4-2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 5",
+                "url": "http://38.134.250.110:8000/play/a00s/index.m3u8",
+                "icono": "https://i.postimg.cc/59Yk3Sqg/espn-5-logo-png-seeklogo-522715.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 6",
+                "url": "http://38.134.250.110:8000/play/a017/index.m3u8",
+                "icono": "https://i.postimg.cc/3rvnpJYS/images-(7).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 7",
+                "url": "http://38.134.250.110:8000/play/a018/index.m3u8",
+                "icono": "https://i.postimg.cc/fL0jxBn0/espn-7-logo-png-seeklogo-522718-(2).png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
