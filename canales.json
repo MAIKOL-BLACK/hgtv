@@ -1904,6 +1904,25 @@
         ]
     },
     {
+        "name": "CANALES DE PERÚ 🇵🇪",
+        "samples": [
+            {
+                "name": "ATV SUR",
+                "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8",
+                "icono": "https://i.postimg.cc/K8JFS93J/images-NMO.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "AMERICA",
+                "url": "http://38.224.231.47:8000/play/a00f/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/Px8kDTV5/Am-rica-Televisi-n-logo-con-fondo-2025-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "CINES 24/7 🎬",
         "samples": [
             {
@@ -1938,25 +1957,6 @@
                 "name": "THE WALKING DEAD",
                 "url": "https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8",
                 "icono": "https://i.postimg.cc/j2KkywJW/images-X.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "CANALES DE PERÚ 🇵🇪",
-        "samples": [
-            {
-                "name": "ATV SUR",
-                "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8",
-                "icono": "https://i.postimg.cc/K8JFS93J/images-NMO.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "AMERICA",
-                "url": "http://38.224.231.47:8000/play/a00f/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/Px8kDTV5/Am-rica-Televisi-n-logo-con-fondo-2025-1.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
