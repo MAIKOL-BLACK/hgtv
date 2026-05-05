@@ -2336,6 +2336,13 @@
                 "icono": "https://i.ibb.co/WvX3zcC/teletrack.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "TV SENADO",
+                "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
+                "icono": "https://i.ibb.co/SRbmPhb/channels4-profile.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
