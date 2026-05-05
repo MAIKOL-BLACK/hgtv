@@ -2308,6 +2308,13 @@
                 "icono": "https://i.ibb.co/znyk1NW/cnn.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "BIO BIO TV",
+                "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?did=b21378984870673ace8b76a45",
+                "icono": "https://i.ibb.co/gZ5BbRN9/radio-biobio-logo-dark.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
