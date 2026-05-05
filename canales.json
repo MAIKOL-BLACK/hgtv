@@ -2315,6 +2315,13 @@
                 "icono": "https://i.ibb.co/gZ5BbRN9/radio-biobio-logo-dark.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "PORTAL TV",
+                "url": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8",
+                "icono": "https://i.ibb.co/PvpSWFpC/R-4.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
