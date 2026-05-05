@@ -1944,6 +1944,25 @@
         ]
     },
     {
+        "name": "CANALES DE PERÚ 🇵🇪",
+        "samples": [
+            {
+                "name": "ATV SUR",
+                "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8",
+                "icono": "https://i.postimg.cc/K8JFS93J/images-NMO.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "AMERICA",
+                "url": "http://38.224.231.47:8000/play/a00f/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/Px8kDTV5/Am-rica-Televisi-n-logo-con-fondo-2025-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "CANALES DE NOVELAS 🎬",
         "samples": [
             {
@@ -1982,25 +2001,6 @@
                 "name": "TELEMUNDO",
                 "url": "http://181.118.158.103:8000/play/a01x/index.m3u8?hls",
                 "icono": "https://i.postimg.cc/6qYmJvhZ/png-clipart-telemundo-nbcuniversal-logo-television-ktdo-others-television-text-removebg-preview.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "CANALES DE PERÚ 🇵🇪",
-        "samples": [
-            {
-                "name": "ATV SUR",
-                "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8",
-                "icono": "https://i.postimg.cc/K8JFS93J/images-NMO.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "AMERICA",
-                "url": "http://38.224.231.47:8000/play/a00f/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/Px8kDTV5/Am-rica-Televisi-n-logo-con-fondo-2025-1.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
