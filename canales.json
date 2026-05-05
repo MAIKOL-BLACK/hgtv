@@ -1421,67 +1421,6 @@
         ]
     },
     {
-        "name": "DEPORTES CHILE 🇨🇱",
-        "samples": [
-            {
-                "name": "ESPN 1",
-                "url": "http://128.201.227.251:4000/play/a0dw",
-                "icono": "https://i.postimg.cc/tJMSQHXq/images-(6).png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 2",
-                "url": "http://128.201.227.251:4000/play/a0dx",
-                "icono": "https://i.postimg.cc/YqSK5pxr/espn2-bw-neg.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 3",
-                "url": "http://38.7.195.44:8000/play/a029",
-                "icono": "https://i.postimg.cc/7PmjMFr2/corporate-Web-Publishing-ESPN3-8-27-Thumbnail-16x9-V2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 4",
-                "url": "http://38.7.195.44:8000/play/a06n",
-                "icono": "https://i.postimg.cc/XvksN5Vz/espncl.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 5",
-                "url": "http://38.7.195.44:8000/play/a024",
-                "icono": "https://i.postimg.cc/Fz3dK6tT/GGZOje3W4AAg7e-O-(1).png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 6",
-                "url": "http://38.7.195.44:8000/play/a01z",
-                "icono": "https://i.postimg.cc/mgRMPTgQ/Espn6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 7",
-                "url": "http://38.7.195.44:8000/play/a014",
-                "icono": "https://i.postimg.cc/KzVBjL1B/espn-7-logo-png-seeklogo-522718-(1).png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN PREMIUM",
-                "url": "http://38.7.195.44:8000/play/a04g",
-                "icono": "https://i.postimg.cc/nzLGHwSh/978b930f-6cb6-4102-bc04-b66944f1b1ff.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "CANALES DE CHILE 🇨🇱",
         "samples": [
             {
@@ -1537,6 +1476,67 @@
                 "name": "CLICKTV",
                 "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
                 "icono": "https://i.postimg.cc/Gm1MNwCf/images-XZV.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "DEPORTES CHILE 🇨🇱",
+        "samples": [
+            {
+                "name": "ESPN 1",
+                "url": "http://128.201.227.251:4000/play/a0dw",
+                "icono": "https://i.postimg.cc/tJMSQHXq/images-(6).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 2",
+                "url": "http://128.201.227.251:4000/play/a0dx",
+                "icono": "https://i.postimg.cc/YqSK5pxr/espn2-bw-neg.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 3",
+                "url": "http://38.7.195.44:8000/play/a029",
+                "icono": "https://i.postimg.cc/7PmjMFr2/corporate-Web-Publishing-ESPN3-8-27-Thumbnail-16x9-V2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 4",
+                "url": "http://38.7.195.44:8000/play/a06n",
+                "icono": "https://i.postimg.cc/XvksN5Vz/espncl.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 5",
+                "url": "http://38.7.195.44:8000/play/a024",
+                "icono": "https://i.postimg.cc/Fz3dK6tT/GGZOje3W4AAg7e-O-(1).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 6",
+                "url": "http://38.7.195.44:8000/play/a01z",
+                "icono": "https://i.postimg.cc/mgRMPTgQ/Espn6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 7",
+                "url": "http://38.7.195.44:8000/play/a014",
+                "icono": "https://i.postimg.cc/KzVBjL1B/espn-7-logo-png-seeklogo-522718-(1).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN PREMIUM",
+                "url": "http://38.7.195.44:8000/play/a04g",
+                "icono": "https://i.postimg.cc/nzLGHwSh/978b930f-6cb6-4102-bc04-b66944f1b1ff.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
