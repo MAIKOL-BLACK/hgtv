@@ -1541,53 +1541,6 @@
         ]
     },
     {
-        "name": "DEPORTES ECUADOR 🇪🇨",
-        "samples": [
-            {
-                "name": "ESPN 1 ECUADOR",
-                "url": "http://190.83.15.112:8000/play/a0f7/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/LXPJ8WLZ/espn-logo-espn-icon-transparent-free-png.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 2 ECUADOR",
-                "url": "http://190.83.15.112:8000/play/a0ey/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/fbrdLXFW/RS2652-ESPN2-CLR-Pos-scr.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 3 ECUADOR",
-                "url": "http://190.83.15.112:8000/play/a06j/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/vBC5P9L7/ESPN3-Logo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 5 ECUADOR",
-                "url": "http://190.83.15.112:8000/play/a067/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/3Rqk8TkT/espn-5-logo-png-seeklogo-522715-(1).png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 6 ECUADOR",
-                "url": "http://190.83.15.112:8000/play/a061/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/NFnVZSwR/espn-6-logo-png-seeklogo-522717.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN PREMIUM ECUADOR",
-                "url": "http://190.83.15.112:8000/play/a0fa/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/vBTwb4Hb/maxresdefault.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "CANALES DE CHILE 🇨🇱",
         "samples": [
             {
@@ -1643,6 +1596,53 @@
                 "name": "CLICKTV",
                 "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
                 "icono": "https://i.postimg.cc/Gm1MNwCf/images-XZV.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "DEPORTES ECUADOR 🇪🇨",
+        "samples": [
+            {
+                "name": "ESPN 1 ECUADOR",
+                "url": "http://190.83.15.112:8000/play/a0f7/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/LXPJ8WLZ/espn-logo-espn-icon-transparent-free-png.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 2 ECUADOR",
+                "url": "http://190.83.15.112:8000/play/a0ey/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/fbrdLXFW/RS2652-ESPN2-CLR-Pos-scr.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 3 ECUADOR",
+                "url": "http://190.83.15.112:8000/play/a06j/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/vBC5P9L7/ESPN3-Logo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 5 ECUADOR",
+                "url": "http://190.83.15.112:8000/play/a067/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/3Rqk8TkT/espn-5-logo-png-seeklogo-522715-(1).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 6 ECUADOR",
+                "url": "http://190.83.15.112:8000/play/a061/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/NFnVZSwR/espn-6-logo-png-seeklogo-522717.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN PREMIUM ECUADOR",
+                "url": "http://190.83.15.112:8000/play/a0fa/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/vBTwb4Hb/maxresdefault.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
