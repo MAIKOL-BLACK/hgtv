@@ -2371,6 +2371,13 @@
                 "icono": "https://i.ibb.co/TMGJfpqN/Novo-Tempo-Logo-Vector-svg.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "CLICKTV",
+                "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+                "icono": "https://i.ibb.co/gZqHJMrp/clicktv.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
