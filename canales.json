@@ -1897,50 +1897,6 @@
         ]
     },
     {
-        "name": "CANALES DE NOVELAS 🎬",
-        "samples": [
-            {
-                "name": "TLN",
-                "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-                "icono": "https://i.postimg.cc/hvjGr06q/images.jpg"
-            },
-            {
-                "name": "NOVELISIMA",
-                "url": "https://novelisimaottera-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8",
-                "type": "CLEARKEY",
-                "icono": "https://i.postimg.cc/zf75cgnB/33009681-d88f-43a9-b20b-c62d2d90d675-1684517589-1.webp",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4400f758ddbddc81b7ef9a2b32251625&key=aa2448ebc63a5034b9b8e6e8d15f770d",
-                "headers": {
-                    "Referer": "https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
-            },
-            {
-                "name": "RCN NOVELAS",
-                "url": "http://181.118.158.103:8000/play/rcnnovelas/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/DzSFC2nq/images-XCVBZCX.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "AZ CORAZÓN",
-                "url": "http://181.118.158.103:8000/play/a02r/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/MGf27dmR/canales-azcorazon.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TELEMUNDO",
-                "url": "http://181.118.158.103:8000/play/a01x/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/6qYmJvhZ/png-clipart-telemundo-nbcuniversal-logo-television-ktdo-others-television-text-removebg-preview.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "TELEMUNDO Y UNIVERSO",
         "samples": [
             {
@@ -1982,6 +1938,50 @@
                 "name": "UNIVERSO",
                 "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
                 "icono": "https://i.postimg.cc/BnD2Hq2k/NBC-Universo-2018.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "CANALES DE NOVELAS 🎬",
+        "samples": [
+            {
+                "name": "TLN",
+                "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+                "icono": "https://i.postimg.cc/hvjGr06q/images.jpg"
+            },
+            {
+                "name": "NOVELISIMA",
+                "url": "https://novelisimaottera-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://i.postimg.cc/zf75cgnB/33009681-d88f-43a9-b20b-c62d2d90d675-1684517589-1.webp",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4400f758ddbddc81b7ef9a2b32251625&key=aa2448ebc63a5034b9b8e6e8d15f770d",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "RCN NOVELAS",
+                "url": "http://181.118.158.103:8000/play/rcnnovelas/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/DzSFC2nq/images-XCVBZCX.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "AZ CORAZÓN",
+                "url": "http://181.118.158.103:8000/play/a02r/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/MGf27dmR/canales-azcorazon.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TELEMUNDO",
+                "url": "http://181.118.158.103:8000/play/a01x/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/6qYmJvhZ/png-clipart-telemundo-nbcuniversal-logo-television-ktdo-others-television-text-removebg-preview.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
