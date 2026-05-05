@@ -2303,13 +2303,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "UESTV",
-                "url": "https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8",
-                "icono": "https://i.ibb.co/d0p2B9TG/logo-UESTV-1080x1055.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "TVR",
                 "url": "https://redirector.dps.live/hls/tvr/playlist.m3u8",
                 "icono": "https://i.ibb.co/mrpXfL9m/R.png",
