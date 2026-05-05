@@ -2343,6 +2343,13 @@
                 "icono": "https://i.ibb.co/SRbmPhb/channels4-profile.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "TVEX",
+                "url": "https://v2.tustreaming.cl/tevex/index.m3u8",
+                "icono": "https://i.ibb.co/MDdFmxd7/logo-tevex-nuevo-2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
