@@ -2250,6 +2250,13 @@
                 "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "TVPE",
+                "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8",
+                "icono": "https://i.postimg.cc/BQSTQZJF/TVPE.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
