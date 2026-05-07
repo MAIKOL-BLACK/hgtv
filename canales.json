@@ -1875,6 +1875,32 @@
         ]
     },
     {
+        "name": "CANALES DE BOLIVIA 🇧🇴",
+        "samples": [
+            {
+                "name": "CADENA A",
+                "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
+                "icono": "https://i.ibb.co/DpLspVV/Cadena-A-Bolivia-en-VIVO-Online-en-Directo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RED ADVENIR",
+                "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8",
+                "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BOLIVISIÓN",
+                "url": "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8",
+                "icono": "https://i.ibb.co/VYsmY1by/R-2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "CINE Y SERIES 🎬",
         "samples": [
             {
@@ -1916,32 +1942,6 @@
                 "name": "MOVISTAR SERIES",
                 "url": "http://magmaplayer.com/stream/m3u8/AGDjKmL2BI8kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/669.m3u8",
                 "icono": "https://i.postimg.cc/DfsdbLV9/big-Movistar-Series.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "CANALES DE BOLIVIA 🇧🇴",
-        "samples": [
-            {
-                "name": "CADENA A",
-                "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
-                "icono": "https://i.ibb.co/DpLspVV/Cadena-A-Bolivia-en-VIVO-Online-en-Directo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RED ADVENIR",
-                "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8",
-                "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "BOLIVISIÓN",
-                "url": "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8",
-                "icono": "https://i.ibb.co/VYsmY1by/R-2.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
