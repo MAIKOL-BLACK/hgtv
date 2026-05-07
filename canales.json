@@ -2334,6 +2334,13 @@
                 "icono": "https://i.ibb.co/5hT93gX5/ORjoLdw.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "VIVO TV",
+                "url": "https://stream.vivotv.uy/hls/stream.m3u8",
+                "icono": "https://i.ibb.co/cSLGCS4T/Logo-white.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
