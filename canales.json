@@ -510,6 +510,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "CNN BRASIL",
+                "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
+                "icono": "https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "BAND ",
                 "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
                 "icono": "https://i.postimg.cc/ZRTFdZt9/1-band-canal-2.png",
@@ -534,13 +541,6 @@
                 "name": "RUNTIME CRIME",
                 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864",
                 "icono": "https://i.postimg.cc/ZKM7JG04/runtime-crimen-16x9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CNN BRASIL",
-                "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
-                "icono": "https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
