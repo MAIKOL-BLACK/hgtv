@@ -2435,6 +2435,13 @@
                 "icono": "https://i.ibb.co/VYsmY1by/R-2.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "ATB",
+                "url": "http://186.121.206.197/live/daniel/index.m3u8",
+                "icono": "https://i.postimg.cc/90mrPFYc/ATB-B.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
