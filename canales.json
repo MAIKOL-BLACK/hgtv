@@ -1922,6 +1922,32 @@
         ]
     },
     {
+        "name": "CANALES DE BOLIVIA 🇧🇴",
+        "samples": [
+            {
+                "name": "CADENA A",
+                "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
+                "icono": "https://i.ibb.co/DpLspVV/Cadena-A-Bolivia-en-VIVO-Online-en-Directo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RED ADVENIR",
+                "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8",
+                "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BOLIVISIÓN",
+                "url": "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8",
+                "icono": "https://i.ibb.co/VYsmY1by/R-2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "HBO Y UNIVERSAL 🎥",
         "samples": [
             {
@@ -2011,32 +2037,6 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            }
-        ]
-    },
-    {
-        "name": "CANALES DE BOLIVIA 🇧🇴",
-        "samples": [
-            {
-                "name": "CADENA A",
-                "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
-                "icono": "https://i.ibb.co/DpLspVV/Cadena-A-Bolivia-en-VIVO-Online-en-Directo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RED ADVENIR",
-                "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8",
-                "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "BOLIVISIÓN",
-                "url": "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8",
-                "icono": "https://i.ibb.co/VYsmY1by/R-2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
