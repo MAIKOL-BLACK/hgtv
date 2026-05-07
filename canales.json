@@ -550,6 +550,13 @@
                 "icono": "https://i.postimg.cc/FzPSVX88/images-(11).jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "CNN BRASIL",
+                "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
+                "icono": "https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
