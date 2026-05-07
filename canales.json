@@ -538,13 +538,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "SBT",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/sbt.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "MULTISHOW",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/multishow.m3u8",
                 "icono": "",
