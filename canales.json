@@ -482,13 +482,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "RECORD ",
-                "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8",
-                "icono": "https://i.postimg.cc/cLBv83s5/record.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "BAND ",
                 "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
                 "icono": "https://i.postimg.cc/ZRTFdZt9/1-band-canal-2.png",
