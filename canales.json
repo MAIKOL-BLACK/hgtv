@@ -1823,6 +1823,25 @@
         ]
     },
     {
+        "name": "CANALES DE ECUADOR 🇪🇨",
+        "samples": [
+            {
+                "name": "ECUADOR TV",
+                "url": "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.ibb.co/whLhXqDv/R-1.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ECUAVISA",
+                "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b25593300216730af796c5a1",
+                "icono": "https://i.ibb.co/pZ0HHyB/ecuavisa.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "TNT UK FHD 🇦🇺",
         "samples": [
             {
@@ -1852,25 +1871,6 @@
                 "icono": "https://i.postimg.cc/3NSQ58NR/82d746a0-bd5f-4963-9c77-9a18bedda691.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=192b1115da041585c77200128549efa1&key=634e10efe4abbb14be400a3ccbac0258"
-            }
-        ]
-    },
-    {
-        "name": "CANALES DE ECUADOR 🇪🇨",
-        "samples": [
-            {
-                "name": "ECUADOR TV",
-                "url": "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.ibb.co/whLhXqDv/R-1.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ECUAVISA",
-                "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b25593300216730af796c5a1",
-                "icono": "https://i.ibb.co/pZ0HHyB/ecuavisa.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
