@@ -690,6 +690,13 @@
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "Tv Gazeta",
+                "url": "https://canaiss.fazoeli.co.za/fontes/smart/tvgazeta.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
