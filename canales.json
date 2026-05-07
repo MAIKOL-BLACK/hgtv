@@ -2135,6 +2135,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "BOLIVISIÓN",
+                "url": "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8",
+                "icono": "https://i.ibb.co/VYsmY1by/R-2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "VIVO TV",
                 "url": "https://stream.vivotv.uy/hls/stream.m3u8",
                 "icono": "https://i.ibb.co/cSLGCS4T/Logo-white.png",
@@ -2153,13 +2160,6 @@
     {
         "name": "CANALES DE BOLIVIA 🇧🇴",
         "samples": [
-            {
-                "name": "BOLIVISIÓN",
-                "url": "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8",
-                "icono": "https://i.ibb.co/VYsmY1by/R-2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "name": "CADENA A",
                 "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
