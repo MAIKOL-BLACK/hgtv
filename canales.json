@@ -2407,8 +2407,8 @@
                 "name": "EL CANAL DEL FUTBOL",
                 "url": "https://florcd1.crackstreamslivehd.com/ecdf/tracks-v1a1/mono.m3u8?ip=200.63.111.75&token=3c240056c78f2d8557392b07552893c0467ed434-55-1768626615-1768572615",
                 "icono": "https://i.ibb.co/7pvyJMk/ecdf.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070"
             }
         ]
     }
