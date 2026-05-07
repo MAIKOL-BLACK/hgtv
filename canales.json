@@ -538,13 +538,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "Globo RS",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/globors.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "Tv Brasil",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/tvbrasil.m3u8",
                 "icono": "",
