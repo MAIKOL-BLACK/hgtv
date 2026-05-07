@@ -2015,6 +2015,32 @@
         ]
     },
     {
+        "name": "CANALES DE BOLIVIA 🇧🇴",
+        "samples": [
+            {
+                "name": "CADENA A",
+                "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
+                "icono": "https://i.ibb.co/DpLspVV/Cadena-A-Bolivia-en-VIVO-Online-en-Directo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RED ADVENIR",
+                "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8",
+                "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BOLIVISIÓN",
+                "url": "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8",
+                "icono": "https://i.ibb.co/VYsmY1by/R-2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "CINES 24/7 🎬",
         "samples": [
             {
@@ -2049,32 +2075,6 @@
                 "name": "THE WALKING DEAD",
                 "url": "https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8",
                 "icono": "https://i.postimg.cc/j2KkywJW/images-X.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "CANALES DE BOLIVIA 🇧🇴",
-        "samples": [
-            {
-                "name": "CADENA A",
-                "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
-                "icono": "https://i.ibb.co/DpLspVV/Cadena-A-Bolivia-en-VIVO-Online-en-Directo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RED ADVENIR",
-                "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8",
-                "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "BOLIVISIÓN",
-                "url": "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8",
-                "icono": "https://i.ibb.co/VYsmY1by/R-2.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
