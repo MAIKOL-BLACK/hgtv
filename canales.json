@@ -482,6 +482,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "GLOBO RBS",
+                "url": "https://npmuf25xa05so8hp05.cloudfronte.lat/zzzstream/globosp.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/globo-rbs_bd1a0b1006da4081bef6189e60a76c36.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "BAND",
                 "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/band-sp_164506c8561547d49b9557724f86bab0.png",
@@ -496,9 +503,9 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "GLOBO RBS",
-                "url": "https://npmuf25xa05so8hp05.cloudfronte.lat/zzzstream/globosp.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/globo-rbs_bd1a0b1006da4081bef6189e60a76c36.png",
+                "name": "REDES BRASIL",
+                "url": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1413219916.m3u8",
+                "icono": "https://i.postimg.cc/FzPSVX88/images-(11).jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
@@ -527,13 +534,6 @@
                 "name": "RUNTIME CRIME",
                 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864",
                 "icono": "https://i.postimg.cc/ZKM7JG04/runtime-crimen-16x9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "REDES BRASIL",
-                "url": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1413219916.m3u8",
-                "icono": "https://i.postimg.cc/FzPSVX88/images-(11).jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
