@@ -1000,6 +1000,13 @@
                 "icono": "https://i.postimg.cc/DZx4xDzg/golf-sport-logo-on-white-260nw-2640984363-1.webp",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat\\/api/license.php?keyid=b8df797e071b0ef1f1a238c8ac18ad2d&key=a65bce29cf4bb5390c686ea0cbbbc4cd"
+            },
+            {
+                "name": "TYC SPORT 2",
+                "url": "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1OTM5ZmMzZDQyZjgwLWExMDktMDkyNC0xYmRiLTVjZDNkMDJh/master.m3u8?md5=WEFcDC9a_uWLF4xhkWpipA&expires=1742502555",
+                "icono": "https://i.ibb.co/8LNvR82m/tyc-sports-2-862x485.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
