@@ -545,13 +545,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "GLOBO AMAZONICA",
-                "url": "https://agropesca.live/live/globoam/index.m3u8",
-                "icono": "https://i.postimg.cc/NjxJvTL9/download-17.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "MULTI SHOWS",
                 "url": "https://canaiss.fazoeli.co.za/token/0f459cc83b0495842b708ab04c921855/multishow.m3u8",
                 "icono": "https://i.postimg.cc/DZjfgFjF/images-(1).png",
