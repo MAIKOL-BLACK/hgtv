@@ -697,6 +697,13 @@
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "GloboAM",
+                "url": "https://canaiss.fazoeli.co.za/fontes/smart/globoam.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
