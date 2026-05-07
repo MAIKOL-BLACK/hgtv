@@ -1602,6 +1602,25 @@
         ]
     },
     {
+        "name": "CANALES DE ECUADOR 🇪🇨",
+        "samples": [
+            {
+                "name": "ECUADOR TV",
+                "url": "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.ibb.co/whLhXqDv/R-1.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ECUAVISA",
+                "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b25593300216730af796c5a1",
+                "icono": "https://i.ibb.co/pZ0HHyB/ecuavisa.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "DEPORTES ECUADOR 🇪🇨",
         "samples": [
             {
@@ -1643,25 +1662,6 @@
                 "name": "ESPN PREMIUM ECUADOR",
                 "url": "http://190.83.15.112:8000/play/a0fa/index.m3u8?hls",
                 "icono": "https://i.postimg.cc/vBTwb4Hb/maxresdefault.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "CANALES DE ECUADOR 🇪🇨",
-        "samples": [
-            {
-                "name": "ECUADOR TV",
-                "url": "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.ibb.co/whLhXqDv/R-1.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ECUAVISA",
-                "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b25593300216730af796c5a1",
-                "icono": "https://i.ibb.co/pZ0HHyB/ecuavisa.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
