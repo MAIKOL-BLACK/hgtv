@@ -538,13 +538,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "HBO  PORTUGUEZ",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/hbo.m3u8",
-                "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "SBT",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/sbt.m3u8",
                 "icono": "",
