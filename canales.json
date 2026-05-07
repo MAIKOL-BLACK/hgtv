@@ -1661,6 +1661,25 @@
         ]
     },
     {
+        "name": "CANALES DE ECUADOR 🇪🇨",
+        "samples": [
+            {
+                "name": "ECUADOR TV",
+                "url": "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.ibb.co/whLhXqDv/R-1.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ECUAVISA",
+                "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b25593300216730af796c5a1",
+                "icono": "https://i.ibb.co/pZ0HHyB/ecuavisa.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "DEPORTES COMBATES🥊",
         "samples": [
             {
@@ -1688,25 +1707,6 @@
                 "name": "HARD KNOCKS",
                 "url": "https://d3uyzhwvmemdyf.cloudfront.net/v1\\/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8",
                 "icono": "https://i.postimg.cc/V6hPcdqd/HK-Logo-Wiki.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "CANALES DE ECUADOR 🇪🇨",
-        "samples": [
-            {
-                "name": "ECUADOR TV",
-                "url": "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.ibb.co/whLhXqDv/R-1.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ECUAVISA",
-                "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b25593300216730af796c5a1",
-                "icono": "https://i.ibb.co/pZ0HHyB/ecuavisa.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
