@@ -2322,13 +2322,6 @@
         "name": "CANALES DE URUGUAY 🇺🇾",
         "samples": [
             {
-                "name": "CANAL 10",
-                "url": "http://magmaplayer.com/stream/m3u8/AQNmKmt2Ay8kAQthZwD2YwR4ZP40A18kAmDmZGp/hls/866.m3u8",
-                "icono": "https://i.ibb.co/zhDLbxd9/LowlfG2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "VIVO TV",
                 "url": "https://stream.vivotv.uy/hls/stream.m3u8",
                 "icono": "https://i.ibb.co/cSLGCS4T/Logo-white.png",
