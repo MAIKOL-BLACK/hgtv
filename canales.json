@@ -2036,6 +2036,25 @@
         ]
     },
     {
+        "name": "CANALES DE ECUADOR 🇪🇨",
+        "samples": [
+            {
+                "name": "ECUADOR TV",
+                "url": "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.ibb.co/whLhXqDv/R-1.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ECUAVISA",
+                "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b25593300216730af796c5a1",
+                "icono": "https://i.ibb.co/pZ0HHyB/ecuavisa.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "CANALES DE NOVELAS 🎬",
         "samples": [
             {
@@ -2074,25 +2093,6 @@
                 "name": "TELEMUNDO",
                 "url": "http://181.118.158.103:8000/play/a01x/index.m3u8?hls",
                 "icono": "https://i.postimg.cc/6qYmJvhZ/png-clipart-telemundo-nbcuniversal-logo-television-ktdo-others-television-text-removebg-preview.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "CANALES DE ECUADOR 🇪🇨",
-        "samples": [
-            {
-                "name": "ECUADOR TV",
-                "url": "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.ibb.co/whLhXqDv/R-1.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ECUAVISA",
-                "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b25593300216730af796c5a1",
-                "icono": "https://i.ibb.co/pZ0HHyB/ecuavisa.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
