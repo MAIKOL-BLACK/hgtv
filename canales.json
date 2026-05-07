@@ -1842,6 +1842,32 @@
         ]
     },
     {
+        "name": "CANALES DE BOLIVIA 🇧🇴",
+        "samples": [
+            {
+                "name": "CADENA A",
+                "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
+                "icono": "https://i.ibb.co/DpLspVV/Cadena-A-Bolivia-en-VIVO-Online-en-Directo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RED ADVENIR",
+                "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8",
+                "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BOLIVISIÓN",
+                "url": "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8",
+                "icono": "https://i.ibb.co/VYsmY1by/R-2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "TNT UK FHD 🇦🇺",
         "samples": [
             {
@@ -1871,32 +1897,6 @@
                 "icono": "https://i.postimg.cc/3NSQ58NR/82d746a0-bd5f-4963-9c77-9a18bedda691.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=192b1115da041585c77200128549efa1&key=634e10efe4abbb14be400a3ccbac0258"
-            }
-        ]
-    },
-    {
-        "name": "CANALES DE BOLIVIA 🇧🇴",
-        "samples": [
-            {
-                "name": "CADENA A",
-                "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
-                "icono": "https://i.ibb.co/DpLspVV/Cadena-A-Bolivia-en-VIVO-Online-en-Directo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RED ADVENIR",
-                "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8",
-                "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "BOLIVISIÓN",
-                "url": "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8",
-                "icono": "https://i.ibb.co/VYsmY1by/R-2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
