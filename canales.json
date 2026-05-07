@@ -2132,6 +2132,25 @@
         ]
     },
     {
+        "name": "CANALES DE ECUADOR 🇪🇨",
+        "samples": [
+            {
+                "name": "ECUADOR TV",
+                "url": "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.ibb.co/whLhXqDv/R-1.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ECUAVISA",
+                "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b25593300216730af796c5a1",
+                "icono": "https://i.ibb.co/pZ0HHyB/ecuavisa.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "MUSICALES 🎶",
         "samples": [
             {
@@ -2257,25 +2276,6 @@
                 "name": "VEVO RETRO ROCK",
                 "url": "https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8",
                 "icono": "https://i.postimg.cc/0N2vw04t/png-clipart-vevo-youtube-music-video-musician-youtube-television-angle-thumbnail-removebg-preview.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "CANALES DE ECUADOR 🇪🇨",
-        "samples": [
-            {
-                "name": "ECUADOR TV",
-                "url": "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.ibb.co/whLhXqDv/R-1.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ECUAVISA",
-                "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b25593300216730af796c5a1",
-                "icono": "https://i.ibb.co/pZ0HHyB/ecuavisa.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
