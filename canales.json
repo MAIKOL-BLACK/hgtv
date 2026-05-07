@@ -529,6 +529,13 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/agro-canal_49491f3da3d2411b80b6ea1a137ad9b6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "RUNTIME ROMANCE",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866",
+                "icono": "https://i.postimg.cc/RZ2DLkzd/runtime-romance-16x9-2.jp",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
