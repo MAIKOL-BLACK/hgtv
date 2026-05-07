@@ -2327,6 +2327,13 @@
                 "icono": "https://i.ibb.co/zhDLbxd9/LowlfG2.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "TV FLORIDA",
+                "url": "https://stmv1.srvif.com/tv6842/tv6842/playlist.m3u8",
+                "icono": "https://i.ibb.co/5hT93gX5/ORjoLdw.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
