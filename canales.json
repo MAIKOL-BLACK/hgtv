@@ -2428,6 +2428,13 @@
                 "icono": "https://i.ibb.co/S7cFTqXC/unnamed-1.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "BOLIVISIÓN",
+                "url": "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8",
+                "icono": "https://i.ibb.co/VYsmY1by/R-2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
