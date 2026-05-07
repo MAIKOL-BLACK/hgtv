@@ -2355,13 +2355,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "CANAL UNO",
-                "url": "https://cp.panelchs.com:1936/8034/8034/playlist.m3u8",
-                "icono": "https://i.ibb.co/Z1M5q5gQ/sEW6C5G.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "EL CANAL DEL FUTBOL",
                 "url": "https://florcd1.crackstreamslivehd.com/ecdf/tracks-v1a1/mono.m3u8?ip=200.63.111.75&token=3c240056c78f2d8557392b07552893c0467ed434-55-1768626615-1768572615",
                 "icono": "https://i.ibb.co/7pvyJMk/ecdf.webp",
