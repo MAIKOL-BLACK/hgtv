@@ -538,13 +538,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "TV Cultura",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/cultura.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "Globo Noticias",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/globonews.m3u8",
                 "icono": "",
