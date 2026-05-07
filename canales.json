@@ -2341,6 +2341,13 @@
                 "icono": "https://i.ibb.co/cSLGCS4T/Logo-white.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "UCL",
+                "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
+                "icono": "https://i.ibb.co/c2ddPKW/ucl-24.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
