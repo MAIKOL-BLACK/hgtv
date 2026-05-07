@@ -510,13 +510,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "REDE TV",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/redetv.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img\\/channels/rede-tv_90b5423b189a4c43b1d86b3bfd12eee5.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "AGRO CANAL",
                 "url": "https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w1004797184.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/agro-canal_49491f3da3d2411b80b6ea1a137ad9b6.png",
