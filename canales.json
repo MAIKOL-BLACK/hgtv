@@ -1984,6 +1984,18 @@
         ]
     },
     {
+        "name": "CANALES DE URUGUAY 🇺🇾",
+        "samples": [
+            {
+                "name": "UCL",
+                "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
+                "icono": "https://i.ibb.co/c2ddPKW/ucl-24.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "CINES 24/7 🎬",
         "samples": [
             {
@@ -2018,18 +2030,6 @@
                 "name": "THE WALKING DEAD",
                 "url": "https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8",
                 "icono": "https://i.postimg.cc/j2KkywJW/images-X.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "CANALES DE URUGUAY 🇺🇾",
-        "samples": [
-            {
-                "name": "UCL",
-                "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
-                "icono": "https://i.ibb.co/c2ddPKW/ucl-24.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
