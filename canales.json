@@ -543,6 +543,13 @@
                 "icono": "https://i.postimg.cc/ZKM7JG04/runtime-crimen-16x9.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "REDES BRASIL",
+                "url": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1413219916.m3u8",
+                "icono": "https://i.postimg.cc/FzPSVX88/images-(11).jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
