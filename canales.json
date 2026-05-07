@@ -2449,6 +2449,13 @@
                 "icono": "https://i.ibb.co/DpLspVV/Cadena-A-Bolivia-en-VIVO-Online-en-Directo.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "MEGA TV",
+                "url": "https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8",
+                "icono": "https://i.ibb.co/TxqSrMpc/3d4uiZF.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
