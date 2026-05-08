@@ -1014,13 +1014,6 @@
                 "icono": "https://i.postimg.cc/DZx4xDzg/golf-sport-logo-on-white-260nw-2640984363-1.webp",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat\\/api/license.php?keyid=b8df797e071b0ef1f1a238c8ac18ad2d&key=a65bce29cf4bb5390c686ea0cbbbc4cd"
-            },
-            {
-                "name": "TENNIS TV ATP",
-                "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8",
-                "icono": "https://i.ibb.co/zHbRTzFQ/skysports-sky-sports-tennis-6437709.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
