@@ -859,6 +859,13 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b"
             },
             {
+                "name": "DSPORTS 1",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+                "icono": "https://i.postimg.cc/7L6Stjkf/images-VV.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79"
+            },
+            {
                 "name": "DIRECTV SPORTS 2",
                 "url": "http://104.250.128.34/livehttpplay?channel_id=23538",
                 "icono": "https://i.postimg.cc/6py1WJR2/dsports-2-2.png",
@@ -871,13 +878,6 @@
                 "icono": "https://i.postimg.cc/mDnY6566/dsports-2-2.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "DSPORTS 1",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-                "icono": "https://i.postimg.cc/7L6Stjkf/images-VV.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79"
             },
             {
                 "name": "DIRECTV SPORTS 3",
