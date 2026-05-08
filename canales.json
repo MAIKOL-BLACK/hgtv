@@ -1911,7 +1911,7 @@
                 "name": "DAZN F1",
                 "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
                 "icono": "https://i.postimg.cc/g09K1dXg/DAZN-F1-logo.png",
-                "type": "HLS",
+                "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=609d795905904705028ef54653019af7&key=2c791eb611e57a7d7f203022bc1b9ba3"
             },
             {
