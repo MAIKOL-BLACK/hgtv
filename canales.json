@@ -17,13 +17,6 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
             },
             {
-                "name": "EVENTOS 1",
-                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-                "icono": "https://i.ibb.co/SDFThKNt/Picsart-26-04-14-01-02-19-606.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
-            },
-            {
                 "name": "EVENTOS 2",
                 "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
                 "icono": "https://i.ibb.co/NgcfWTDW/Picsart-26-04-14-01-04-14-098.png",
