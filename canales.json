@@ -71,13 +71,6 @@
                 "icono": "https://i.imgur.com/YhIUyt4.png\" group-title=",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "Tigo Sports.py 24/7",
-                "url": "http://190.128.129.83:8000/play/a03m/index.m3u8",
-                "icono": "https://i.imgur.com/YhIUyt4.png\" group-title=",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
