@@ -43,6 +43,13 @@
                 "icono": "https://i.postimg.cc/7PRj5gjy/350-pg-nuevo.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "🏆 EVENTOS 🇵🇾",
+                "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+                "icono": "https://i.imgur.com/YhIUyt4.png\" group-title=",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
