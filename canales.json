@@ -62,6 +62,13 @@
                 "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777070986_images__7.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "15:00hs - Al-Nassr vs Al-Hilal",
+                "url": "https://otte-netskrt.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=d1a163914db8ffad2c3e94f979896a0d&key=9728800a3959aafdd5b0bcfbf3768811"
             }
         ]
     },
