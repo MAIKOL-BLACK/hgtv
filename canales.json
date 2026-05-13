@@ -2549,5 +2549,17 @@
                 "drm_license_uri": ""
             }
         ]
+    },
+    {
+        "name": "AFA EVENTOS ⚽",
+        "samples": [
+            {
+                "name": "LPF PLAY",
+                "url": "https://emitiendoenvivo.com:443/lpf/1.m3u8",
+                "icono": "https://i.ibb.co/RGc4d5G9/Picsart-26-05-06-00-19-21-578.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
     }
 ]
