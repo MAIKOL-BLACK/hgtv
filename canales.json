@@ -1822,18 +1822,6 @@
         ]
     },
     {
-        "name": "URUGUAY 🇺🇾",
-        "samples": [
-            {
-                "name": "UCL",
-                "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
-                "icono": "https://i.postimg.cc/2y2WXsdZ/images-c.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "AFA EVENTOS ⚽",
         "samples": [
             {
@@ -1924,6 +1912,18 @@
                 "name": "LPF PLAY 12",
                 "url": "https://emitiendoenvivo.com:443/lpf/13.m3u8",
                 "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "URUGUAY 🇺🇾",
+        "samples": [
+            {
+                "name": "UCL",
+                "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
+                "icono": "https://i.postimg.cc/2y2WXsdZ/images-c.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
