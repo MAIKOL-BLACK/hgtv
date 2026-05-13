@@ -570,81 +570,6 @@
         ]
     },
     {
-        "name": "BRASIL 🇧🇷",
-        "samples": [
-            {
-                "name": "SBT",
-                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
-                "icono": "https://i.postimg.cc/mkn3xMff/Logo-SBT.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "GLOBO RBS",
-                "url": "https://npmuf25xa05so8hp05.cloudfronte.lat/zzzstream/globosp.m3u8",
-                "icono": "https://i.postimg.cc/59sFkwbj/01logo-1.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "BAND",
-                "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
-                "icono": "https://i.postimg.cc/g28jdRFJ/2025111085637.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RECORD",
-                "url": "http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8",
-                "icono": "https://i.postimg.cc/ryHwrgqZ/Record-Nuevo-Logo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "REDES BRASIL",
-                "url": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1413219916.m3u8",
-                "icono": "https://i.postimg.cc/JnGtfF1b/rede-brasil-1.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CNN BRASIL",
-                "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
-                "icono": "https://i.postimg.cc/ZqD5xL61/CNN-Brasil-(red-background)-svg.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "BAND ",
-                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
-                "icono": "https://i.postimg.cc/DybLJS3k/band-logo1.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RUNTIME AÇÃO",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552",
-                "icono": "https://i.postimg.cc/4N4jXRDF/runtime-br-action-bg.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RUNTIME ROMANCE",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866",
-                "icono": "https://i.postimg.cc/Hx4PC6B1/runtime-romance-16x9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RUNTIME CRIME",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864",
-                "icono": "https://i.postimg.cc/rw0npVQ1/runtime-crime-brazil-1400x2000.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "AFA EVENTOS ⚽",
         "samples": [
             {
@@ -735,6 +660,81 @@
                 "name": "LPF PLAY 12",
                 "url": "https://emitiendoenvivo.com:443/lpf/13.m3u8",
                 "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "BRASIL 🇧🇷",
+        "samples": [
+            {
+                "name": "SBT",
+                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
+                "icono": "https://i.postimg.cc/mkn3xMff/Logo-SBT.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "GLOBO RBS",
+                "url": "https://npmuf25xa05so8hp05.cloudfronte.lat/zzzstream/globosp.m3u8",
+                "icono": "https://i.postimg.cc/59sFkwbj/01logo-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BAND",
+                "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
+                "icono": "https://i.postimg.cc/g28jdRFJ/2025111085637.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RECORD",
+                "url": "http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8",
+                "icono": "https://i.postimg.cc/ryHwrgqZ/Record-Nuevo-Logo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "REDES BRASIL",
+                "url": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1413219916.m3u8",
+                "icono": "https://i.postimg.cc/JnGtfF1b/rede-brasil-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CNN BRASIL",
+                "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
+                "icono": "https://i.postimg.cc/ZqD5xL61/CNN-Brasil-(red-background)-svg.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BAND ",
+                "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
+                "icono": "https://i.postimg.cc/DybLJS3k/band-logo1.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RUNTIME AÇÃO",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552",
+                "icono": "https://i.postimg.cc/4N4jXRDF/runtime-br-action-bg.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RUNTIME ROMANCE",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866",
+                "icono": "https://i.postimg.cc/Hx4PC6B1/runtime-romance-16x9.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RUNTIME CRIME",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864",
+                "icono": "https://i.postimg.cc/rw0npVQ1/runtime-crime-brazil-1400x2000.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
