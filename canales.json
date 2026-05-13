@@ -2116,99 +2116,6 @@
         ]
     },
     {
-        "name": "HBO & UNIVERSAL 🎥",
-        "samples": [
-            {
-                "name": "HBO 1",
-                "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=e5e43e324b6cd33b92c9ac8c398bb3c8&key=c8c7f804f0ecfc8fc0d53dff48d7ece1",
-                "icono": "https://i.postimg.cc/kXXHTSBn/png-transparent-hbo-home-box-officce-television-brands-and-logos-icon-thumbnail-removebg-preview.png",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            },
-            {
-                "name": "HBO 2",
-                "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=c90cc57ad2c436e5a77db2f8d9db2d85&key=04f6c73984bdcffd013050608497935d",
-                "icono": "https://i.postimg.cc/SNvgVv0b/png-clipart-tv-channel-icons-hbo-2-black-hbo-2-logo-thumbnail-removebg-preview.png"
-            },
-            {
-                "name": "HBO XTREME",
-                "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=d504011bbef467c0de3a7534e302a6d4&key=334103e2abe16faa7f9ab2e3097c5a58",
-                "icono": "https://i.postimg.cc/mDL3TYxg/canal-hbo-xtreme-252x252.png"
-            },
-            {
-                "name": "HBO FAMILY",
-                "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=535473132f68082160b489482ca35f8e&key=e90fd91fcd3fc809bed2b1c0d37f7297",
-                "icono": "https://i.postimg.cc/KzW1CBmX/png-clipart-logo-hbo-brasil-hbo-family-hbo-2-design-text-logo-removebg-preview.png"
-            },
-            {
-                "name": "HBO SIGNATURE",
-                "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=e866499fbc1149f49989672075aa3a68&key=d2dd5c95623c6343240981c2202fc311",
-                "icono": "https://i.postimg.cc/vT95z3fj/logo-hbo-signature-small.png"
-            },
-            {
-                "name": "HBO MUNDI",
-                "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=7821b2662148fe333d5191acbb8a5c1f&key=ae43f3e2545237ebda58b13813b5d328",
-                "icono": "https://i.postimg.cc/6QmRxD0X/image.jpg"
-            },
-            {
-                "name": "HBO POP",
-                "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.postimg.cc/t4rnFL8p/image-N.jpg",
-                "drm_license_uri": "https://tonykshop.lat/license.php?keyid=f4e1ce5cef7e9a110fe968f8881b21fa&key=6bbe2062b150b11496cdd5fbdd9c89d6 "
-            },
-            {
-                "name": "HBO PLUS",
-                "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd",
-                "type": "CLEARKEY",
-                "icono": "https://i.postimg.cc/cJpHmZhS/HBO-Plus-removebg-preview.png",
-                "drm_license_uri": "https://tonykshop.lat/license.php?keyid=f0e7f7d458990edfab7b98b412564615&key=79205754b7f84a62661c2dbe9de5dd5d"
-            },
-            {
-                "name": "UNIVERSAL CINEMA",
-                "icono": "https://i.postimg.cc/s27y3WY0/Universal-Cinema-1.webp",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=f6ae2e17173055e4ca69dc18963406ae&key=5a955c29eb88a0b4c9a2538cc4b3aea2",
-                "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c6eds/Universal_Cinema/SA_Live_dash_enc/Universal_Cinema.mpd"
-            },
-            {
-                "name": "UNIVERSAL",
-                "icono": "https://i.postimg.cc/C173Kszt/universal-pictures-logo-universal-city-film-studio-universal-logo-removebg-preview.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=0eb20b51ad13b58ad417f11318e588b3&key=ad5d29a33d73d21187157802de8e6097",
-                "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd"
-            },
-            {
-                "name": "UNIVERSAL COMEDIA",
-                "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd",
-                "icono": "https://i.postimg.cc/bwP4151z/Universal-Comedy-1.webp",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=062c5d25105a3a935b67e36923c73f28&key=88c2d4cec420f18d2477152c66c7870d",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "webtoken": "1.0",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
-            }
-        ]
-    },
-    {
         "name": "AFA EVENTOS ⚽",
         "samples": [
             {
@@ -2301,6 +2208,99 @@
                 "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "HBO & UNIVERSAL 🎥",
+        "samples": [
+            {
+                "name": "HBO 1",
+                "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=e5e43e324b6cd33b92c9ac8c398bb3c8&key=c8c7f804f0ecfc8fc0d53dff48d7ece1",
+                "icono": "https://i.postimg.cc/kXXHTSBn/png-transparent-hbo-home-box-officce-television-brands-and-logos-icon-thumbnail-removebg-preview.png",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "name": "HBO 2",
+                "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=c90cc57ad2c436e5a77db2f8d9db2d85&key=04f6c73984bdcffd013050608497935d",
+                "icono": "https://i.postimg.cc/SNvgVv0b/png-clipart-tv-channel-icons-hbo-2-black-hbo-2-logo-thumbnail-removebg-preview.png"
+            },
+            {
+                "name": "HBO XTREME",
+                "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=d504011bbef467c0de3a7534e302a6d4&key=334103e2abe16faa7f9ab2e3097c5a58",
+                "icono": "https://i.postimg.cc/mDL3TYxg/canal-hbo-xtreme-252x252.png"
+            },
+            {
+                "name": "HBO FAMILY",
+                "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=535473132f68082160b489482ca35f8e&key=e90fd91fcd3fc809bed2b1c0d37f7297",
+                "icono": "https://i.postimg.cc/KzW1CBmX/png-clipart-logo-hbo-brasil-hbo-family-hbo-2-design-text-logo-removebg-preview.png"
+            },
+            {
+                "name": "HBO SIGNATURE",
+                "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=e866499fbc1149f49989672075aa3a68&key=d2dd5c95623c6343240981c2202fc311",
+                "icono": "https://i.postimg.cc/vT95z3fj/logo-hbo-signature-small.png"
+            },
+            {
+                "name": "HBO MUNDI",
+                "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=7821b2662148fe333d5191acbb8a5c1f&key=ae43f3e2545237ebda58b13813b5d328",
+                "icono": "https://i.postimg.cc/6QmRxD0X/image.jpg"
+            },
+            {
+                "name": "HBO POP",
+                "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.postimg.cc/t4rnFL8p/image-N.jpg",
+                "drm_license_uri": "https://tonykshop.lat/license.php?keyid=f4e1ce5cef7e9a110fe968f8881b21fa&key=6bbe2062b150b11496cdd5fbdd9c89d6 "
+            },
+            {
+                "name": "HBO PLUS",
+                "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd",
+                "type": "CLEARKEY",
+                "icono": "https://i.postimg.cc/cJpHmZhS/HBO-Plus-removebg-preview.png",
+                "drm_license_uri": "https://tonykshop.lat/license.php?keyid=f0e7f7d458990edfab7b98b412564615&key=79205754b7f84a62661c2dbe9de5dd5d"
+            },
+            {
+                "name": "UNIVERSAL CINEMA",
+                "icono": "https://i.postimg.cc/s27y3WY0/Universal-Cinema-1.webp",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=f6ae2e17173055e4ca69dc18963406ae&key=5a955c29eb88a0b4c9a2538cc4b3aea2",
+                "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c6eds/Universal_Cinema/SA_Live_dash_enc/Universal_Cinema.mpd"
+            },
+            {
+                "name": "UNIVERSAL",
+                "icono": "https://i.postimg.cc/C173Kszt/universal-pictures-logo-universal-city-film-studio-universal-logo-removebg-preview.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=0eb20b51ad13b58ad417f11318e588b3&key=ad5d29a33d73d21187157802de8e6097",
+                "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd"
+            },
+            {
+                "name": "UNIVERSAL COMEDIA",
+                "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NzY3MDQ3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzUwMzg4NWQ5ZWFkNmQwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.fIz_5IXZyjuvoy_PfJTHc6euyRJphrqEB5xh-a9W35KOK4vczmB0tL4zZrU9WkB9Dlz3mL7YUa_kKYiIXvYjlw==/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd",
+                "icono": "https://i.postimg.cc/bwP4151z/Universal-Comedy-1.webp",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=062c5d25105a3a935b67e36923c73f28&key=88c2d4cec420f18d2477152c66c7870d",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "webtoken": "1.0",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     },
