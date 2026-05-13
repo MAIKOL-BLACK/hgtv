@@ -1834,32 +1834,6 @@
         ]
     },
     {
-        "name": "BOLIVIA 🇧🇴",
-        "samples": [
-            {
-                "name": "CADENA A",
-                "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
-                "icono": "https://i.postimg.cc/9FPZDND7/Ao-Scw-C5x-400x400.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RED ADVENIR",
-                "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8",
-                "icono": "https://i.postimg.cc/x8vJbcTZ/ADVenir-2005-1.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "BOLIVISIÓN",
-                "url": "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8",
-                "icono": "https://i.postimg.cc/CLML4vvB/301788650-5571592766236117-1747298548311963103-n-1.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "AFA EVENTOS ⚽",
         "samples": [
             {
@@ -1950,6 +1924,32 @@
                 "name": "LPF PLAY 12",
                 "url": "https://emitiendoenvivo.com:443/lpf/13.m3u8",
                 "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "BOLIVIA 🇧🇴",
+        "samples": [
+            {
+                "name": "CADENA A",
+                "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
+                "icono": "https://i.postimg.cc/9FPZDND7/Ao-Scw-C5x-400x400.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RED ADVENIR",
+                "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8",
+                "icono": "https://i.postimg.cc/x8vJbcTZ/ADVenir-2005-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "BOLIVISIÓN",
+                "url": "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8",
+                "icono": "https://i.postimg.cc/CLML4vvB/301788650-5571592766236117-1747298548311963103-n-1.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
