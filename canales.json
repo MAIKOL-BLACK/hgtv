@@ -1947,95 +1947,6 @@
         ]
     },
     {
-        "name": "DEPORTES MOTOR 🏁",
-        "samples": [
-            {
-                "name": "DAZN F1",
-                "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
-                "icono": "https://i.postimg.cc/g09K1dXg/DAZN-F1-logo.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=609d795905904705028ef54653019af7&key=2c791eb611e57a7d7f203022bc1b9ba3"
-            },
-            {
-                "name": "F1 TV",
-                "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
-                "icono": "https://i.postimg.cc/PJLptp0p/images-V.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=609d795905904705028ef54653019af7&key=2c791eb611e57a7d7f203022bc1b9ba3"
-            },
-            {
-                "name": "MI COCHE CLÁSICO",
-                "url": "https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8",
-                "icono": "https://i.postimg.cc/CLgny1mk/plantilla-logotipo-coche-clasico-7450-232.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RALLY TV",
-                "url": "https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/playlist.m3u8",
-                "icono": "https://i.postimg.cc/bNyYH2m5/rally-tv-logo-1v7nnxqwp0v6g1w2twu3qidty9.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "GPTV",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16499&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE].m3u8",
-                "icono": "https://i.postimg.cc/sx16smjR/images-G.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "SKY MOTO GP🏁🏍",
-                "url": "http://91.146.94.234:10001/play/a0e1",
-                "icono": "https://i.postimg.cc/BQ9YdxrD/Sky-Sport-Moto-GP-Logo-2024-2.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "NASCAR",
-                "url": "https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist.m3u8",
-                "icono": "https://i.postimg.cc/sgnJDSN4/nascar-logo-0.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "SPEED SPORT",
-                "url": "https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8",
-                "icono": "https://i.postimg.cc/0Q7mmJV2/images-S.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "GARAGE TV",
-                "url": "https://stream1.sersat.com/hls/garagetv.m3u8",
-                "icono": "https://i.postimg.cc/MTYHq0sK/Garage-TV-2014-1.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "MOTOR SPORT🚘",
-                "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&coppa=0&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]",
-                "icono": "https://i.postimg.cc/0Q5p6fxF/motorsport-logo-simple-modern-eps-260nw-2090986291-1.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "MOTOR VISIÓN",
-                "url": "https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8",
-                "icono": "https://i.postimg.cc/T14R3tnV/Ztoi-Zz-W5-400x400.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Motor Sur 🇵🇾 ",
-                "url": "https://edge.enhdtv.com/8116/index.m3u8",
-                "icono": "https://i.postimg.cc/pXQH7V6y/images-C.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "AFA EVENTOS ⚽",
         "samples": [
             {
@@ -2126,6 +2037,95 @@
                 "name": "LPF PLAY 12",
                 "url": "https://emitiendoenvivo.com:443/lpf/13.m3u8",
                 "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "DEPORTES MOTOR 🏁",
+        "samples": [
+            {
+                "name": "DAZN F1",
+                "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
+                "icono": "https://i.postimg.cc/g09K1dXg/DAZN-F1-logo.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=609d795905904705028ef54653019af7&key=2c791eb611e57a7d7f203022bc1b9ba3"
+            },
+            {
+                "name": "F1 TV",
+                "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
+                "icono": "https://i.postimg.cc/PJLptp0p/images-V.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=609d795905904705028ef54653019af7&key=2c791eb611e57a7d7f203022bc1b9ba3"
+            },
+            {
+                "name": "MI COCHE CLÁSICO",
+                "url": "https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8",
+                "icono": "https://i.postimg.cc/CLgny1mk/plantilla-logotipo-coche-clasico-7450-232.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RALLY TV",
+                "url": "https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/playlist.m3u8",
+                "icono": "https://i.postimg.cc/bNyYH2m5/rally-tv-logo-1v7nnxqwp0v6g1w2twu3qidty9.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "GPTV",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16499&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE].m3u8",
+                "icono": "https://i.postimg.cc/sx16smjR/images-G.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SKY MOTO GP🏁🏍",
+                "url": "http://91.146.94.234:10001/play/a0e1",
+                "icono": "https://i.postimg.cc/BQ9YdxrD/Sky-Sport-Moto-GP-Logo-2024-2.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "NASCAR",
+                "url": "https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist.m3u8",
+                "icono": "https://i.postimg.cc/sgnJDSN4/nascar-logo-0.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SPEED SPORT",
+                "url": "https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8",
+                "icono": "https://i.postimg.cc/0Q7mmJV2/images-S.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "GARAGE TV",
+                "url": "https://stream1.sersat.com/hls/garagetv.m3u8",
+                "icono": "https://i.postimg.cc/MTYHq0sK/Garage-TV-2014-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "MOTOR SPORT🚘",
+                "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&coppa=0&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]",
+                "icono": "https://i.postimg.cc/0Q5p6fxF/motorsport-logo-simple-modern-eps-260nw-2090986291-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "MOTOR VISIÓN",
+                "url": "https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8",
+                "icono": "https://i.postimg.cc/T14R3tnV/Ztoi-Zz-W5-400x400.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Motor Sur 🇵🇾 ",
+                "url": "https://edge.enhdtv.com/8116/index.m3u8",
+                "icono": "https://i.postimg.cc/pXQH7V6y/images-C.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
