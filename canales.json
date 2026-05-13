@@ -1507,74 +1507,6 @@
         ]
     },
     {
-        "name": "DEPORTES PERÚ ⚽️ 🇵🇪",
-        "samples": [
-            {
-                "name": "ESPN 1",
-                "url": "http://38.224.231.47:8000/play/a03s/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/t4CJ0Jg8/316Hy-Sxdvo-L-(1).png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 2",
-                "url": "http://38.224.231.47:8000/play/a05z/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/hPwmxtyv/espn-2-logo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 3",
-                "url": "http://38.224.231.47:8000/play/a039/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/DzkZgJ3W/images-(5).png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 4",
-                "url": "http://38.224.231.47:8000/play/a04h/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/q7bsqx3t/FFgb-MMc-Xw-AAXWYX.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 5",
-                "url": "http://38.224.231.47:8000/play/a032/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/7ZX7tnXM/GGZOje3W4AAg7e-O.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 6",
-                "url": "http://38.224.231.47:8000/play/a02w/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/MGvcP2v3/espn-6-logo-png-seeklogo-522717.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 7",
-                "url": "http://38.224.231.47:8000/play/a049/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/yNgdhmG7/espn-7-logo-png-seeklogo-522718.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN PREMIUM",
-                "url": "http://38.224.231.47:8000/play/a03w/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/4NWNr2kN/8ad719cccb-espn-premium-en-vivo.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "LIGA 1 MAX",
-                "url": "http://38.224.231.47:8000/play/a06a/index.m3u8",
-                "icono": "https://i.postimg.cc/7YtwBC0Y/channels4-profile-(6).png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "AFA EVENTOS ⚽",
         "samples": [
             {
@@ -1665,6 +1597,74 @@
                 "name": "LPF PLAY 12",
                 "url": "https://emitiendoenvivo.com:443/lpf/13.m3u8",
                 "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "DEPORTES PERÚ ⚽️ 🇵🇪",
+        "samples": [
+            {
+                "name": "ESPN 1",
+                "url": "http://38.224.231.47:8000/play/a03s/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/t4CJ0Jg8/316Hy-Sxdvo-L-(1).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 2",
+                "url": "http://38.224.231.47:8000/play/a05z/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/hPwmxtyv/espn-2-logo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 3",
+                "url": "http://38.224.231.47:8000/play/a039/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/DzkZgJ3W/images-(5).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 4",
+                "url": "http://38.224.231.47:8000/play/a04h/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/q7bsqx3t/FFgb-MMc-Xw-AAXWYX.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 5",
+                "url": "http://38.224.231.47:8000/play/a032/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/7ZX7tnXM/GGZOje3W4AAg7e-O.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 6",
+                "url": "http://38.224.231.47:8000/play/a02w/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/MGvcP2v3/espn-6-logo-png-seeklogo-522717.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 7",
+                "url": "http://38.224.231.47:8000/play/a049/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/yNgdhmG7/espn-7-logo-png-seeklogo-522718.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN PREMIUM",
+                "url": "http://38.224.231.47:8000/play/a03w/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/4NWNr2kN/8ad719cccb-espn-premium-en-vivo.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LIGA 1 MAX",
+                "url": "http://38.224.231.47:8000/play/a06a/index.m3u8",
+                "icono": "https://i.postimg.cc/7YtwBC0Y/channels4-profile-(6).png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
