@@ -1697,32 +1697,6 @@
         ]
     },
     {
-        "name": "COLOMBIA 🇨🇴",
-        "samples": [
-            {
-                "name": "TELEPACIFICO",
-                "url": "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8?PlaylistM3UCL",
-                "icono": "https://i.postimg.cc/Kjvj4wrJ/LOGO-TELEPACIFICO.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CALI TV",
-                "url": "https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8?PlaylistM3UCL",
-                "icono": "https://i.postimg.cc/pTVRB89S/images-ZXC.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "VISION DORADA",
-                "url": "https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL",
-                "icono": "https://i.postimg.cc/ry32D79n/b-Dea-X7e-400x400.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "AFA EVENTOS ⚽",
         "samples": [
             {
@@ -1813,6 +1787,32 @@
                 "name": "LPF PLAY 12",
                 "url": "https://emitiendoenvivo.com:443/lpf/13.m3u8",
                 "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "COLOMBIA 🇨🇴",
+        "samples": [
+            {
+                "name": "TELEPACIFICO",
+                "url": "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8?PlaylistM3UCL",
+                "icono": "https://i.postimg.cc/Kjvj4wrJ/LOGO-TELEPACIFICO.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CALI TV",
+                "url": "https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8?PlaylistM3UCL",
+                "icono": "https://i.postimg.cc/pTVRB89S/images-ZXC.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "VISION DORADA",
+                "url": "https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL",
+                "icono": "https://i.postimg.cc/ry32D79n/b-Dea-X7e-400x400.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
