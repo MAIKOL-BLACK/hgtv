@@ -1860,53 +1860,6 @@
         ]
     },
     {
-        "name": "DEPORTES COMBATES🥊",
-        "samples": [
-            {
-                "name": "UFC",
-                "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134",
-                "icono": "https://i.postimg.cc/tJzdxV2L/ufc-logo-0.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "PFL MMA",
-                "url": "https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8",
-                "icono": "https://i.postimg.cc/c1cfTwBP/Professional-Fighters-League-Primary-Logo.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "DAZN BOXEO",
-                "url": "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8",
-                "icono": "https://i.postimg.cc/MT9Kf614/MV5BODE5YTY1YTQt-Mj-Bl-Yi00YWVj-LTg4OWQt-YTVj-NGI2NGVh-N2Vm-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "HARD KNOCKS",
-                "url": "https://d3uyzhwvmemdyf.cloudfront.net/v1\\/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8",
-                "icono": "https://i.postimg.cc/V6hPcdqd/HK-Logo-Wiki.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "HBO BOXEO",
-                "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951469/hls/playlist.m3u8?ads.xumo_channelId=99951469&ads.xumo_streamId=99951469&ads.channelId=99951469&ads.channelName=WBDHBOBoxing_us&ads.caid=WBDHBOBoxing&ads.csid=xumo_web_WBDHBOBoxing_ssai&ads._fw_coppa=0&ads.xumo_contentId=4315&ads.xumo_contentName=WBDHBOBoxing&ads.xumo_providerId=4315&ads.xumo_providerName=WBDHBOBoxing&ads._fw_ifa_type=&ads._fw_did=46cdfd64-e3bb-48cb-a44c-2805a97765f0&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay",
-                "icono": "https://i.postimg.cc/kGvBPV25/HBO-Boxing-(2013-stacked)-1.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ONE CHAMPIONS",
-                "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_channelId=99951530&ads.xumo_streamId=99951530&ads.channelId=99951530&ads.channelName=C15OneChampionship_us&ads.caid=C15OneChampionship&ads.csid=xumo_web_C15OneChampionship_ssai&ads.genre=Sport,Sports,SC&ads._fw_content_genre=Sport,Sports,SC&ads._fw_coppa=0&ads.xumo_contentId=4403&ads.xumo_contentName=C15OneChampionship&ads.xumo_providerId=4403&ads.xumo_providerName=C15OneChampionship&ads._fw_ifa_type=&ads._fw_did=81b487a8-3485-4f6f-a425-b20249bad741&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay",
-                "icono": "https://i.postimg.cc/6QZ6N7SQ/images-VC.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "AFA EVENTOS ⚽",
         "samples": [
             {
@@ -1997,6 +1950,53 @@
                 "name": "LPF PLAY 12",
                 "url": "https://emitiendoenvivo.com:443/lpf/13.m3u8",
                 "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "DEPORTES COMBATES🥊",
+        "samples": [
+            {
+                "name": "UFC",
+                "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134",
+                "icono": "https://i.postimg.cc/tJzdxV2L/ufc-logo-0.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "PFL MMA",
+                "url": "https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8",
+                "icono": "https://i.postimg.cc/c1cfTwBP/Professional-Fighters-League-Primary-Logo.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "DAZN BOXEO",
+                "url": "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8",
+                "icono": "https://i.postimg.cc/MT9Kf614/MV5BODE5YTY1YTQt-Mj-Bl-Yi00YWVj-LTg4OWQt-YTVj-NGI2NGVh-N2Vm-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "HARD KNOCKS",
+                "url": "https://d3uyzhwvmemdyf.cloudfront.net/v1\\/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8",
+                "icono": "https://i.postimg.cc/V6hPcdqd/HK-Logo-Wiki.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "HBO BOXEO",
+                "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951469/hls/playlist.m3u8?ads.xumo_channelId=99951469&ads.xumo_streamId=99951469&ads.channelId=99951469&ads.channelName=WBDHBOBoxing_us&ads.caid=WBDHBOBoxing&ads.csid=xumo_web_WBDHBOBoxing_ssai&ads._fw_coppa=0&ads.xumo_contentId=4315&ads.xumo_contentName=WBDHBOBoxing&ads.xumo_providerId=4315&ads.xumo_providerName=WBDHBOBoxing&ads._fw_ifa_type=&ads._fw_did=46cdfd64-e3bb-48cb-a44c-2805a97765f0&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay",
+                "icono": "https://i.postimg.cc/kGvBPV25/HBO-Boxing-(2013-stacked)-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ONE CHAMPIONS",
+                "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_channelId=99951530&ads.xumo_streamId=99951530&ads.channelId=99951530&ads.channelName=C15OneChampionship_us&ads.caid=C15OneChampionship&ads.csid=xumo_web_C15OneChampionship_ssai&ads.genre=Sport,Sports,SC&ads._fw_content_genre=Sport,Sports,SC&ads._fw_coppa=0&ads.xumo_contentId=4403&ads.xumo_contentName=C15OneChampionship&ads.xumo_providerId=4403&ads.xumo_providerName=C15OneChampionship&ads._fw_ifa_type=&ads._fw_did=81b487a8-3485-4f6f-a425-b20249bad741&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay",
+                "icono": "https://i.postimg.cc/6QZ6N7SQ/images-VC.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
