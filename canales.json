@@ -1109,6 +1109,102 @@
         ]
     },
     {
+        "name": "AFA EVENTOS ⚽",
+        "samples": [
+            {
+                "name": "LPF PLAY",
+                "url": "https://emitiendoenvivo.com:443/lpf/1.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 1",
+                "url": "https://emitiendoenvivo.com:443/lpf/2.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 2",
+                "url": "https://emitiendoenvivo.com:443\\/lpf/3.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 3",
+                "url": "https://emitiendoenvivo.com:443/lpf/4.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 4",
+                "url": "https://emitiendoenvivo.com:443/lpf/5.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 5",
+                "url": "https://emitiendoenvivo.com:443/lpf/6.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 6",
+                "url": "https://emitiendoenvivo.com:443/lpf/7.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 7",
+                "url": "https://emitiendoenvivo.com:443/lpf/8.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 8",
+                "url": "https://emitiendoenvivo.com:443/lpf/9.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 9",
+                "url": "https://emitiendoenvivo.com:443/lpf/10.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 10",
+                "url": "https://emitiendoenvivo.com:443/lpf/11.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 11",
+                "url": "https://emitiendoenvivo.com:443/lpf/12.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LPF PLAY 12",
+                "url": "https://emitiendoenvivo.com:443/lpf/13.m3u8",
+                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "DEPORTES ESPAÑA ⚽️ 🇪🇸",
         "samples": [
             {
@@ -1238,102 +1334,6 @@
                 "url": "http://181.176.155.7:8090/play/a1pw/index.m3u8",
                 "icono": "https://i.postimg.cc/NMdjj911/ab6765630000ba8acc67bc1893d8ed545e8e949c.jpg",
                 "type": "CLEARKEY",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "AFA EVENTOS ⚽",
-        "samples": [
-            {
-                "name": "LPF PLAY",
-                "url": "https://emitiendoenvivo.com:443/lpf/1.m3u8",
-                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "LPF PLAY 1",
-                "url": "https://emitiendoenvivo.com:443/lpf/2.m3u8",
-                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "LPF PLAY 2",
-                "url": "https://emitiendoenvivo.com:443\\/lpf/3.m3u8",
-                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "LPF PLAY 3",
-                "url": "https://emitiendoenvivo.com:443/lpf/4.m3u8",
-                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "LPF PLAY 4",
-                "url": "https://emitiendoenvivo.com:443/lpf/5.m3u8",
-                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "LPF PLAY 5",
-                "url": "https://emitiendoenvivo.com:443/lpf/6.m3u8",
-                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "LPF PLAY 6",
-                "url": "https://emitiendoenvivo.com:443/lpf/7.m3u8",
-                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "LPF PLAY 7",
-                "url": "https://emitiendoenvivo.com:443/lpf/8.m3u8",
-                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "LPF PLAY 8",
-                "url": "https://emitiendoenvivo.com:443/lpf/9.m3u8",
-                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "LPF PLAY 9",
-                "url": "https://emitiendoenvivo.com:443/lpf/10.m3u8",
-                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "LPF PLAY 10",
-                "url": "https://emitiendoenvivo.com:443/lpf/11.m3u8",
-                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "LPF PLAY 11",
-                "url": "https://emitiendoenvivo.com:443/lpf/12.m3u8",
-                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "LPF PLAY 12",
-                "url": "https://emitiendoenvivo.com:443/lpf/13.m3u8",
-                "icono": "https://i.postimg.cc/wTzDkbSZ/Web-N-play-removebg-preview.png",
-                "type": "HLS",
                 "drm_license_uri": ""
             }
         ]
