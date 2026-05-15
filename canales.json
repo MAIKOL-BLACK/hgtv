@@ -57,6 +57,13 @@
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "si",
+                "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/APP_CHN1/APP_CHN1/transmux/index.mpd",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
