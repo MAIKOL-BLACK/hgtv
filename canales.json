@@ -50,13 +50,6 @@
                 "icono": "https://i.postimg.cc/7PRj5gjy/350-pg-nuevo.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "EVENTOS 1",
-                "url": "https://sam-py-edge06.tigo.com.py/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-                "icono": "https://i.ibb.co/SDFThKNt/Picsart-26-04-14-01-02-19-606.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
