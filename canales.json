@@ -53,7 +53,7 @@
             },
             {
                 "name": "PRUEBA",
-                "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+                "url": "https://sam-py-edge05.tigo.com.py/ccur-session/04e72543c3321d6ac027d5f2ff4ced0dd4727901c431f9d1a98d16804bdd0a51/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
