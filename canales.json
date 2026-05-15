@@ -50,6 +50,13 @@
                 "icono": "https://i.postimg.cc/7PRj5gjy/350-pg-nuevo.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "Eventos 3",
+                "url": "https://183.bozztv.com/ssh101/ssh101/myevents/playlist.m3u8",
+                "icono": "https://i.ibb.co/Tx2jLptV/Imge.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
