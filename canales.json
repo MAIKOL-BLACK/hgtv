@@ -57,13 +57,6 @@
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": "49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7"
-            },
-            {
-                "name": "CC",
-                "url": "https://sam-py-edge05.tigo.com.py/ccur-session/04e72543c3321d6ac027d5f2ff4ced0dd4727901c431f9d1a98d16804bdd0a51/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": "2245f48a5998442f835099d30f2e0305:f48f6ce816fe86d8c10587e9a7e927a3"
             }
         ]
     },
