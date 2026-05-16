@@ -52,13 +52,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "EVENTOS FLOW HD",
-                "url": "https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar",
-                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMAyC2tTzN1xiwK35rBXXi6p1N9XrP7fDQg&s",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "EVENTOS 1 en vivo",
                 "url": "https://sam-py-edge07.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
                 "icono": "https://i.ibb.co/SDFThKNt/Picsart-26-04-14-01-02-19-606.png",
