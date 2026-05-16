@@ -1601,6 +1601,13 @@
                 "icono": "https://i.ibb.co/rR6vM7dD/Picsart-26-04-15-12-19-52-287.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=51710c9c227a4637991466ece1b3550e&key=831bfae1e16f4cc2cda5d620e6d1e96a"
+            },
+            {
+                "name": "TNT SPORT MX",
+                "url": "https://aca-live4-ott.izzigo.tv/6/out/u/dash/TNT-HD-H265/default.mpd",
+                "icono": "https://i.postimg.cc/MKfNHpSk/images-(15).jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=37971d47c9e64d7584058efcfdc424b3&key=9944ecda48ef3d6325ccf89ab32bef83"
             }
         ]
     },
