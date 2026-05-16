@@ -1563,6 +1563,13 @@
                 }
             },
             {
+                "name": "FOX",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
+                "icono": "https://i.postimg.cc/8crTV1LX/fox-broadcasting-company-television-channel-logo-television-show-fox-logo-removebg-preview.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8ec2e6248abe2e10e16e439c9b85ffd8&key=f121b015c2a5197828355fb6a874c297"
+            },
+            {
                 "name": "SKY SPORT EVENTOS 4",
                 "url": "https://zap-live4-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-4-HD/default.mpd",
                 "icono": "https://i.postimg.cc/4yJ7fCFy/channels4-profile-(3).png",
@@ -1587,13 +1594,6 @@
                 "icono": "https://i.postimg.cc/T3Df9qXM/Imagen-2025-08-06T234253-981.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "FOX",
-                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
-                "icono": "https://i.postimg.cc/8crTV1LX/fox-broadcasting-company-television-channel-logo-television-show-fox-logo-removebg-preview.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8ec2e6248abe2e10e16e439c9b85ffd8&key=f121b015c2a5197828355fb6a874c297"
             },
             {
                 "name": "TNT SPORT MX",
