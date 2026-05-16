@@ -78,6 +78,13 @@
                 "icono": "https://i.ibb.co/SDFThKNt/Picsart-26-04-14-01-02-19-606.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "EVENTOS 2 FUNCIONA CON WIFI TIGO",
+                "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+                "icono": "https://i.ibb.co/SDFThKNt/Picsart-26-04-14-01-02-19-606.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
