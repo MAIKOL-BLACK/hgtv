@@ -1594,6 +1594,13 @@
                 "icono": "http://i.ibb.co/9fTRkSF/foxone.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8ec2e6248abe2e10e16e439c9b85ffd8&key=f121b015c2a5197828355fb6a874c297"
+            },
+            {
+                "name": "FOX +",
+                "url": "https://bks400-tol-110.quieroxview.com.mx/bpk-tv/fox_mas_hd/default/index.mpd",
+                "icono": "https://i.ibb.co/rR6vM7dD/Picsart-26-04-15-12-19-52-287.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=51710c9c227a4637991466ece1b3550e&key=831bfae1e16f4cc2cda5d620e6d1e96a"
             }
         ]
     },
