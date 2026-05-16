@@ -1504,18 +1504,18 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=51710c9c227a4637991466ece1b3550e&key=831bfae1e16f4cc2cda5d620e6d1e96a"
             },
             {
-                "name": "FOX ONE EXTRA",
-                "url": "https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee99250598b5/playlist.m3u8",
-                "icono": "https://i.postimg.cc/T3Df9qXM/Imagen-2025-08-06T234253-981.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "FOX",
                 "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
                 "icono": "https://i.postimg.cc/8crTV1LX/fox-broadcasting-company-television-channel-logo-television-show-fox-logo-removebg-preview.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8ec2e6248abe2e10e16e439c9b85ffd8&key=f121b015c2a5197828355fb6a874c297"
+            },
+            {
+                "name": "FOX ONE EXTRA",
+                "url": "https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee99250598b5/playlist.m3u8",
+                "icono": "https://i.postimg.cc/T3Df9qXM/Imagen-2025-08-06T234253-981.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "name": "FOX ONE 2",
