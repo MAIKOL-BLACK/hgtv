@@ -64,6 +64,13 @@
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMAyC2tTzN1xiwK35rBXXi6p1N9XrP7fDQg&s",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "EVENTOS 1 en vivo",
+                "url": "https://sam-py-edge07.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+                "icono": "https://i.ibb.co/SDFThKNt/Picsart-26-04-14-01-02-19-606.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
