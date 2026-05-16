@@ -50,6 +50,13 @@
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "EVENTOS HD 1",
+                "url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMAyC2tTzN1xiwK35rBXXi6p1N9XrP7fDQg&s",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
