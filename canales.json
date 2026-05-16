@@ -1344,6 +1344,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "DAZN FAST",
+                "url": "https://dyqiabnsd224t.cloudfront.net/dash/dazn-linear-504/stream.mpd",
+                "icono": "https://i.ibb.co/fVx2xNJw/image-1.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8ab47741930c476780515f9a00decb0a&key=7ab4b9ae5a48aa526e511a913b832769"
+            },
+            {
                 "name": "DAZN COMBAT",
                 "url": "https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8",
                 "icono": "https://i.postimg.cc/3wZqcmpL/901272.png",
@@ -1377,13 +1384,6 @@
                 "icono": "https://i.ibb.co/MxvWxZyR/channels4-profile-7.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "DAZN FAST",
-                "url": "https://dyqiabnsd224t.cloudfront.net/dash/dazn-linear-504/stream.mpd",
-                "icono": "https://i.ibb.co/fVx2xNJw/image-1.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8ab47741930c476780515f9a00decb0a&key=7ab4b9ae5a48aa526e511a913b832769"
             },
             {
                 "name": "DAZN TV",
