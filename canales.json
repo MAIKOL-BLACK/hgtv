@@ -1587,6 +1587,13 @@
                 "icono": "https://i.ibb.co/vCT26dgL/Picsart-26-04-15-13-07-16-659.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "FOX",
+                "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
+                "icono": "http://i.ibb.co/9fTRkSF/foxone.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8ec2e6248abe2e10e16e439c9b85ffd8&key=f121b015c2a5197828355fb6a874c297"
             }
         ]
     },
