@@ -1398,6 +1398,13 @@
                 "icono": "https://i.ibb.co/PZgcKZLG/DAZN-3.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "DAZN TV",
+                "url": "https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8",
+                "icono": "https://i.ibb.co/230JhLKp/dazn-og-1.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
