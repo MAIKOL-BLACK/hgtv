@@ -1227,6 +1227,13 @@
                 }
             },
             {
+                "name": "SKY SPORT",
+                "url": "https://aca-live4-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd",
+                "icono": "https://i.postimg.cc/xCLBnccJ/sky-sports-vector-logo-small-2021.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=99909032389c6ee41c3d2f3ec829f804&key=41fbc575c8ef1cdac1dca990c9a0df9d"
+            },
+            {
                 "name": "SKY SPORT LA LIGA",
                 "url": "https://aca-live-ott.izzigo.tv/7/out/u/dash/SKY-SPORTS-16-HD-H265\\/default.mpd",
                 "icono": "https://i.postimg.cc/5tJ5Trq8/Sky-Sports-La-Liga.png",
@@ -1244,13 +1251,6 @@
                 "icono": "https://i.postimg.cc/RFDHSpfp/Sky-Sport-Bundesliga.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=d8d5823d92a9ef9306a4cc4bd634b4b4&key=df9fbdaa0ef9e905b75f4692f213af19"
-            },
-            {
-                "name": "SKY SPORT",
-                "url": "https://aca-live4-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd",
-                "icono": "https://i.postimg.cc/xCLBnccJ/sky-sports-vector-logo-small-2021.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=99909032389c6ee41c3d2f3ec829f804&key=41fbc575c8ef1cdac1dca990c9a0df9d"
             },
             {
                 "name": "SKY SPORT HYPERMOTION",
