@@ -1922,6 +1922,18 @@
         ]
     },
     {
+        "name": "PREMIER LEAGUE⚽️",
+        "samples": [
+            {
+                "name": "SKY PREMIER LEAGUE",
+                "url": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_premier_league_hd/dash/sky_sport_premier_league_hd.mpd",
+                "icono": "https://i.postimg.cc/nzgVwdCw/sky-sport-premier-league-logo-png-seeklogo-456293.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=446af6dd9ec0395eaf5ab6adac2b8234&key=a70a5944e51312f5a045b1e81651d033"
+            }
+        ]
+    },
+    {
         "name": "ECUADOR 🇪🇨",
         "samples": [
             {
@@ -1937,18 +1949,6 @@
                 "icono": "https://i.postimg.cc/ZncQs5Dr/Ecuavisa-Logo-2019.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "PREMIER LEAGUE⚽️",
-        "samples": [
-            {
-                "name": "SKY PREMIER LEAGUE",
-                "url": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_premier_league_hd/dash/sky_sport_premier_league_hd.mpd",
-                "icono": "https://i.postimg.cc/nzgVwdCw/sky-sport-premier-league-logo-png-seeklogo-456293.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=446af6dd9ec0395eaf5ab6adac2b8234&key=a70a5944e51312f5a045b1e81651d033"
             }
         ]
     },
