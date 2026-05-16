@@ -1518,6 +1518,13 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8ec2e6248abe2e10e16e439c9b85ffd8&key=f121b015c2a5197828355fb6a874c297"
             },
             {
+                "name": "FOX ONE 2",
+                "url": "http://38.194.226.190:8000/play/a00o/index.m3u8?hls",
+                "icono": "https://i.postimg.cc/T3Df9qXM/Imagen-2025-08-06T234253-981.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "FOX ONE PREMIER",
                 "url": "http://45.5.118.152:8000/play/a08d/index.m3u8",
                 "icono": "https://i.postimg.cc/G3yW635k/Fox-One-Logo.png",
@@ -1530,13 +1537,6 @@
                 "icono": "https://i.postimg.cc/FFTS5mk5/tnt-sports-logo-png-seeklogo-486966.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=37971d47c9e64d7584058efcfdc424b3&key=9944ecda48ef3d6325ccf89ab32bef83"
-            },
-            {
-                "name": "FOX ONE 2",
-                "url": "http://38.194.226.190:8000/play/a00o/index.m3u8?hls",
-                "icono": "https://i.postimg.cc/T3Df9qXM/Imagen-2025-08-06T234253-981.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "CLARO SPORT MX 1",
