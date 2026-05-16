@@ -1228,10 +1228,10 @@
             },
             {
                 "name": "SKY SPORT LA LIGA",
-                "url": "http://200.58.64.244:9000/play/a01h/index.m3u8",
+                "url": "https://aca-live-ott.izzigo.tv/7/out/u/dash/SKY-SPORTS-16-HD-H265\\/default.mpd",
                 "icono": "https://i.postimg.cc/5tJ5Trq8/Sky-Sports-La-Liga.png",
                 "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cb80e1e7d7598eaf98b1dbbe6dc14ee9&key=103ae55c7948ca1d159d6743619d26c4",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=95b52d16d344af539ce9c2c9ff95571a&key=5f035d9c4a178221f89d2439426b2e9a",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
                     "Referer": "https://portal.app.flow.com.py/",
