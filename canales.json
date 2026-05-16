@@ -1282,6 +1282,13 @@
                 }
             },
             {
+                "name": "SKY SPORT",
+                "url": "https://aca-live4-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd",
+                "icono": "https://i.postimg.cc/xCLBnccJ/sky-sports-vector-logo-small-2021.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=99909032389c6ee41c3d2f3ec829f804&key=41fbc575c8ef1cdac1dca990c9a0df9d"
+            },
+            {
                 "name": "LA LIGA HYPERMOTION 4",
                 "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd",
                 "icono": "https://i.postimg.cc/rpY1spLL/image-304-1536x864.png",
@@ -1316,13 +1323,6 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
-            },
-            {
-                "name": "SKY SPORT",
-                "url": "https://aca-live4-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd",
-                "icono": "https://i.postimg.cc/xCLBnccJ/sky-sports-vector-logo-small-2021.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=99909032389c6ee41c3d2f3ec829f804&key=41fbc575c8ef1cdac1dca990c9a0df9d"
             },
             {
                 "name": "LA 1",
