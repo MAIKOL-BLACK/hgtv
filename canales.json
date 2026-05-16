@@ -2095,6 +2095,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "DAZN MOTO GP",
+                "url": "http://domestipo1.online:80/AxelTinico2022/ys6ZU3mV6U/750198.m3u8",
+                "icono": "https://i.postimg.cc/DysVcp2H/motogp-dazn-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "NASCAR",
                 "url": "https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist.m3u8",
                 "icono": "https://i.postimg.cc/sgnJDSN4/nascar-logo-0.png",
@@ -2112,13 +2119,6 @@
                 "name": "GARAGE TV",
                 "url": "https://stream1.sersat.com/hls/garagetv.m3u8",
                 "icono": "https://i.postimg.cc/MTYHq0sK/Garage-TV-2014-1.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "DAZN MOTO GP",
-                "url": "http://domestipo1.online:80/AxelTinico2022/ys6ZU3mV6U/750198.m3u8",
-                "icono": "https://i.postimg.cc/DysVcp2H/motogp-dazn-1.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
