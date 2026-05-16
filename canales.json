@@ -1356,6 +1356,13 @@
                 "icono": "https://i.ibb.co/yBgCDh0H/Picsart-26-04-14-10-11-21-160.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "REAL MADRID TV",
+                "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951381/hls/playlist.m3u8?ads.xumo_channelId=99951381&ads._fw_ifa_type=&ads._fw_did=fee529f1-70d9-4609-8d8a-72767fe4da9e&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=CineverseRealMadrid&ads.csid=xumo_web_CineverseRealMadrid_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_rating=&ads.xumo_contentId=4183&ads.xumo_contentName=CineverseRealMadrid&ads.xumo_providerId=4183&ads.xumo_providerName=CineverseRealMadrid&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951381&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=",
+                "icono": "https://i.ibb.co/MxvWxZyR/channels4-profile-7.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
