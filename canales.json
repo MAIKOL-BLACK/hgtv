@@ -2734,13 +2734,6 @@
         "name": "PREMIER LEAGUE ⚽️",
         "samples": [
             {
-                "name": "NOVA SPORT PREMIER",
-                "url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd",
-                "icono": "https://i.ibb.co/SXD7ZHwL/channels4-profile-6.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=11223344556677889900112233445566&key=11223344556677889900112233445566"
-            },
-            {
                 "name": "Sky premier league",
                 "url": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_premier_league_hd/dash/sky_sport_premier_league_hd.mpd",
                 "icono": "https://i.ibb.co/SXD7ZHwL/channels4-profile-6.jpg",
