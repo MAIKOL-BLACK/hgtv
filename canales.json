@@ -1344,6 +1344,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "DAZN TV",
+                "url": "https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8",
+                "icono": "https://i.postimg.cc/jdS3k8Qp/DAZN-Logo.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "DAZN 3",
                 "url": "http://domestipo1.online:80/AxelTinico2022/ys6ZU3mV6U/155624.m3u8",
                 "icono": "https://i.postimg.cc/JzT6LjK0/dazn-3-logo-png-seeklogo-501040.png",
@@ -1361,13 +1368,6 @@
                 "name": "DAZN COMBAT",
                 "url": "https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8",
                 "icono": "https://i.postimg.cc/0jsRw7Lf/logo-DAZN-Combat.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "DAZN TV",
-                "url": "https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8",
-                "icono": "https://i.postimg.cc/jdS3k8Qp/DAZN-Logo.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
