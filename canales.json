@@ -2473,18 +2473,6 @@
         ]
     },
     {
-        "name": "INFANTILES 👦",
-        "samples": [
-            {
-                "name": "PLIM PLIM",
-                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/np7ipkvvlvy00w8xmcz2d/plimplim.json?rlkey=cstpu2ozeo12ed5ugdwfnalws&st=465tr4hs&dl=0",
-                "icono": "https://i.postimg.cc/3xCZ4XMs/9940-e4b98969-1.webp"
-            }
-        ]
-    },
-    {
         "name": "PREMIER LEAGUE⚽️",
         "samples": [
             {
@@ -2493,6 +2481,18 @@
                 "icono": "https://i.postimg.cc/nzgVwdCw/sky-sport-premier-league-logo-png-seeklogo-456293.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=446af6dd9ec0395eaf5ab6adac2b8234&key=a70a5944e51312f5a045b1e81651d033"
+            }
+        ]
+    },
+    {
+        "name": "INFANTILES 👦",
+        "samples": [
+            {
+                "name": "PLIM PLIM",
+                "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5MDcyNzIxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMjY3ZjAwYzMzZWQ3NTU2ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.RF2YD8Jmz1IVc1xEC9I0eQ-5Q2ubHRbf26kzB4mH-xbmwP4ypO3gf-mibfYV88HitPr_wFnq8fynajdRIdXjqQ==/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/np7ipkvvlvy00w8xmcz2d/plimplim.json?rlkey=cstpu2ozeo12ed5ugdwfnalws&st=465tr4hs&dl=0",
+                "icono": "https://i.postimg.cc/3xCZ4XMs/9940-e4b98969-1.webp"
             }
         ]
     },
