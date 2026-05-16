@@ -1370,6 +1370,13 @@
                 "icono": "https://i.postimg.cc/jdnD33z2/Picsart-26-04-14-15-05-46-870.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "DAZN FAST",
+                "url": "https://dyqiabnsd224t.cloudfront.net/dash/dazn-linear-504/stream.mpd",
+                "icono": "https://i.ibb.co/fVx2xNJw/image-1.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8ab47741930c476780515f9a00decb0a&key=7ab4b9ae5a48aa526e511a913b832769"
             }
         ]
     },
