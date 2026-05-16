@@ -2135,6 +2135,13 @@
                 "icono": "https://i.postimg.cc/pXQH7V6y/images-C.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "DAZN MOTO GP",
+                "url": "http://domestipo1.online:80/AxelTinico2022/ys6ZU3mV6U/750198.m3u8",
+                "icono": "https://i.ibb.co/CKD5f5dR/motogp-dazn.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
