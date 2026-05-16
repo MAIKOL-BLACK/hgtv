@@ -52,13 +52,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "EVENTOS 2",
-                "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a010b0f7e/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-                "icono": "https://i.ibb.co/NgcfWTDW/Picsart-26-04-14-01-04-14-098.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "Eventos 2 opc 2",
                 "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a010b0f7e/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
                 "icono": "https://i.ibb.co/NgcfWTDW/Picsart-26-04-14-01-04-14-098.png",
