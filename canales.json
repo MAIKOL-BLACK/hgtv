@@ -1391,6 +1391,13 @@
                 "icono": "https://i.postimg.cc/c46LBdn6/Image.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "DAZN 3",
+                "url": "http://domestipo1.online:80/AxelTinico2022/ys6ZU3mV6U/155624.m3u8",
+                "icono": "https://i.ibb.co/PZgcKZLG/DAZN-3.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
