@@ -1036,6 +1036,18 @@
         ]
     },
     {
+        "name": "PREMIER LEAGUE⚽️",
+        "samples": [
+            {
+                "name": "SKY PREMIER LEAGUE",
+                "url": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_premier_league_hd/dash/sky_sport_premier_league_hd.mpd",
+                "icono": "https://i.postimg.cc/nzgVwdCw/sky-sport-premier-league-logo-png-seeklogo-456293.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=446af6dd9ec0395eaf5ab6adac2b8234&key=a70a5944e51312f5a045b1e81651d033"
+            }
+        ]
+    },
+    {
         "name": "DEPORTES VARIADOS ⚽️",
         "samples": [
             {
@@ -1208,18 +1220,6 @@
                 "icono": "https://i.postimg.cc/DZx4xDzg/golf-sport-logo-on-white-260nw-2640984363-1.webp",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat\\/api/license.php?keyid=b8df797e071b0ef1f1a238c8ac18ad2d&key=a65bce29cf4bb5390c686ea0cbbbc4cd"
-            }
-        ]
-    },
-    {
-        "name": "PREMIER LEAGUE⚽️",
-        "samples": [
-            {
-                "name": "SKY PREMIER LEAGUE",
-                "url": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_premier_league_hd/dash/sky_sport_premier_league_hd.mpd",
-                "icono": "https://i.postimg.cc/nzgVwdCw/sky-sport-premier-league-logo-png-seeklogo-456293.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=446af6dd9ec0395eaf5ab6adac2b8234&key=a70a5944e51312f5a045b1e81651d033"
             }
         ]
     },
