@@ -1365,6 +1365,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "DAZN TV",
+                "url": "https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8",
+                "icono": "https://i.postimg.cc/jdS3k8Qp/DAZN-Logo.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "MOVISTAR DEPORTES",
                 "url": "http://181.176.155.7:8090/play/a1pw/index.m3u8",
                 "icono": "https://i.postimg.cc/NMdjj911/ab6765630000ba8acc67bc1893d8ed545e8e949c.jpg",
@@ -1382,13 +1389,6 @@
                 "name": "REAL MADRID TV",
                 "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951381/hls/playlist.m3u8?ads.xumo_channelId=99951381&ads._fw_ifa_type=&ads._fw_did=fee529f1-70d9-4609-8d8a-72767fe4da9e&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=CineverseRealMadrid&ads.csid=xumo_web_CineverseRealMadrid_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_rating=&ads.xumo_contentId=4183&ads.xumo_contentName=CineverseRealMadrid&ads.xumo_providerId=4183&ads.xumo_providerName=CineverseRealMadrid&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951381&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=",
                 "icono": "https://i.postimg.cc/Bv0xRb9z/channels4-profile-C.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "DAZN TV",
-                "url": "https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8",
-                "icono": "https://i.postimg.cc/jdS3k8Qp/DAZN-Logo.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
