@@ -2739,6 +2739,20 @@
                 "icono": "https://i.ibb.co/SXD7ZHwL/channels4-profile-6.jpg",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=11223344556677889900112233445566&key=11223344556677889900112233445566"
+            },
+            {
+                "name": "Sky premier league",
+                "url": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_premier_league_hd/dash/sky_sport_premier_league_hd.mpd",
+                "icono": "https://i.ibb.co/SXD7ZHwL/channels4-profile-6.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=446af6dd9ec0395eaf5ab6adac2b8234&key=a70a5944e51312f5a045b1e81651d033"
+            },
+            {
+                "name": "SKY SPORT PREMIER 2",
+                "url": "https://dice-live-oc.akamaized.net/hdntl=exp=1778554610~acl=%2F*~id=97e435b4-3ce7-4c46-9493-4eb5145e7c0c~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODQ2ODI0MCZlaWQ9OTM5OTYyJm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=943880cb6154e8433f66686c76d954cb6b182031128695480b587e23e164d035/dash/live/2093712/219035-321027/manifest-d.mpd",
+                "icono": "https://i.ibb.co/SXD7ZHwL/channels4-profile-6.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=7a2758575dc04d63acc3573ab594d441&key=47071dd80de746a38cdc6a4dcde21abc"
             }
         ]
     }
