@@ -2060,6 +2060,13 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=609d795905904705028ef54653019af7&key=2c791eb611e57a7d7f203022bc1b9ba3"
             },
             {
+                "name": "DAZN MOTO GP",
+                "url": "http://domestipo1.online:80/AxelTinico2022/ys6ZU3mV6U/750198.m3u8",
+                "icono": "https://i.postimg.cc/DysVcp2H/motogp-dazn-1.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "F1 TV",
                 "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
                 "icono": "https://i.postimg.cc/PJLptp0p/images-V.png",
@@ -2070,13 +2077,6 @@
                 "name": "MI COCHE CLÁSICO",
                 "url": "https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8",
                 "icono": "https://i.postimg.cc/CLgny1mk/plantilla-logotipo-coche-clasico-7450-232.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "DAZN MOTO GP",
-                "url": "http://domestipo1.online:80/AxelTinico2022/ys6ZU3mV6U/750198.m3u8",
-                "icono": "https://i.postimg.cc/DysVcp2H/motogp-dazn-1.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
