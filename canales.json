@@ -2216,6 +2216,18 @@
         ]
     },
     {
+        "name": "PREMIER LEAGUE⚽️",
+        "samples": [
+            {
+                "name": "SKY PREMIER LEAGUE",
+                "url": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_premier_league_hd/dash/sky_sport_premier_league_hd.mpd",
+                "icono": "https://i.postimg.cc/nzgVwdCw/sky-sport-premier-league-logo-png-seeklogo-456293.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=446af6dd9ec0395eaf5ab6adac2b8234&key=a70a5944e51312f5a045b1e81651d033"
+            }
+        ]
+    },
+    {
         "name": "TNT UK FHD 🇦🇺",
         "samples": [
             {
@@ -2245,18 +2257,6 @@
                 "icono": "https://i.postimg.cc/3NSQ58NR/82d746a0-bd5f-4963-9c77-9a18bedda691.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=192b1115da041585c77200128549efa1&key=634e10efe4abbb14be400a3ccbac0258"
-            }
-        ]
-    },
-    {
-        "name": "PREMIER LEAGUE⚽️",
-        "samples": [
-            {
-                "name": "SKY PREMIER LEAGUE",
-                "url": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_premier_league_hd/dash/sky_sport_premier_league_hd.mpd",
-                "icono": "https://i.postimg.cc/nzgVwdCw/sky-sport-premier-league-logo-png-seeklogo-456293.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=446af6dd9ec0395eaf5ab6adac2b8234&key=a70a5944e51312f5a045b1e81651d033"
             }
         ]
     },
